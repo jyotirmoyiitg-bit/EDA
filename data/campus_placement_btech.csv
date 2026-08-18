@@ -1,0 +1,1509 @@
+student_id,graduation_year,college_type,branch,gender,cgpa,internships,projects,backlogs,coding_skill,communication_skill,knows_python,placement_status,company_type,package_lpa,job_role
+BT20210001,2021,State University,IT,Female,5.3,3.0,4,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20240002,2024,NIT,ECE,Male,8.31,2.0,1,0,Intermediate,Good,No,Placed,Service,7.61,Software Developer
+BT20240003,2024,Private Engineering College,AIML,Male,7.67,2.0,2,0,Beginner,Good,Yes,Placed,Service,8.24,Data Analyst
+BT20230004,2023,Private Engineering College,CSE,Male,5.55,2.0,2,0,Beginner,Average,No,Placed,Product,13.61,Software Developer
+BT20210005,2021,Private Engineering College,MECH,Male,7.58,0.0,0,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20230006,2023,Private Engineering College,CSE,Male,7.06,0.0,2,0,Advanced,Excellent,Yes,Placed,Service,7.06,QA Engineer
+BT20240007,2024,State University,CSE,Male,5.51,0.0,2,1,Intermediate,Good,Yes,Placed,Product,12.75,Software Developer
+BT20220008,2022,Deemed University,AIML,Male,6.02,0.0,4,1,Advanced,Poor,Yes,Placed,Service,4.54,Data Analyst
+BT20250009,2025,Private Engineering College,ECE,Male,8.16,1.0,1,0,Intermediate,Good,No,Placed,Product,10.72,QA Engineer
+BT20220010,2022,Deemed University,ECE,Female,7.95,0.0,3,1,Beginner,Average,No,Not Placed,NA,,NA
+BT20210011,2021,State University,CIVIL,Male,8.39,2.0,1,0,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20240012,2024,Deemed University,CSE,Male,6.1,0.0,3,0,Beginner,Average,Yes,Placed,Service,5.79,Data Analyst
+BT20250013,2025,NIT,EEE,Male,6.69,0.0,3,1,Intermediate,Good,Yes,Placed,Service,6.53,QA Engineer
+BT20250014,2025,Private Engineering College,MECH,Female,7.45,0.0,3,0,Advanced,Good,No,Placed,Service,3.0,Operations
+BT20230015,2023,NIT,AIML,Female,9.8,0.0,1,0,Intermediate,,No,Placed,Startup,10.44,Software Developer
+BT20220016,2022,Deemed University,CSE,Male,7.6,1.0,4,0,Beginner,Average,Yes,Placed,Product,12.56,Software Developer
+BT20210017,2021,State University,CSE,Male,8.03,4.0,1,0,Advanced,Average,Yes,Placed,Product,12.56,Software Developer
+BT20250018,2025,Deemed University,AIML,Male,6.84,1.0,4,0,Advanced,Good,Yes,Placed,Service,9.26,ML Engineer
+BT20230019,2023,Deemed University,MECH,Male,7.86,1.0,4,0,Advanced,Excellent,Yes,Placed,Service,3.84,Operations
+BT20240020,2024,Private Engineering College,ECE,Male,7.22,2.0,2,0,Intermediate,Average,No,Placed,Service,6.46,QA Engineer
+BT20240021,2024,Deemed University,AIML,Male,8.1,1.0,5,1,Advanced,Average,No,Placed,Product,24.36,Data Analyst
+BT20220022,2022,Deemed University,MECH,Male,6.4,0.0,2,2,,Average,No,not placed,NA,,NA
+BT20210023,2021,State University,CSE,Male,6.48,0.0,4,0,Beginner,Good,Yes,Placed,Service,6.28,Software Developer
+BT20240024,2024,Private Engineering College,MECH,Female,7.08,0.0,4,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20240025,2024,Private Engineering College,CSE,Male,7.03,1.0,1,1,Advanced,Good,Yes,Placed,Service,6.12,Software Developer
+BT20240026,2024,State University,EEE,Male,7.03,1.0,1,0,Intermediate,Average,No,Placed,Service,3.53,Software Developer
+BT20240027,2024,Private Engineering College,CSE,Male,8.2,1.0,4,0,Intermediate,Good,Yes,Placed,Service,8.45,QA Engineer
+BT20220028,2022,NIT,ECE,Male,6.34,1.0,0,1,Intermediate,Average,Yes,Placed,Core,3.56,Embedded Engineer
+BT20230029,2023,Private Engineering College,CSE,Male,5.0,3.0,4,0,Intermediate,Average,Yes,Placed,Service,7.11,Data Analyst
+BT20220030,2022,Private Engineering College,CSE,Male,8.53,1.0,1,0,Advanced,Poor,Yes,Placed,Startup,8.28,Data Analyst
+BT20220031,2022,Private Engineering College,MECH,Female,6.91,1.0,2,1,Advanced,Excellent,No,Not Placed,NA,,NA
+BT20220032,2022,State University,ECE,Male,6.31,2.0,1,0,Beginner,Excellent,No,Placed,Service,5.67,Embedded Engineer
+BT20230033,2023,Private Engineering College,CIVIL,Male,6.91,4.0,6,2,Beginner,Poor,No,Not Placed,NA,,NA
+BT20240034,2024,Private Engineering College,CIVIL,Female,7.64,1.0,4,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20240035,2024,NIT,MECH,Female,7.38,0.0,2,0,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20240036,2024,Deemed University,EEE,Female,8.68,1.0,2,1,Beginner,Average,No,Not Placed,NA,,NA
+BT20230037,2023,Private Engineering College,AIML,Male,7.73,3.0,2,0,Beginner,Average,Yes,Placed,Service,8.44,ML Engineer
+BT20250038,2025,Private Engineering College,MECH,Male,7.07,0.0,4,0,Intermediate,Average,Yes,Placed,Core,5.12,Core Engineer
+BT20230039,2023,Private Engineering College,IT,Female,6.65,3.0,1,2,Intermediate,Poor,No,Placed,Product,12.2,Software Developer
+BT20240040,2024,Deemed University,ECE,Male,6.17,1.0,2,0,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20210041,2021,Private Engineering College,ECE,Male,7.8,2.0,1,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20210042,2021,Private Engineering College,CSE,Female,7.21,0.0,2,0,Beginner,Average,Yes,Placed,Service,4.01,Data Analyst
+BT20220043,2022,Deemed University,ECE,Female,6.3,0.0,4,1,Advanced,Good,Yes,Placed,Service,4.99,Embedded Engineer
+BT20250044,2025,Deemed University,CSE,Female,8.75,1.0,2,-1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20220045,2022,State University,CSE,Male,7.16,3.0,1,0,Intermediate,Good,Yes,Placed,Service,8.49,Software Developer
+BT20210046,2021,Private Engineering College,ECE,Male,7.51,2.0,3,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20240047,2024,Deemed University,EEE,Female,6.69,0.0,3,2,Intermediate,Good,No,Not Placed,NA,,NA
+BT20220048,2022,Deemed University,ECE,Female,6.43,1.0,2,1,Intermediate,Excellent,No,Placed,Service,4.42,Software Developer
+BT20230049,2023,Deemed University,IT,Male,7.41,0.0,2,1,Beginner,Good,No,Placed,Startup,8.35,Software Developer
+BT20250050,2025,Deemed University,AIML,Male,7.84,1.0,1,0,Advanced,Excellent,No,Not Placed,NA,,NA
+BT20240051,2024,Deemed University,CIVIL,Male,8.33,1.0,3,0,Beginner,Excellent,No,Placed,Service,4.82,Core Engineer
+BT20250052,2025,Deemed University,MECH,Female,9.11,1.0,2,0,Intermediate,Average,No,Placed,Core,6.17,Core Engineer
+BT20220053,2022,State University,CSE,Female,6.61,,3,0,Advanced,,No,Placed,Service,6.46,Software Developer
+BT20220054,2022,State University,aiml,Male,7.62,1.0,3,0,Intermediate,,No,Placed,Product,11.9,Software Developer
+BT20210055,2021,Deemed University,MECH,Female,6.2,1.0,2,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20240056,2024,Deemed University,CIVIL,Female,8.2,2.0,2,0,Advanced,Poor,No,Not Placed,NA,,NA
+BT20240057,2024,Private Engineering College,CIVIL,Female,7.98,2.0,3,1,Intermediate,,No,Placed,Service,5.3,Core Engineer
+BT20240058,2024,Deemed University,EEE,Male,8.52,2.0,1,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20240059,2024,Private Engineering College,ECE,Female,5.08,0.0,3,1,Intermediate,Excellent,No,Placed,Core,4.78,QA Engineer
+BT20220060,2022,Private Engineering College,ECE,Male,6.33,4.0,2,1,Beginner,Good,No,Placed,Core,5.97,QA Engineer
+BT20210061,2021,NIT,MECH,Male,6.96,0.0,2,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20220062,2022,Deemed University,CSE,Female,7.21,2.0,2,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20210063,2021,Deemed University,ECE,Female,8.07,0.0,2,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20250064,2025,Deemed University,IT ,Female,6.89,2.0,1,0,Intermediate,Poor,Yes,Placed,Service,7.48,QA Engineer
+BT20240065,2024,Deemed University,CSE,Female,6.3,2.0,2,1,Intermediate,Average,Yes,Placed,Startup,12.37,QA Engineer
+BT20250066,2025,Deemed University,CSE,Female,7.32,1.0,5,0,Beginner,Good,Yes,Placed,Service,10.2,Data Analyst
+BT20230067,2023,Private Engineering College,CSE,Male,7.04,1.0,3,0,Intermediate,Good,Yes,Placed,Product,12.3,Software Developer
+BT20210068,2021,State University,CSE,Male,8.11,1.0,2,0,Beginner,Poor,Yes,Placed,Product,11.14,Software Developer
+BT20220069,2022,Deemed University,CSE,Male,7.99,0.0,2,0,Beginner,Good,Yes,Placed,Service,6.79,QA Engineer
+BT20220070,2022,Private Engineering College,CSE,Male,6.6,2.0,4,0,Intermediate,Average,Yes,Placed,Product,11.91,QA Engineer
+BT20240071,2024,Private Engineering College,IT,Female,5.43,1.0,3,1,Intermediate,Average,Yes,Placed,Service,7.46,Software Developer
+BT20230072,2023,Deemed University,MECH,Female,7.78,2.0,4,0,Intermediate,Good,Yes,Placed,Core,5.71,Operations
+BT20230073,2023,State University,AIML,Male,7.93,0.0,2,0,Advanced,Excellent,No,Placed,Service,5.3,QA Engineer
+BT20240074,2024,Private Engineering College,ECE,Female,6.2,1.0,1,2,Intermediate,Excellent,Yes,Placed,Service,5.07,Core Engineer
+BT20210075,2021,Deemed University,ECE,Male,7.43,0.0,1,0,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20220076,2022,Deemed University,CIVIL,Female,9.73,1.0,1,0,Advanced,Excellent,Yes,Placed,Service,3.99,Analyst
+BT20240077,2024,Deemed University,CSE,Female,7.59,2.0,2,1,Beginner,Average,No,Placed,Service,6.87,Data Analyst
+BT20250078,2025,State University,MECH,Male,7.5,1.0,5,0,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20240079,2024,Private Engineering College,CIVIL,Male,7.59,,5,0,Beginner,Poor,Yes,Not Placed,NA,,NA
+BT20230080,2023,Private Engineering College,CIVIL,Female,7.64,4.0,0,0,Intermediate,Excellent,No,Placed,Core,6.4,Core Engineer
+BT20210081,2021,Deemed University,IT,Female,7.86,1.0,1,0,Intermediate,Average,No,Placed,Service,6.08,Software Developer
+BT20240082,2024,Private Engineering College,AIML,Male,9.36,2.0,0,0,Intermediate,Good,Yes,Placed,Service,11.17,Data Analyst
+BT20240083,2024,Deemed University,CIVIL,Male,8.09,2.0,2,0,Intermediate,Good,No,Placed,Service,4.37,Analyst
+BT20240084,2024,Private Engineering College,AIML,Female,7.46,1.0,2,0,Intermediate,Average,Yes,Placed,Product,15.13,Data Analyst
+BT20210085,2021,NIT,IT,Male,8.41,0.0,2,0,Intermediate,Average,Yes,Placed,Startup,6.6,Software Developer
+BT20250086,2025,Private Engineering College,civil,Female,5.31,4.0,0,0,Intermediate,Good,No,Placed,Core,7.5,Software Developer
+BT20210087,2021,State University,MECH,Female,6.9,0.0,2,1,Intermediate,Average,Yes,Placed,Service,3.11,Analyst
+BT20240088,2024,Deemed University,EEE,Male,7.92,0.0,2,0,Beginner,Average,No,Placed,Service,4.87,Software Developer
+BT20240089,2024,NIT,IT,Male,7.18,2.0,2,0,Intermediate,Good,Yes,Placed,Product,12.08,Software Developer
+BT20240090,2024,Private Engineering College,EEE,Female,7.58,2.0,2,0,Beginner,Average,No,Placed,Core,5.46,QA Engineer
+BT20240091,2024,Deemed University,AIML,Female,7.66,0.0,2,0,Intermediate,Good,Yes,Placed,Service,9.06,Software Developer
+BT20220092,2022,Deemed University,MECH,Male,7.29,0.0,6,0,Intermediate,Average,Yes,Placed,Core,5.05,Operations
+BT20250093,2025,Deemed University,CIVIL,Female,6.78,1.0,7,1,Intermediate,Excellent,Yes,Not Placed,NA,,NA
+BT20240094,2024,State University,IT,Female,7.58,,3,0,Intermediate,Good,Yes,Placed,Startup,10.46,QA Engineer
+BT20230095,2023,NIT,CSE,Male,5.84,2.0,3,0,Advanced,Good,Yes,Placed,Service,6.99,Software Developer
+BT20250096,2025,State University,CSE,Female,5.0,1.0,4,0,,Average,Yes,Not Placed,NA,,NA
+BT20210097,2021,NIT,CSE,Male,7.22,3.0,3,0,Advanced,Average,Yes,Placed,Service,7.63,Software Developer
+BT20210098,2021,NIT,CSE,Male,8.0,2.0,3,0,Intermediate,Average,Yes,Placed,Service,5.9,Software Developer
+BT20230099,2023,Private Engineering College,AIML,Female,6.72,2.0,4,1,Intermediate,Good,No,Placed,Service,6.46,DevOps Engineer
+BT20210100,2021,Deemed University,CSE,Male,7.41,2.0,1,1,Intermediate,Average,Yes,Placed,Service,7.07,Software Developer
+BT20210101,2021,State University,MECH,Male,7.41,,4,0,Advanced,Excellent,Yes,Placed,Core,4.51,Core Engineer
+BT20240102,2024,State University,CIVIL,Female,7.2,0.0,4,0,Intermediate,Average,Yes,Placed,Core,2.4,Core Engineer
+BT20250103,2025,Deemed University,CSE,Male,7.37,0.0,0,0,Intermediate,Poor,Yes,Placed,Service,6.45,Software Developer
+BT20230104,2023,State University,MECH,Male,6.95,2.0,3,1,Intermediate,Average,No,Placed,Service,4.12,Core Engineer
+BT20220105,2022,Private Engineering College,EEE,Female,5.67,1.0,2,0,,Average,No,Placed,Core,5.58,QA Engineer
+BT20230106,2023,State University,CSE,Female,7.18,4.0,4,0,Intermediate,Poor,Yes,Placed,Service,7.41,Software Developer
+BT20210107,2021,Deemed University,IT,Male,6.77,2.0,3,2,Intermediate,Excellent,Yes,Placed,Service,5.12,Software Developer
+BT20240108,2024,Deemed University,MECH,Male,6.53,2.0,2,1,Beginner,Average,No,Placed,Service,4.51,Core Engineer
+BT20230109,2023,Deemed University,AIML,Male,5.88,1.0,0,0,Intermediate,Average,Yes,Placed,Service,7.08,Data Analyst
+BT20230110,2023,Private Engineering College,AIML,Male,7.52,1.0,4,2,Intermediate,Good,Yes,Placed,Service,6.56,ML Engineer
+BT20230111,2023,State University,IT,Male,7.14,1.0,1,0,Advanced,Good,No,Placed,Service,4.97,QA Engineer
+BT20220112,2022,Deemed University,MECH,Male,8.39,0.0,1,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20220113,2022,Deemed University,AIML,Female,6.42,1.0,3,0,Intermediate,Average,Yes,Placed,Product,12.28,Software Developer
+BT20220114,2022,Private Engineering College,EEE,Female,8.79,0.0,2,0,Beginner,Excellent,Yes,Placed,Product,7.92,Embedded Engineer
+BT20220115,2022,Deemed University,CSE,Male,5.1,0.0,0,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20220116,2022,Private Engineering College,ECE,Male,7.59,3.0,4,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20240117,2024,State University,ECE,Male,7.35,1.0,2,0,Advanced,Average,No,Placed,Service,5.13,Software Developer
+BT20240118,2024,Deemed University,ECE,Male,6.65,2.0,4,0,Beginner,Good,No,Placed,Core,6.89,Embedded Engineer
+BT20220119,2022,NIT,ECE,Male,7.27,0.0,1,1,Beginner,Average,No,Not Placed,NA,,NA
+BT20210120,2021,Deemed University,IT,Male,8.39,2.0,3,0,Intermediate,Average,Yes,Placed,Startup,9.76,Data Analyst
+BT20210121,2021,Private Engineering College,AIML,Male,6.2,2.0,2,0,Beginner,Average,Yes,Placed,Product,12.67,ML Engineer
+BT20240122,2024,Private Engineering College,AIML,Female,7.24,2.0,2,0,Intermediate,Excellent,Yes,Placed,Service,8.63,ML Engineer
+BT20210123,2021,Private Engineering College,MECH,Male,7.23,2.0,3,0,Beginner,Average,No,Placed,Service,3.96,Analyst
+BT20240124,2024,State University,AIML,Female,5.83,0.0,1,1,Beginner,Good,No,Not Placed,NA,,NA
+BT20220125,2022,Private Engineering College,ECE ,Male,7.47,1.0,2,0,Beginner,Average,Yes,Placed,Core,5.08,Software Developer
+BT20230126,2023,Private Engineering College,CSE,Male,7.27,1.0,2,0,Intermediate,Good,Yes,Placed,Service,9.04,QA Engineer
+BT20240127,2024,Deemed University,CSE,Female,6.74,1.0,2,0,Beginner,Excellent,Yes,Placed,Service,9.18,QA Engineer
+BT20210128,2021,Deemed University,CIVIL,Female,7.42,2.0,2,0,Intermediate,Average,Yes,Placed,Service,4.19,Core Engineer
+BT20220129,2022,Private Engineering College,CSE,Female,5.68,0.0,0,0,Advanced,Excellent,Yes,Placed,Product,10.87,Data Analyst
+BT20240130,2024,Private Engineering College,CSE,Female,6.98,0.0,1,1,Intermediate,Excellent,Yes,Placed,Service,7.97,Software Developer
+BT20230131,2023,Private Engineering College,CIVIL,Male,9.56,0.0,2,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20240132,2024,Deemed University,EEE,Female,7.19,3.0,4,0,Intermediate,Excellent,Yes,Placed,Service,4.7,Software Developer
+BT20230133,2023,Private Engineering College,ECE,Female,8.08,2.0,2,0,Intermediate,Excellent,No,Placed,Service,4.74,Embedded Engineer
+BT20230134,2023,Private Engineering College,ECE,Male,7.74,2.0,1,0,Beginner,Average,No,Placed,Service,6.86,Embedded Engineer
+BT20250135,2025,NIT,MECH,Male,5.56,2.0,4,1,Beginner,Good,No,Not Placed,NA,,NA
+BT20220136,2022,Deemed University,AIML,Female,6.36,2.0,1,0,Beginner,Good,Yes,Placed,Service,7.1,ML Engineer
+BT20250137,2025,State University,ECE,Male,7.46,3.0,2,1,Advanced,Average,Yes,Placed,Service,8.36,Software Developer
+BT20220138,2022,Deemed University,ECE,Female,6.48,0.0,2,2,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20250139,2025,Private Engineering College,ECE,Female,7.49,1.0,0,0,Intermediate,Excellent,Yes,Placed,Core,7.1,Core Engineer
+BT20210140,2021,State University,EEE,Male,7.67,0.0,1,0,Beginner,Average,Yes,Placed,Service,4.11,Software Developer
+BT20240141,2024,Deemed University,CSE,Female,5.61,3.0,3,0,Intermediate,Average,Yes,Placed,Service,6.66,QA Engineer
+BT20240142,2024,Private Engineering College,AIML,Male,8.51,4.0,4,0,Beginner,Poor,Yes,Placed,Service,9.63,Data Analyst
+BT20240143,2024,Deemed University,MECH,Female,7.07,2.0,8,0,Advanced,Average,No,Placed,Service,4.84,Software Developer
+BT20220144,2022,Private Engineering College,AIML,Female,6.96,0.0,3,0,Intermediate,Good,Yes,Placed,Service,5.84,Data Scientist
+BT20230145,2023,Private Engineering College,CSE,Male,8.44,0.0,2,1,Advanced,Excellent,No,Placed,Service,6.73,Software Developer
+BT20250146,2025,Private Engineering College,EEE,Male,6.23,1.0,2,2,Beginner,Average,No,placed,Service,5.47,QA Engineer
+BT20230147,2023,Deemed University,MECH,Male,6.82,2.0,2,0,Intermediate,Average,Yes,Placed,Service,5.94,Operations
+BT20230148,2023,State University,CSE,Male,6.94,1.0,1,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20210149,2021,NIT,CIVIL,Female,8.06,2.0,2,0,Advanced,Average,No,not placed,NA,,NA
+BT20210150,2021,Deemed University,CIVIL,Female,7.1,0.0,3,0,Beginner,Average,Yes,NotPlaced,NA,,NA
+BT20220151,2022,Private Engineering College,CSE,Female,6.8,2.0,0,3,Intermediate,,Yes,Not Placed,NA,,NA
+BT20220152,2022,Private Engineering College,CIVIL,Male,7.77,0.0,1,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20220153,2022,Deemed University,CSE,Male,7.26,1.0,3,2,Intermediate,Average,Yes,Placed,Startup,10.45,Software Developer
+BT20240154,2024,Private Engineering College,EEE,Female,6.74,1.0,3,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20240155,2024,Private Engineering College,IT,Female,8.56,3.0,3,0,Beginner,Average,Yes,Placed,Service,8.42,DevOps Engineer
+BT20220156,2022,Deemed University,IT,Male,6.61,0.0,2,0,Beginner,Poor,Yes,Placed,Service,5.76,Software Developer
+BT20220157,2022,Deemed University,CSE,Female,8.98,2.0,3,0,Advanced,Average,No,Placed,Startup,11.91,DevOps Engineer
+BT20210158,2021,Private Engineering College,ECE,Male,6.56,1.0,1,1,Intermediate,Excellent,Yes,Placed,Service,3.36,Embedded Engineer
+BT20230159,2023,Private Engineering College,IT,Male,7.63,,2,0,Beginner,Excellent,Yes,Placed,Product,12.9,Software Developer
+BT20230160,2023,State University,MECH,Female,7.44,1.0,3,0,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20250161,2025,Deemed University,ECE,Male,7.92,0.0,2,0,Beginner,Excellent,No,Placed,Service,7.63,Core Engineer
+BT20210162,2021,Deemed University,ECE,Male,8.65,0.0,1,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20210163,2021,Private Engineering College,ECE,Male,6.85,0.0,2,1,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20220164,2022,Deemed University,CSE,Female,6.87,3.0,2,0,Beginner,Average,Yes,Placed,Service,7.61,Software Developer
+BT20250165,2025,Deemed University,ECE,Female,6.45,0.0,4,0,Intermediate,Average,No,Placed,Service,4.41,Core Engineer
+BT20250166,2025,State University,EEE,Male,7.06,0.0,5,0,Beginner,Good,No,Placed,Core,4.71,Software Developer
+BT20240167,2024,Private Engineering College,EEE,Male,8.34,4.0,3,0,Intermediate,Good,No,Placed,Service,7.38,Software Developer
+BT20210168,2021,State University,MECH,Female,5.99,1.0,0,0,Beginner,Average,No,Placed,Startup,5.37,Software Developer
+BT20230169,2023,Deemed University,EEE,Female,7.28,0.0,4,0,Beginner,Average,Yes,Placed,Service,5.22,Software Developer
+BT20220170,2022,Deemed University,ECE,Female,6.07,2.0,0,2,Beginner,Good,No,placed,Service,4.67,QA Engineer
+BT20230171,2023,Private Engineering College,aiml,Female,6.34,0.0,2,0,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20240172,2024,State University,AIML,Female,7.3,2.0,1,0,Intermediate,,Yes,Placed,Service,8.18,Data Scientist
+BT20240173,2024,Private Engineering College,CSE,Female,7.28,1.0,0,0,Intermediate,Excellent,Yes,Placed,Product,13.02,Software Developer
+BT20220174,2022,Deemed University,EEE,Male,7.67,0.0,7,0,Beginner,Poor,No,Not Placed,NA,,NA
+BT20250175,2025,Deemed University,ECE,Female,6.4,0.0,2,-1,Beginner,Good,No,Placed,Service,4.92,Software Developer
+BT20240176,2024,Deemed University,ECE,Male,7.1,1.0,3,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20240177,2024,State University,IT,Male,7.32,1.0,1,0,Intermediate,Poor,Yes,Placed,Product,11.29,Software Developer
+BT20250178,2025,NIT,CSE,Female,7.04,3.0,4,0,Intermediate,Poor,Yes,Placed,Product,16.41,Data Analyst
+BT20210179,2021,Deemed University,IT,Female,8.3,1.0,4,1,Beginner,Excellent,Yes,Placed,Product,12.1,Software Developer
+BT20210180,2021,State University,CIVIL,Male,8.19,0.0,0,0,Beginner,Poor,Yes,Placed,Service,2.61,Software Developer
+BT20220181,2022,State University,IT,Male,5.82,1.0,0,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20250182,2025,Private Engineering College,AIML,Male,10.4,0.0,1,1,Intermediate,Good,Yes,Placed,Product,15.0,ML Engineer
+BT20220183,2022,Private Engineering College,ECE,Female,6.62,0.0,3,0,Intermediate,Good,Yes,Placed,Core,5.52,Embedded Engineer
+BT20220184,2022,Private Engineering College,ECE,Male,7.67,2.0,3,0,Intermediate,Excellent,No,Placed,Product,11.03,Core Engineer
+BT20220185,2022,Deemed University,CIVIL,Male,6.85,1.0,6,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20240186,2024,Deemed University,CSE,Male,5.6,1.0,4,0,Intermediate,Poor,No,NotPlaced,NA,,NA
+BT20230187,2023,Private Engineering College,ECE,Female,6.56,1.0,1,1,Beginner,Poor,No,Not Placed,NA,,NA
+BT20250188,2025,Private Engineering College,AIML,Female,6.91,2.0,0,0,Advanced,Good,No,Placed,Product,18.09,QA Engineer
+BT20220189,2022,NIT,AIML ,Female,5.68,0.0,3,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20210190,2021,Private Engineering College,CIVIL,Male,8.15,2.0,3,0,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20220191,2022,Private Engineering College,MECH,Female,7.26,2.0,0,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20210192,2021,Deemed University,EEE,Female,7.9,4.0,4,0,Intermediate,Average,Yes,Placed,Core,4.96,Software Developer
+BT20210193,2021,Private Engineering College,CSE,Female,8.54,1.0,4,0,Intermediate,Good,No,Placed,Service,7.42,QA Engineer
+BT20230194,2023,Deemed University,ECE,Female,5.91,2.0,3,3,Advanced,Average,No,Placed,Service,5.46,Software Developer
+BT20210195,2021,NIT,AIML,Male,6.93,1.0,5,0,Advanced,Average,Yes,Placed,Product,12.11,Software Developer
+BT20250196,2025,Deemed University,AIML,Male,7.77,1.0,1,0,Beginner,Good,Yes,Placed,Service,8.56,Data Analyst
+BT20220197,2022,State University,AIML,Female,6.83,2.0,4,0,Advanced,Good,Yes,Placed,Product,12.13,Software Developer
+BT20210198,2021,Deemed University,ECE,Male,7.7,0.0,0,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20240199,2024,Deemed University,CSE,Male,7.84,0.0,1,1,Beginner,Excellent,No,Placed,Startup,12.48,Software Developer
+BT20220200,2022,Private Engineering College,IT,Male,6.18,0.0,3,1,Beginner,Good,Yes,Placed,Service,6.36,Software Developer
+BT20220201,2022,Deemed University,ECE,Male,5.58,0.0,3,0,Beginner,Average,No,Placed,Service,4.05,Core Engineer
+BT20250202,2025,Private Engineering College,AIML,Male,6.31,4.0,6,3,Intermediate,Good,No,Placed,Service,9.88,Data Analyst
+BT20220203,2022,NIT,EEE,Male,7.83,0.0,2,0,Beginner,Excellent,Yes,Placed,Product,6.31,Software Developer
+BT20220204,2022,Deemed University,IT,Male,7.61,1.0,2,0,Beginner,Good,Yes,Placed,Service,5.73,Data Analyst
+BT20230205,2023,NIT,MECH,Male,8.43,0.0,2,0,Advanced,Average,No,Placed,Startup,5.44,Core Engineer
+BT20240206,2024,Deemed University,AIML,Male,6.98,2.0,2,0,Beginner,Average,Yes,Placed,Product,15.58,Data Scientist
+BT20220207,2022,Deemed University,ECE,Male,7.37,,2,0,Advanced,Good,No,Placed,Core,5.04,Software Developer
+BT20240208,2024,Private Engineering College,CIVIL,Male,9.8,1.0,2,0,Advanced,Average,No,Placed,Core,4.96,Operations
+BT20240209,2024,Deemed University,AIML,Male,7.44,1.0,3,0,Beginner,Average,Yes,Placed,Startup,11.13,Software Developer
+BT20240210,2024,Private Engineering College,AIML,Male,5.39,0.0,1,1,Beginner,Excellent,Yes,Placed,Service,7.99,Software Developer
+BT20220211,2022,State University,CSE,Female,7.95,0.0,2,0,Advanced,Good,Yes,Placed,Product,11.91,Software Developer
+BT20250212,2025,Private Engineering College,EEE,Male,6.75,3.0,3,0,Intermediate,Good,No,Placed,Service,5.14,Embedded Engineer
+BT20220213,2022,Private Engineering College,CSE,Male,7.7,0.0,4,0,Beginner,Average,Yes,Placed,Product,12.04,Software Developer
+BT20250214,2025,Deemed University,ECE,Female,5.37,0.0,5,0,Intermediate,Excellent,No,Placed,Service,5.64,Software Developer
+BT20250215,2025,Deemed University,AIML,Male,6.77,1.0,2,0,Beginner,Average,Yes,Placed,Service,8.14,Data Scientist
+BT20220216,2022,Deemed University,ECE,Male,6.15,0.0,5,0,Beginner,Poor,Yes,not placed,NA,,NA
+BT20240217,2024,Private Engineering College,CSE,Male,8.43,0.0,2,0,Beginner,Good,Yes,Placed,Service,6.49,Software Developer
+BT20220218,2022,Private Engineering College,AIML,Male,5.8,0.0,1,3,Intermediate,Good,No,Not Placed,NA,,NA
+BT20210219,2021,Private Engineering College,EEE,Male,7.34,0.0,4,0,Advanced,Good,Yes,Placed,Service,2.4,Software Developer
+BT20220220,2022,Private Engineering College,EEE,Male,8.39,1.0,5,0,Beginner,Good,Yes,Placed,Core,5.26,Embedded Engineer
+BT20240221,2024,Deemed University,CSE,Male,6.81,1.0,2,1,Intermediate,Excellent,Yes,Placed,Product,14.47,Software Developer
+BT20230222,2023,Deemed University,MECH,Male,8.0,,4,1,Intermediate,Good,No,Placed,Service,4.48,Software Developer
+BT20220223,2022,Private Engineering College,AIML,Female,6.31,3.0,2,0,Intermediate,Good,No,Placed,Service,7.85,Software Developer
+BT20240224,2024,Private Engineering College,CSE,Female,6.24,1.0,1,0,Intermediate,Average,Yes,Placed,Service,8.22,Software Developer
+BT20240225,2024,State University,CSE,Male,6.53,0.0,3,1,Beginner,Average,Yes,Placed,Service,4.53,Data Analyst
+BT20230226,2023,Private Engineering College,MECH,Male,7.97,3.0,4,0,Beginner,Good,Yes,Placed,Core,5.77,Software Developer
+BT20250227,2025,Deemed University,CIVIL,Male,6.82,1.0,3,0,Intermediate,Average,No,Placed,Service,3.76,Core Engineer
+BT20210228,2021,Deemed University,EEE,Female,7.49,0.0,0,0,Beginner,Average,No,not placed,NA,,NA
+BT20250229,2025,Deemed University,ECE,Female,6.57,2.0,1,1,Intermediate,Good,No,Placed,Service,6.41,Core Engineer
+BT20210230,2021,Deemed University,CSE,Female,6.35,0.0,2,0,Beginner,Average,No,Placed,Service,5.88,QA Engineer
+BT20250231,2025,Private Engineering College,ECE,Female,7.73,3.0,2,0,Advanced,Average,No,Placed,Service,7.19,Core Engineer
+BT20240232,2024,State University,CSE,Male,9.17,,0,0,Intermediate,Good,Yes,Placed,Service,7.6,Software Developer
+BT20220233,2022,Deemed University,CIVIL,Male,7.16,1.0,4,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20240234,2024,Deemed University,MECH,Female,7.67,1.0,2,0,Advanced,Excellent,Yes,Placed,Service,5.84,Operations
+BT20220235,2022,Private Engineering College,CSE,Female,7.18,0.0,4,1,Advanced,,Yes,Placed,Product,9.51,QA Engineer
+BT20210236,2021,Private Engineering College,AIML,Female,8.59,3.0,1,0,Beginner,Average,Yes,Placed,Service,7.02,ML Engineer
+BT20230237,2023,State University,CSE,Male,6.92,0.0,2,1,Beginner,Good,Yes,Placed,Service,5.98,Software Developer
+BT20240238,2024,Deemed University,IT,Female,7.58,3.0,2,1,Advanced,,Yes,Placed,Service,7.99,Software Developer
+BT20250239,2025,Deemed University,CSE,Male,7.73,0.0,2,0,Beginner,Average,Yes,Placed,Startup,11.67,DevOps Engineer
+BT20230240,2023,Private Engineering College,ECE,Female,8.12,0.0,1,0,Advanced,Excellent,Yes,Placed,Service,4.76,Software Developer
+BT20210241,2021,Private Engineering College,CIVIL,Female,6.96,1.0,1,1,Intermediate,Average,No,Placed,Service,2.86,Core Engineer
+BT20250242,2025,State University,AIML,Male,7.02,0.0,3,0,Advanced,Average,Yes,Placed,Startup,11.69,Software Developer
+BT20210243,2021,Private Engineering College,AIML,Male,7.73,1.0,2,0,Advanced,Good,Yes,Placed,Service,6.68,Data Analyst
+BT20210244,2021,Deemed University,IT ,Female,8.36,1.0,2,0,Intermediate,Average,Yes,Placed,Product,11.1,Software Developer
+BT20230245,2023,NIT,ECE,Female,6.2,2.0,3,2,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20240246,2024,Deemed University,ECE,Male,5.1,0.0,2,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20230247,2023,Private Engineering College,CSE,Female,6.56,0.0,2,1,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20240248,2024,Deemed University,CSE,Female,7.43,1.0,1,0,Advanced,Good,No,Placed,Service,8.0,Software Developer
+BT20210249,2021,Private Engineering College,AIML,Female,7.56,0.0,2,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20250250,2025,Private Engineering College,EEE,Male,8.18,0.0,2,0,Intermediate,Average,Yes,Placed,Product,8.79,Software Developer
+BT20220251,2022,Private Engineering College,CIVIL,Female,5.5,2.0,1,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20220252,2022,Deemed University,CSE,Female,7.43,0.0,1,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20210253,2021,Private Engineering College,AIML,Female,7.69,0.0,1,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20220254,2022,Private Engineering College,CIVIL,Male,7.49,1.0,2,0,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20240255,2024,Deemed University,CSE,Male,7.57,3.0,3,0,Beginner,Good,No,Placed,Service,9.93,Software Developer
+BT20210256,2021,State University,MECH,Male,5.53,1.0,1,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20220257,2022,Private Engineering College,CIVIL,Male,8.95,1.0,1,0,Beginner,Good,Yes,Placed,Core,6.09,Core Engineer
+BT20240258,2024,State University,AIML,Male,5.0,3.0,1,0,Beginner,Good,Yes,Placed,Product,15.02,Data Analyst
+BT20250259,2025,Private Engineering College,CSE,Male,5.0,2.0,1,1,Intermediate,Excellent,Yes,Placed,Startup,11.55,Data Analyst
+BT20210260,2021,Private Engineering College,EEE,Male,7.07,1.0,0,0,Beginner,Average,No,Placed,Core,5.47,QA Engineer
+BT20250261,2025,NIT,AIML,Male,6.73,1.0,2,0,Beginner,Average,Yes,Placed,Service,7.79,ML Engineer
+BT20250262,2025,NIT,MECH,Male,6.59,1.0,4,0,Beginner,Good,No,Placed,Core,5.75,Core Engineer
+BT20250263,2025,Deemed University,IT,Male,7.56,2.0,4,0,Beginner,Average,No,Placed,Startup,11.27,Software Developer
+BT20230264,2023,Private Engineering College,CSE,Male,6.87,0.0,2,0,Advanced,Average,Yes,Placed,Startup,9.3,Software Developer
+BT20250265,2025,Deemed University,EEE,Male,5.49,1.0,2,1,Intermediate,Average,No,Placed,Service,6.68,Embedded Engineer
+BT20240266,2024,State University,AIML,Female,5.73,1.0,2,0,Beginner,Good,Yes,Placed,Service,7.62,Software Developer
+BT20240267,2024,State University,CSE,Female,5.9,1.0,2,0,Intermediate,Excellent,Yes,Placed,Service,7.03,Data Analyst
+BT20220268,2022,Deemed University,IT,Male,7.14,1.0,2,0,Intermediate,Good,Yes,Placed,Service,3.85,Software Developer
+BT20250269,2025,State University,CSE,Male,6.51,3.0,3,1,Advanced,Average,Yes,Placed,Startup,14.33,Software Developer
+BT20240270,2024,Private Engineering College,CSE,Male,6.07,0.0,2,1,Beginner,Average,No,Not Placed,NA,,NA
+BT20230271,2023,Deemed University,IT,Female,6.65,1.0,1,0,Intermediate,Good,Yes,Placed,Product,10.31,Software Developer
+BT20230272,2023,Private Engineering College,AIML,Male,6.73,1.0,2,1,Beginner,Average,Yes,Placed,Service,8.41,Data Analyst
+BT20210273,2021,Deemed University,EEE,Male,7.06,1.0,6,0,Intermediate,,Yes,Placed,Core,4.61,Embedded Engineer
+BT20220274,2022,State University,CSE,Male,7.1,1.0,1,0,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20250275,2025,Deemed University,CIVIL,Male,6.28,0.0,3,1,Beginner,Average,Yes,Placed,Startup,7.69,Operations
+BT20210276,2021,Private Engineering College,AIML,Male,8.22,1.0,3,0,Intermediate,Average,Yes,Placed,Product,12.0,Software Developer
+BT20250277,2025,Deemed University,CIVIL,Male,6.98,1.0,7,0,Intermediate,Good,No,Placed,Service,3.95,Operations
+BT20230278,2023,NIT,ECE,Female,6.51,3.0,3,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20230279,2023,Deemed University,AIML,Male,5.81,2.0,0,0,Advanced,Good,Yes,Placed,Service,6.95,ML Engineer
+BT20250280,2025,State University,ECE,Male,7.93,0.0,2,0,Intermediate,Good,No,Placed,Core,6.29,QA Engineer
+BT20240281,2024,Deemed University,EEE,Female,8.01,3.0,1,0,Beginner,Good,No,Placed,Service,5.03,Embedded Engineer
+BT20240282,2024,Deemed University,MECH,Male,7.49,2.0,1,1,Intermediate,Average,No,Placed,Service,4.41,Core Engineer
+BT20220283,2022,Deemed University,CSE,Female,8.39,0.0,4,0,Intermediate,Poor,Yes,Placed,Product,11.04,Data Analyst
+BT20210284,2021,Private Engineering College,CSE  ,Male,7.18,0.0,3,0,Intermediate,Good,Yes,Placed,Service,4.21,Software Developer
+BT20210285,2021,Private Engineering College,AIML,Female,7.07,0.0,1,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20220286,2022,Private Engineering College,MECH,Male,6.84,0.0,2,1,Beginner,Average,No,Not Placed,NA,,NA
+BT20210287,2021,State University,CIVIL,Female,8.7,1.0,2,0,Advanced,Average,No,Placed,Service,3.87,Core Engineer
+BT20230288,2023,Private Engineering College,AIML,Male,8.12,3.0,2,0,Intermediate,Good,Yes,Placed,Product,18.9,Data Analyst
+BT20250289,2025,Deemed University,IT,Male,7.25,1.0,0,1,Intermediate,Poor,Yes,Placed,Product,13.39,Software Developer
+BT20220290,2022,Private Engineering College,CIVIL,Male,6.93,1.0,1,1,Intermediate,Good,Yes,Placed,Service,4.46,Analyst
+BT20220291,2022,NIT,EEE,Female,8.11,3.0,4,0,Intermediate,Poor,Yes,Placed,Core,4.96,QA Engineer
+BT20210292,2021,Deemed University,MECH,Male,9.8,2.0,2,0,Beginner,Good,No,Placed,Service,5.04,Software Developer
+BT20230293,2023,Private Engineering College,CIVIL,Male,5.72,1.0,2,1,Intermediate,Average,No,Placed,Core,2.71,Software Developer
+BT20230294,2023,NIT,AIML,Male,7.51,0.0,2,0,Advanced,Average,Yes,Placed,Service,6.97,Data Scientist
+BT20210295,2021,NIT,CIVIL,Female,8.28,1.0,3,0,Beginner,Excellent,Yes,Placed,Core,5.05,Software Developer
+BT20240296,2024,NIT,AIML,Male,6.53,1.0,2,1,Beginner,Good,Yes,Placed,Service,8.65,ML Engineer
+BT20220297,2022,NIT,MECH,Male,7.27,0.0,1,1,Intermediate,Average,Yes,Placed,Core,3.82,Analyst
+BT20210298,2021,Deemed University,AIML,Female,6.74,1.0,3,0,Intermediate,Excellent,Yes,Not Placed,NA,,NA
+BT20220299,2022,Deemed University,CSE,Male,7.22,0.0,3,0,Advanced,Good,Yes,Placed,Service,7.17,Software Developer
+BT20220300,2022,Deemed University,CSE,Male,8.67,1.0,2,1,Beginner,Excellent,Yes,Placed,Service,7.81,Software Developer
+BT20220301,2022,Private Engineering College,AIML,Male,7.18,2.0,4,0,Intermediate,Average,Yes,Placed,Product,13.76,Data Scientist
+BT20240302,2024,Private Engineering College,AIML,Male,8.11,1.0,2,0,Beginner,Average,No,Placed,Product,14.16,Software Developer
+BT20210303,2021,Private Engineering College,CIVIL,Female,7.12,1.0,4,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20210304,2021,Deemed University,ECE,Male,7.02,2.0,2,1,Intermediate,Good,Yes,Placed,Service,5.83,Core Engineer
+BT20240305,2024,Private Engineering College,EEE,Male,7.92,,2,0,Beginner,Good,No,Placed,Product,10.82,Software Developer
+BT20220306,2022,Deemed University,IT,Male,6.44,0.0,1,1,Advanced,Good,Yes,Placed,Startup,7.52,Data Analyst
+BT20220307,2022,Private Engineering College,CIVIL,Male,6.21,0.0,3,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20210308,2021,Deemed University,EEE,Female,7.49,3.0,3,0,Intermediate,Average,No,Placed,Service,5.39,Software Developer
+BT20240309,2024,NIT,CSE,Female,7.38,0.0,4,1,Beginner,Good,Yes,Placed,Service,7.82,Software Developer
+BT20210310,2021,Deemed University,MECH,Male,7.07,3.0,3,0,Advanced,Poor,Yes,Not Placed,NA,,NA
+BT20250311,2025,Private Engineering College,CIVIL,Male,7.52,0.0,4,1,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20250312,2025,NIT,EEE,Female,7.6,0.0,4,0,Intermediate,Good,Yes,Placed,Product,7.63,Software Developer
+BT20240313,2024,NIT,CIVIL,Female,5.46,1.0,5,0,Beginner,Poor,No,Not Placed,NA,,NA
+BT20210314,2021,Deemed University,EEE,Female,8.22,2.0,7,0,Advanced,Good,No,Placed,Service,4.87,Software Developer
+BT20240315,2024,Private Engineering College,ECE,Female,7.65,1.0,2,0,Intermediate,Good,No,Placed,Service,5.62,Software Developer
+BT20240316,2024,NIT,MECH,Male,8.45,0.0,2,0,Intermediate,Average,Yes,Placed,Core,3.2,Core Engineer
+BT20250317,2025,Deemed University,CSE,Male,7.37,1.0,3,0,Advanced,Excellent,Yes,Placed,Product,15.03,QA Engineer
+BT20230318,2023,Deemed University,ECE,Male,7.29,2.0,3,0,Intermediate,Average,Yes,placed,Service,6.83,Software Developer
+BT20210319,2021,Deemed University,AIML,Male,7.98,2.0,1,0,Beginner,Excellent,Yes,Placed,Service,7.58,ML Engineer
+BT20240320,2024,Private Engineering College,MECH,Male,8.98,0.0,2,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20230321,2023,Deemed University,ECE,Male,8.39,3.0,1,0,Intermediate,Good,Yes,Placed,Core,6.51,QA Engineer
+BT20210322,2021,Deemed University,AIML,Male,6.91,1.0,4,0,Advanced,Poor,Yes,Placed,Service,6.88,Data Analyst
+BT20220323,2022,Deemed University,IT,Male,6.89,1.0,2,0,Intermediate,Average,Yes,Placed,Service,4.93,Software Developer
+BT20230324,2023,Deemed University,IT,Male,5.27,1.0,2,1,Intermediate,Good,Yes,Placed,Startup,9.15,Software Developer
+BT20250325,2025,Private Engineering College,CSE,Female,6.89,1.0,5,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20230326,2023,State University,MECH,Female,9.48,0.0,1,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20230327,2023,Deemed University,CIVIL,Female,7.89,1.0,2,0,Intermediate,,Yes,Not Placed,NA,,NA
+BT20250328,2025,State University,MECH,Male,8.74,1.0,0,0,Advanced,Good,No,Placed,Service,5.33,Core Engineer
+BT20210329,2021,Deemed University,MECH,Male,7.7,0.0,5,0,Intermediate,Excellent,No,Placed,Service,4.39,Core Engineer
+BT20230330,2023,Deemed University,CSE,Female,6.92,1.0,0,1,Beginner,Good,Yes,Placed,Service,7.99,Software Developer
+BT20210331,2021,Deemed University,CSE,Male,5.0,2.0,2,1,Advanced,Good,Yes,Not Placed,NA,,NA
+BT20240332,2024,Deemed University,CIVIL,Male,8.31,0.0,3,0,Intermediate,Average,No,Placed,Service,3.66,Core Engineer
+BT20250333,2025,Deemed University,AIML,Male,7.82,0.0,3,0,Beginner,Excellent,Yes,Placed,Service,8.33,ML Engineer
+BT20210334,2021,Private Engineering College,EEE,Female,7.1,0.0,5,0,Beginner,Average,Yes,Placed,Core,4.91,Core Engineer
+BT20210335,2021,Private Engineering College,CIVIL,Male,7.01,2.0,2,1,Intermediate,Average,No,Placed,Core,4.35,Software Developer
+BT20230336,2023,Private Engineering College,EEE,Male,5.87,2.0,2,0,Advanced,Average,No,Not Placed,NA,,NA
+BT20210337,2021,Private Engineering College,ECE,Male,6.64,1.0,1,1,Intermediate,Average,No,Placed,Service,5.33,Software Developer
+BT20230338,2023,Private Engineering College,IT,Male,7.91,0.0,1,0,Intermediate,,Yes,Placed,Service,5.1,QA Engineer
+BT20210339,2021,Private Engineering College,IT,Female,6.5,1.0,0,1,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20210340,2021,NIT,IT,Male,6.62,1.0,2,0,Beginner,Excellent,Yes,Placed,Service,6.8,Software Developer
+BT20210341,2021,Deemed University,CSE,Male,8.1,1.0,0,0,Beginner,Good,Yes,Placed,Service,6.58,Software Developer
+BT20250342,2025,Private Engineering College,MECH,Male,6.14,1.0,4,2,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20250343,2025,NIT,CSE,Male,6.96,1.0,3,0,Intermediate,Good,Yes,Placed,Service,5.45,Data Analyst
+BT20230344,2023,Deemed University,MECH,Male,6.85,2.0,3,0,Intermediate,Average,No,Placed,Service,3.23,Software Developer
+BT20210345,2021,Deemed University,IT,Female,7.96,2.0,4,0,Intermediate,Excellent,Yes,Placed,Startup,8.93,Data Analyst
+BT20250346,2025,Deemed University,MECH,Male,8.12,3.0,3,0,Advanced,Average,No,Placed,Core,6.19,Operations
+BT20210347,2021,Deemed University,AIML,Female,6.52,0.0,2,1,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20250348,2025,Deemed University,CSE,Male,6.69,0.0,4,0,Intermediate,Average,No,Placed,Product,12.21,Software Developer
+BT20240349,2024,Private Engineering College,AIML,Female,6.84,0.0,0,0,Intermediate,Average,Yes,Placed,Service,7.83,ML Engineer
+BT20240350,2024,Private Engineering College,IT,Male,8.71,1.0,4,0,Intermediate,Good,Yes,Placed,Startup,10.95,Software Developer
+BT20250351,2025,NIT,IT,Male,8.08,0.0,3,0,Beginner,Good,No,Placed,Service,5.71,Data Analyst
+BT20240352,2024,Deemed University,CSE,Female,7.67,0.0,4,2,Intermediate,Poor,No,Placed,Service,7.38,QA Engineer
+BT20210353,2021,Private Engineering College,IT,Male,5.41,1.0,3,1,Intermediate,Good,Yes,Placed,Product,10.36,QA Engineer
+BT20210354,2021,Private Engineering College,EEE,Male,6.97,2.0,1,1,Beginner,Good,Yes,Placed,Core,3.75,Core Engineer
+BT20230355,2023,Private Engineering College,CSE,Male,6.52,1.0,4,1,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20210356,2021,Deemed University,CSE,Male,5.82,0.0,3,0,Advanced,Average,Yes,Placed,Service,5.45,Data Analyst
+BT20210357,2021,Private Engineering College,EEE,Male,8.82,4.0,1,0,Beginner,Excellent,No,Placed,Service,6.21,Core Engineer
+BT20230358,2023,Deemed University,CIVIL,Male,6.9,0.0,1,0,Beginner,Average,No,Placed,Core,4.33,Core Engineer
+BT20230359,2023,Private Engineering College,AIML,Male,8.69,0.0,2,0,Advanced,Average,Yes,Placed,Product,13.32,Software Developer
+BT20240360,2024,Private Engineering College,cse,Female,7.87,3.0,1,0,Intermediate,Poor,Yes,Placed,Startup,11.19,Data Analyst
+BT20220361,2022,Deemed University,CIVIL ,Female,8.79,2.0,4,0,Advanced,Average,No,Placed,Core,6.56,Software Developer
+BT20210362,2021,Deemed University,MECH,Male,7.3,1.0,1,1,Intermediate,Good,No,Not Placed,NA,,NA
+BT20210363,2021,Deemed University,AIML,Female,7.36,1.0,1,1,Intermediate,Average,Yes,Placed,Service,7.63,Data Analyst
+BT20250364,2025,Deemed University,aiml,Male,6.07,0.0,2,0,Advanced,Average,No,Not Placed,NA,,NA
+BT20220365,2022,State University,EEE,Female,6.12,1.0,1,0,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20250366,2025,NIT,ECE,Male,8.35,1.0,1,0,Advanced,Average,No,Placed,Product,12.42,Embedded Engineer
+BT20220367,2022,Private Engineering College,ECE,Female,7.3,0.0,3,0,Advanced,Average,Yes,Placed,Service,4.3,QA Engineer
+BT20240368,2024,NIT,EEE,Male,7.99,1.0,4,0,Intermediate,Average,No,Placed,Service,5.75,Core Engineer
+BT20210369,2021,Private Engineering College,IT,Female,6.12,1.0,5,1,Intermediate,Good,Yes,Placed,Service,5.67,QA Engineer
+BT20230370,2023,NIT,IT,Male,6.61,1.0,2,0,Beginner,Excellent,Yes,Placed,Service,7.48,Software Developer
+BT20240371,2024,Private Engineering College,MECH,Female,9.47,1.0,2,0,Intermediate,Excellent,No,Placed,Startup,9.42,Software Developer
+BT20210372,2021,Deemed University,CSE,Male,7.67,3.0,1,0,Beginner,Average,Yes,Placed,Startup,9.45,DevOps Engineer
+BT20230373,2023,Private Engineering College,AIML,Male,6.84,,2,0,Beginner,Average,Yes,Placed,Product,14.55,Data Scientist
+BT20230374,2023,State University,CIVIL,Male,7.39,2.0,1,0,Beginner,Average,No,Placed,Core,5.3,Analyst
+BT20240375,2024,Private Engineering College,AIML,Female,8.85,2.0,6,0,Intermediate,Good,Yes,Placed,Service,8.61,Data Analyst
+BT20240376,2024,State University,AIML,Male,6.0,0.0,6,0,Beginner,Good,Yes,Placed,Service,7.11,Data Analyst
+BT20250377,2025,State University,EEE,Male,8.63,0.0,3,0,Intermediate,,No,Placed,Service,5.64,Software Developer
+BT20240378,2024,Deemed University,ECE,Male,6.82,1.0,3,1,Advanced,Good,No,Not Placed,NA,,NA
+BT20230379,2023,Deemed University,MECH,Female,6.13,,0,0,,Average,No,Not Placed,NA,,NA
+BT20220380,2022,NIT,MECH,Female,7.41,4.0,4,0,Intermediate,Poor,No,Placed,Core,5.96,Core Engineer
+BT20230381,2023,Private Engineering College,CSE,Female,5.0,1.0,1,1,Intermediate,Excellent,Yes,Placed,Startup,10.56,Software Developer
+BT20210382,2021,NIT,CSE,Female,6.88,1.0,0,0,Advanced,Excellent,Yes,Placed,Service,4.97,Software Developer
+BT20230383,2023,Deemed University,IT,Male,5.53,0.0,2,0,Beginner,Poor,Yes,Not Placed,NA,,NA
+BT20220384,2022,State University,EEE,Male,8.04,1.0,3,0,Advanced,Average,No,Placed,Core,3.96,Core Engineer
+BT20240385,2024,Deemed University,MECH,Male,7.8,1.0,4,0,Beginner,Poor,Yes,Placed,Core,4.84,Core Engineer
+BT20240386,2024,Private Engineering College,EEE,Male,7.26,3.0,4,0,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20220387,2022,Deemed University,CIVIL,Male,8.91,0.0,2,0,Intermediate,Good,Yes,Placed,Core,4.41,Core Engineer
+BT20220388,2022,Deemed University,MECH,Female,9.43,1.0,6,0,Advanced,Excellent,Yes,Placed,Core,5.18,Core Engineer
+BT20210389,2021,Private Engineering College,IT,Male,7.47,0.0,4,0,Beginner,Excellent,No,Placed,Startup,8.33,Software Developer
+BT20250390,2025,Private Engineering College,CSE,Male,5.77,0.0,3,0,Advanced,Excellent,Yes,Placed,Service,7.96,Data Analyst
+BT20230391,2023,Private Engineering College,ECE,Male,7.63,0.0,5,0,Intermediate,Good,Yes,Placed,Service,4.73,Embedded Engineer
+BT20250392,2025,Deemed University,EEE,Male,8.1,0.0,2,0,Intermediate,Good,No,Placed,Service,4.54,Software Developer
+BT20210393,2021,NIT,EEE,Male,5.09,1.0,5,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20220394,2022,State University,CSE,Female,7.97,0.0,1,0,Intermediate,Excellent,Yes,Placed,Service,7.53,Software Developer
+BT20220395,2022,Private Engineering College,aiml,Male,5.89,1.0,1,3,Intermediate,Average,Yes,Placed,Service,6.11,Software Developer
+BT20240396,2024,Deemed University,EEE,Female,10.4,1.0,4,0,Beginner,Average,No,Placed,Service,4.35,Core Engineer
+BT20250397,2025,Private Engineering College,CIVIL,Male,6.29,0.0,4,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20250398,2025,Private Engineering College,IT,Male,7.39,1.0,2,0,Advanced,Poor,Yes,Placed,Startup,10.56,Software Developer
+BT20210399,2021,State University,CSE,Male,7.57,1.0,1,0,Intermediate,Good,No,Placed,Product,10.58,Software Developer
+BT20210400,2021,State University,CIVIL,Male,6.23,2.0,1,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20220401,2022,NIT,CSE,Male,7.19,0.0,1,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20210402,2021,Deemed University,IT,Female,7.27,1.0,2,0,Advanced,Good,Yes,Placed,Service,4.56,Data Analyst
+BT20240403,2024,Deemed University,MECH,Female,8.9,0.0,1,0,,Good,Yes,Not Placed,NA,,NA
+BT20240404,2024,Private Engineering College,CSE,Female,6.23,2.0,0,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20220405,2022,Private Engineering College,MECH,Male,7.68,2.0,2,0,Intermediate,Good,No,Placed,Core,6.67,Software Developer
+BT20250406,2025,Private Engineering College,ECE,Male,6.72,1.0,1,1,Beginner,Good,No,Placed,Service,5.3,Software Developer
+BT20220407,2022,Private Engineering College,CIVIL,Female,6.57,1.0,2,0,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20230408,2023,State University,CSE  ,Female,8.7,,0,0,Intermediate,,Yes,Placed,Service,8.85,DevOps Engineer
+BT20210409,2021,Private Engineering College,ECE,Male,6.16,2.0,2,0,Intermediate,Average,Yes,Placed,Service,4.86,Core Engineer
+BT20230410,2023,Deemed University,CSE,Male,6.82,0.0,4,0,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20230411,2023,Private Engineering College,AIML,Male,8.32,0.0,3,0,Advanced,Average,Yes,Placed,Service,6.38,Software Developer
+BT20230412,2023,Deemed University,IT,Female,6.4,4.0,1,2,Beginner,Average,Yes,Placed,Product,13.23,QA Engineer
+BT20210413,2021,Private Engineering College,CIVIL,Male,9.8,4.0,2,0,Advanced,Excellent,No,Placed,Core,5.14,Analyst
+BT20210414,2021,State University,AIML,Female,5.78,1.0,3,2,Intermediate,Average,Yes,Placed,Product,11.4,Software Developer
+BT20220415,2022,Private Engineering College,ECE,Female,8.34,0.0,0,0,Advanced,Good,No,Placed,Core,4.84,Software Developer
+BT20250416,2025,Deemed University,AIML,Male,8.15,,1,0,Advanced,Good,Yes,Placed,Startup,15.11,Data Analyst
+BT20240417,2024,Private Engineering College,CSE,Female,8.06,1.0,3,0,Intermediate,Average,No,Placed,Service,6.9,DevOps Engineer
+BT20250418,2025,Deemed University,MECH,Female,5.45,1.0,1,0,Intermediate,Average,Yes,Placed,Service,5.69,Software Developer
+BT20250419,2025,Private Engineering College,ECE,Female,7.9,1.0,3,0,Intermediate,Average,Yes,Placed,Service,6.09,Core Engineer
+BT20210420,2021,State University,CSE,Male,7.58,2.0,2,0,Intermediate,Average,Yes,Placed,Startup,10.28,Data Analyst
+BT20210421,2021,Private Engineering College,ECE,Female,7.3,2.0,4,1,Intermediate,Excellent,Yes,Placed,Service,4.61,Software Developer
+BT20230422,2023,Deemed University,AIML,Female,7.13,1.0,2,0,Beginner,Excellent,Yes,Placed,Startup,10.02,Software Developer
+BT20210423,2021,Private Engineering College,AIML,Male,7.14,3.0,2,0,Intermediate,Good,Yes,Placed,Service,7.1,Data Analyst
+BT20240424,2024,Deemed University,MECH,Male,8.41,2.0,1,0,Intermediate,Good,Yes,Placed,Service,4.98,Operations
+BT20240425,2024,Private Engineering College,EEE,Male,7.11,1.0,3,1,Beginner,Good,No,Placed,Service,2.4,Core Engineer
+BT20230426,2023,Deemed University,MECH,Male,6.63,0.0,2,0,Intermediate,Good,No,Placed,Core,3.51,Core Engineer
+BT20220427,2022,NIT,MECH,Male,6.57,0.0,3,0,Intermediate,Good,Yes,Placed,Service,3.04,Core Engineer
+BT20220428,2022,NIT,EEE,Female,6.4,0.0,0,0,Intermediate,Poor,No,Placed,Service,4.63,Core Engineer
+BT20230429,2023,Deemed University,CSE,Male,6.76,1.0,3,3,Intermediate,Good,Yes,Placed,Service,7.38,Software Developer
+BT20250430,2025,State University,CIVIL,Female,8.57,2.0,4,0,Intermediate,Poor,No,Placed,Core,5.8,Core Engineer
+BT20210431,2021,Deemed University,CSE,Male,6.04,0.0,3,0,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20220432,2022,Private Engineering College,EEE,Female,6.24,2.0,1,1,Beginner,Good,No,Placed,Core,3.96,Software Developer
+BT20220433,2022,Deemed University,ECE,Male,6.97,,5,3,Intermediate,Excellent,Yes,Placed,Product,11.14,Software Developer
+BT20210434,2021,State University,AIML,Male,7.52,0.0,0,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20210435,2021,Private Engineering College,CIVIL,Female,8.47,0.0,3,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20230436,2023,Private Engineering College,AIML,Male,7.67,3.0,2,1,Intermediate,Poor,Yes,Placed,Service,9.24,Software Developer
+BT20240437,2024,State University,EEE,Male,6.44,1.0,5,2,Beginner,Good,No,not placed,NA,,NA
+BT20220438,2022,Deemed University,CSE,Male,7.14,2.0,3,0,Beginner,Excellent,No,Placed,Service,7.64,Software Developer
+BT20230439,2023,Deemed University,CIVIL,Male,6.45,1.0,2,1,Intermediate,Average,No,Placed,Service,2.4,Software Developer
+BT20250440,2025,Deemed University,CSE,Female,6.11,1.0,3,1,Intermediate,Average,Yes,Placed,Service,9.41,Data Analyst
+BT20210441,2021,Private Engineering College,IT,Male,6.45,4.0,2,1,Intermediate,Average,Yes,placed,Service,6.69,Data Analyst
+BT20220442,2022,Deemed University,MECH,Male,7.47,2.0,3,0,Intermediate,Good,Yes,placed,Service,4.17,Operations
+BT20250443,2025,State University,IT,Female,7.88,1.0,4,0,Intermediate,Good,Yes,Placed,Service,7.75,Software Developer
+BT20220444,2022,Private Engineering College,MECH,Female,5.9,3.0,2,0,Advanced,Average,No,Placed,Service,3.08,Core Engineer
+BT20220445,2022,State University,IT,Female,8.24,0.0,0,0,Intermediate,Average,Yes,Placed,Service,6.72,Software Developer
+BT20250446,2025,Private Engineering College,CSE,Male,7.66,1.0,4,1,Intermediate,Average,Yes,Placed,Service,9.13,Software Developer
+BT20230447,2023,Deemed University,CSE,Male,6.85,0.0,3,1,Intermediate,Good,Yes,Placed,Service,6.76,DevOps Engineer
+BT20210448,2021,Deemed University,CIVIL,Female,7.82,1.0,3,0,Intermediate,Excellent,Yes,Placed,Core,3.7,Core Engineer
+BT20240449,2024,State University,IT,Male,9.8,1.0,3,0,Intermediate,Good,Yes,Placed,Service,6.24,QA Engineer
+BT20210450,2021,Deemed University,EEE,Female,7.05,0.0,0,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20240451,2024,Deemed University,IT,Male,6.64,2.0,4,1,Intermediate,Average,Yes,Placed,Product,14.56,Software Developer
+BT20220452,2022,Private Engineering College,ECE,Male,5.93,1.0,1,0,Advanced,Excellent,No,Placed,Service,4.88,Core Engineer
+BT20230453,2023,Deemed University,CSE,Female,8.66,1.0,2,0,Beginner,Average,Yes,Placed,Service,7.95,Data Analyst
+BT20250454,2025,Private Engineering College,MECH,Male,8.89,1.0,1,0,Advanced,Good,No,Placed,Core,7.17,Core Engineer
+BT20230455,2023,Private Engineering College,CSE  ,Female,5.92,2.0,4,2,Intermediate,Good,No,Placed,Product,10.8,Core Engineer
+BT20210456,2021,Deemed University,AIML,Male,5.96,2.0,4,0,Beginner,Excellent,Yes,Placed,Service,6.56,Data Analyst
+BT20210457,2021,Deemed University,MECH,Male,7.53,1.0,2,0,Advanced,Poor,Yes,Not Placed,NA,,NA
+BT20210458,2021,Deemed University,CSE,Female,6.96,2.0,5,0,Intermediate,Average,Yes,Placed,Service,6.92,Software Developer
+BT20230459,2023,Deemed University,IT,Female,6.85,0.0,5,2,Advanced,Average,No,Placed,Service,6.33,Software Developer
+BT20240460,2024,Deemed University,CSE,Female,6.73,2.0,4,0,Intermediate,Excellent,Yes,Placed,Service,8.4,Software Developer
+BT20230461,2023,State University,IT,Male,7.01,4.0,1,0,Advanced,Good,Yes,Placed,Service,7.56,Software Developer
+BT20240462,2024,Deemed University,CSE,Female,8.22,2.0,6,0,Intermediate,Good,Yes,Placed,Startup,14.11,Software Developer
+BT20230463,2023,State University,IT,Male,6.66,4.0,2,0,Intermediate,Average,Yes,Placed,Service,9.36,Software Developer
+BT20230464,2023,Private Engineering College,CSE,Male,6.95,1.0,2,1,Intermediate,Average,Yes,Placed,Product,11.53,Software Developer
+BT20240465,2024,NIT,AIML,Male,7.75,0.0,2,0,Intermediate,Good,Yes,Placed,Service,7.4,Software Developer
+BT20230466,2023,Deemed University,EEE,Male,7.42,2.0,2,0,Beginner,Average,Yes,Placed,Service,5.32,Embedded Engineer
+BT20220467,2022,Deemed University,AIML,Male,6.21,0.0,4,0,Intermediate,Average,Yes,Placed,Service,6.21,Data Analyst
+BT20210468,2021,State University,CIVIL,Male,7.52,1.0,2,0,Advanced,,Yes,Not Placed,NA,,NA
+BT20210469,2021,NIT,EEE,Female,7.34,3.0,2,0,Advanced,Good,Yes,Placed,Product,6.96,Core Engineer
+BT20240470,2024,Deemed University,AIML,Male,6.76,1.0,2,0,Beginner,Poor,Yes,Placed,Product,18.37,Data Scientist
+BT20220471,2022,Private Engineering College,CSE,Male,8.03,2.0,4,0,,Good,Yes,Placed,Service,7.98,Software Developer
+BT20210472,2021,Private Engineering College,MECH,Male,6.6,0.0,5,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20220473,2022,Deemed University,AIML,Male,6.86,0.0,1,0,Intermediate,Average,Yes,Placed,Service,6.65,Data Analyst
+BT20210474,2021,Private Engineering College,CIVIL,Female,6.23,0.0,3,1,Advanced,Average,No,Placed,Core,2.44,Operations
+BT20250475,2025,Deemed University,MECH,Female,7.82,1.0,1,0,Beginner,Average,Yes,Placed,Core,5.69,Operations
+BT20250476,2025,State University,CIVIL,Female,6.1,,5,1,Advanced,Excellent,No,Not Placed,NA,,NA
+BT20230477,2023,Deemed University,CIVIL,Male,6.61,1.0,0,1,Beginner,Good,Yes,Placed,Service,4.08,Operations
+BT20210478,2021,Private Engineering College,MECH,Female,5.41,1.0,1,0,Beginner,Excellent,No,Placed,Service,3.84,Core Engineer
+BT20230479,2023,Private Engineering College,CSE,Male,7.43,1.0,2,0,Beginner,Average,No,Placed,Product,14.21,Software Developer
+BT20230480,2023,Deemed University,ECE,Male,7.77,0.0,2,0,Intermediate,Good,Yes,Placed,Product,9.07,Embedded Engineer
+BT20250481,2025,State University,CSE,Female,7.92,1.0,3,0,Intermediate,Good,Yes,Placed,Startup,11.7,Software Developer
+BT20210482,2021,Private Engineering College,MECH,Female,7.24,1.0,4,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20230483,2023,Deemed University,CSE,Male,7.78,0.0,1,0,Advanced,Good,Yes,Placed,Service,7.06,Software Developer
+BT20250484,2025,State University,AIML,Male,5.12,2.0,2,1,Intermediate,Average,Yes,Placed,Service,10.27,Data Analyst
+BT20250485,2025,Deemed University,CSE,Male,7.56,3.0,5,1,Intermediate,Excellent,Yes,Placed,Startup,14.0,Software Developer
+BT20250486,2025,State University,IT,Female,5.66,0.0,1,0,Intermediate,Average,Yes,Placed,Product,12.75,Software Developer
+BT20210487,2021,State University,CIVIL,Female,6.9,2.0,7,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20220488,2022,Deemed University,IT,Female,7.81,1.0,1,0,Intermediate,Average,Yes,placed,Service,6.67,DevOps Engineer
+BT20220489,2022,NIT,CIVIL,Female,8.2,2.0,5,0,Intermediate,Good,No,Placed,Service,3.83,Core Engineer
+BT20230490,2023,Deemed University,MECH,Female,8.0,0.0,2,0,Beginner,Poor,Yes,Placed,Core,3.67,Operations
+BT20210491,2021,Deemed University,CSE,Male,7.62,1.0,3,0,Intermediate,Good,Yes,Placed,Service,6.17,QA Engineer
+BT20230492,2023,Private Engineering College,IT,Male,7.69,1.0,6,0,Advanced,Average,Yes,Placed,Service,6.99,Software Developer
+BT20210493,2021,Private Engineering College,CSE,Male,7.15,,1,1,Intermediate,Poor,Yes,Placed,Service,6.87,Software Developer
+BT20230494,2023,Private Engineering College,AIML,Female,8.66,2.0,2,1,Intermediate,Good,Yes,Placed,Product,16.55,ML Engineer
+BT20220495,2022,Deemed University,CSE  ,Female,5.68,1.0,1,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20240496,2024,NIT,CIVIL,Male,7.21,1.0,2,0,Beginner,Good,Yes,Placed,Core,3.47,Core Engineer
+BT20220497,2022,State University,CSE,Female,10.4,0.0,3,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20220498,2022,Deemed University,MECH,Female,5.55,1.0,0,3,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20240499,2024,Deemed University,CSE,Male,6.13,2.0,1,0,Intermediate,,Yes,Placed,Service,9.22,QA Engineer
+BT20250500,2025,NIT,EEE,Female,6.05,2.0,2,2,Intermediate,Average,No,Not Placed,NA,,NA
+BT20220501,2022,NIT,CSE,Female,8.0,1.0,1,0,Advanced,Excellent,No,placed,Product,13.03,Software Developer
+BT20250502,2025,Private Engineering College,ECE,Male,6.65,2.0,1,0,Advanced,Good,Yes,Placed,Service,5.43,Embedded Engineer
+BT20240503,2024,State University,MECH,Male,6.9,,2,0,Advanced,Excellent,Yes,Not Placed,NA,,NA
+BT20230504,2023,NIT,CSE,Male,7.04,1.0,2,0,Intermediate,Good,Yes,Placed,Service,5.13,Data Analyst
+BT20250505,2025,Deemed University,ECE,Male,7.12,1.0,4,0,Advanced,Good,Yes,Placed,Service,4.5,Software Developer
+BT20230506,2023,Deemed University,ECE,Male,6.25,1.0,4,2,Intermediate,Excellent,No,Placed,Core,7.13,Embedded Engineer
+BT20250507,2025,Private Engineering College,IT,Female,6.14,3.0,0,1,Intermediate,Average,Yes,Placed,Service,7.47,QA Engineer
+BT20230508,2023,Private Engineering College,EEE,Male,7.98,2.0,1,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20230509,2023,Private Engineering College,ECE,Female,6.86,1.0,0,1,Intermediate,Good,Yes,Placed,Service,4.05,Core Engineer
+BT20250510,2025,Private Engineering College,ECE,Female,6.67,0.0,2,1,Intermediate,Average,No,Placed,Service,7.4,Software Developer
+BT20220511,2022,NIT,AIML,Female,6.99,0.0,1,2,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20250512,2025,Deemed University,AIML,Female,7.75,0.0,1,0,Beginner,Average,No,Placed,Service,6.83,Software Developer
+BT20230513,2023,Private Engineering College,CIVIL,Female,7.11,1.0,6,0,Beginner,Average,No,Placed,Core,4.07,Operations
+BT20220514,2022,Private Engineering College,ECE,Male,7.34,1.0,2,0,Beginner,Excellent,No,Placed,Service,4.59,Embedded Engineer
+BT20250515,2025,Deemed University,CSE  ,Male,7.22,0.0,3,1,Advanced,Average,No,Placed,Core,7.98,Embedded Engineer
+BT20210516,2021,Private Engineering College,IT,Male,7.3,2.0,2,0,Beginner,Average,Yes,Placed,Service,5.4,Software Developer
+BT20220517,2022,Private Engineering College,CSE,Female,6.57,0.0,1,1,Intermediate,Average,Yes,Placed,Service,5.54,Software Developer
+BT20210518,2021,Private Engineering College,CSE,Male,7.87,3.0,2,0,Beginner,Excellent,Yes,Placed,Service,8.03,Software Developer
+BT20230519,2023,Deemed University,ECE,Female,7.4,0.0,5,0,Intermediate,Average,Yes,Placed,Product,8.44,Embedded Engineer
+BT20230520,2023,NIT,CSE,Female,5.43,2.0,5,0,Intermediate,Poor,Yes,Placed,Service,6.65,Software Developer
+BT20250521,2025,State University,CSE,Male,6.43,1.0,3,2,Intermediate,Poor,No,Placed,Startup,11.45,QA Engineer
+BT20250522,2025,NIT,CSE,Female,7.65,1.0,4,0,Intermediate,Average,Yes,Placed,Product,15.2,DevOps Engineer
+BT20250523,2025,State University,MECH,Male,6.97,1.0,1,1,Intermediate,Average,Yes,Placed,Service,5.51,Core Engineer
+BT20210524,2021,Deemed University,AIML,Female,6.75,,2,0,Beginner,Poor,Yes,Placed,Service,6.47,Software Developer
+BT20220525,2022,Deemed University,MECH,Male,8.04,1.0,2,0,Intermediate,Poor,Yes,Placed,Core,4.58,Operations
+BT20240526,2024,NIT,EEE,Female,7.76,2.0,3,0,Intermediate,Good,No,Placed,Service,6.11,QA Engineer
+BT20250527,2025,Private Engineering College,IT,Male,6.55,1.0,4,0,Beginner,Good,Yes,Placed,Product,12.6,Software Developer
+BT20220528,2022,Private Engineering College,ECE,Male,7.16,0.0,2,0,Beginner,Average,No,Placed,Service,5.33,Embedded Engineer
+BT20230529,2023,NIT,EEE,Male,6.12,1.0,3,1,Advanced,Average,Yes,Placed,Service,6.03,QA Engineer
+BT20240530,2024,Private Engineering College,ECE,Male,7.77,2.0,3,0,Advanced,Poor,Yes,Placed,Core,7.95,QA Engineer
+BT20250531,2025,Deemed University,ECE,Male,6.63,,0,0,Intermediate,Average,Yes,Placed,Product,12.58,Core Engineer
+BT20210532,2021,Deemed University,ECE,Male,6.41,1.0,1,1,Advanced,Poor,No,Not Placed,NA,,NA
+BT20220533,2022,Deemed University,CSE,Female,5.84,0.0,1,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20220534,2022,NIT,MECH,Male,6.83,1.0,0,1,Advanced,Good,No,Placed,Startup,4.88,Core Engineer
+BT20250535,2025,Private Engineering College,ECE,Male,7.55,0.0,2,1,Intermediate,Average,No,Placed,Product,11.66,QA Engineer
+BT20230536,2023,Deemed University,ECE,Male,6.59,1.0,2,1,Beginner,Excellent,Yes,Placed,Service,4.69,Core Engineer
+BT20250537,2025,Private Engineering College,MECH,Male,7.77,1.0,2,1,Intermediate,Good,No,Not Placed,NA,,NA
+BT20220538,2022,Private Engineering College,CSE,Male,9.37,1.0,1,0,Intermediate,Good,Yes,Placed,Service,8.42,Software Developer
+BT20240539,2024,Private Engineering College,CSE,Female,6.39,0.0,1,2,Advanced,Good,Yes,Placed,Startup,11.05,Software Developer
+BT20240540,2024,Deemed University,CSE,Male,5.99,0.0,4,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20220541,2022,NIT,AIML,Male,6.95,0.0,2,1,Intermediate,Average,Yes,Placed,Service,6.39,ML Engineer
+BT20210542,2021,State University,CSE,Female,5.97,2.0,6,0,Intermediate,Good,Yes,Placed,Service,6.9,Software Developer
+BT20230543,2023,Private Engineering College,CSE,Male,5.89,0.0,0,0,Intermediate,Excellent,No,Placed,Service,7.14,Software Developer
+BT20210544,2021,State University,IT,Male,6.53,2.0,3,0,Intermediate,Good,Yes,Placed,Product,10.48,DevOps Engineer
+BT20230545,2023,Deemed University,MECH,Male,7.58,0.0,2,0,Beginner,Excellent,Yes,Placed,Startup,4.87,Software Developer
+BT20240546,2024,Deemed University,EEE,Male,7.93,1.0,2,0,Beginner,Average,No,Placed,Service,6.51,Software Developer
+BT20220547,2022,Deemed University,CSE,Male,7.22,1.0,2,0,Advanced,Good,Yes,Placed,Service,5.32,Software Developer
+BT20210548,2021,Deemed University,MECH,Male,6.78,1.0,0,0,Intermediate,Average,No,Placed,Service,5.51,Core Engineer
+BT20210549,2021,NIT,AIML,Male,8.37,1.0,3,1,Intermediate,Average,No,Placed,Startup,9.03,Data Analyst
+BT20240550,2024,Private Engineering College,AIML,Female,6.79,0.0,0,0,Beginner,Good,Yes,Placed,Startup,13.02,Software Developer
+BT20210551,2021,State University,CSE,Male,8.17,2.0,4,0,Beginner,Average,Yes,Placed,Service,5.97,Software Developer
+BT20230552,2023,Private Engineering College,ECE,Male,8.06,3.0,4,0,Intermediate,Good,No,Placed,Service,7.24,Core Engineer
+BT20240553,2024,Deemed University,AIML,Male,5.65,0.0,1,0,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20230554,2023,Deemed University,CIVIL,Female,6.96,2.0,3,0,Intermediate,,No,Placed,Core,3.71,Core Engineer
+BT20250555,2025,Deemed University,AIML ,Male,8.34,1.0,5,0,Advanced,Excellent,Yes,Placed,Product,15.66,Data Scientist
+BT20240556,2024,Private Engineering College,CSE,Female,7.64,2.0,5,0,,Average,Yes,Placed,Service,9.81,DevOps Engineer
+BT20220557,2022,State University,ECE,Male,8.85,1.0,2,-1,Beginner,Average,No,Placed,Core,5.98,Software Developer
+BT20220558,2022,Private Engineering College,CIVIL,Female,6.29,3.0,5,1,Intermediate,Good,No,Placed,Core,4.83,Operations
+BT20250559,2025,Private Engineering College,MECH ,Male,7.91,0.0,2,0,Advanced,Average,Yes,Placed,Service,5.09,Software Developer
+BT20240560,2024,Private Engineering College,AIML,Male,8.04,1.0,4,0,Beginner,Good,No,Placed,Service,9.32,Data Analyst
+BT20230561,2023,NIT,CIVIL,Female,6.47,1.0,1,1,Intermediate,Average,No,Placed,Service,3.45,Operations
+BT20220562,2022,Deemed University,IT,Male,6.7,0.0,1,0,Intermediate,Good,Yes,Placed,Service,5.42,Data Analyst
+BT20240563,2024,Deemed University,ECE,Female,5.23,3.0,4,1,Beginner,Average,No,Not Placed,NA,,NA
+BT20220564,2022,Deemed University,MECH,Male,6.99,1.0,4,1,Advanced,Average,Yes,Placed,Service,2.54,Core Engineer
+BT20240565,2024,Deemed University,IT,Male,7.4,0.0,2,0,Intermediate,Average,Yes,Placed,Product,11.69,DevOps Engineer
+BT20250566,2025,State University,IT,Male,6.81,1.0,4,0,Intermediate,Good,Yes,Placed,Product,13.45,Software Developer
+BT20230567,2023,Private Engineering College,CSE,Female,6.64,0.0,5,0,Advanced,,No,Placed,Product,12.78,Software Developer
+BT20240568,2024,Private Engineering College,AIML,Male,7.93,2.0,3,0,Beginner,Good,Yes,Placed,Service,8.45,Data Analyst
+BT20220569,2022,NIT,CSE,Female,6.9,0.0,5,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20250570,2025,Private Engineering College,ECE,Male,6.99,3.0,1,1,Intermediate,Average,No,Placed,Service,6.81,QA Engineer
+BT20240571,2024,Private Engineering College,MECH,Male,6.4,1.0,1,2,Advanced,Good,No,Placed,Service,3.79,Analyst
+BT20210572,2021,Deemed University,CSE,Female,7.03,1.0,4,0,Advanced,Good,Yes,Placed,Startup,10.69,Software Developer
+BT20240573,2024,State University,AIML,Female,7.3,0.0,5,0,Advanced,Good,Yes,Placed,Service,6.18,ML Engineer
+BT20210574,2021,NIT,IT,Male,8.13,0.0,4,0,Advanced,Good,Yes,Placed,Product,8.9,Software Developer
+BT20240575,2024,Deemed University,MECH,Female,7.74,,1,0,Intermediate,Good,No,Placed,Core,5.59,Operations
+BT20210576,2021,State University,ECE,Female,7.34,0.0,2,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20240577,2024,Private Engineering College,CSE,Male,7.39,3.0,3,0,Intermediate,Good,Yes,Placed,Service,8.98,Software Developer
+BT20230578,2023,State University,CSE,Female,6.64,3.0,0,2,Intermediate,Average,Yes,Placed,Startup,11.46,DevOps Engineer
+BT20230579,2023,Private Engineering College,MECH,Male,5.41,1.0,1,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20250580,2025,State University,CIVIL,Male,6.38,0.0,3,0,Advanced,Good,Yes,Placed,Service,3.58,Operations
+BT20240581,2024,NIT,IT,Male,8.79,1.0,4,0,Beginner,,Yes,Placed,Service,6.51,Software Developer
+BT20250582,2025,State University,AIML,Female,6.25,0.0,1,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20240583,2024,Deemed University,ECE,Female,6.47,0.0,3,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20220584,2022,Private Engineering College,EEE,Male,7.65,1.0,2,0,Intermediate,Good,Yes,Placed,Core,3.19,Core Engineer
+BT20210585,2021,Private Engineering College,CIVIL,Male,7.43,1.0,4,0,Intermediate,Good,No,Placed,Core,2.4,Core Engineer
+BT20220586,2022,Deemed University,AIML,Male,5.97,2.0,4,-1,Intermediate,Good,Yes,Placed,Service,7.92,Software Developer
+BT20210587,2021,Deemed University,MECH,Male,6.19,0.0,4,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20230588,2023,Deemed University,IT,Male,6.79,0.0,8,1,Beginner,Good,Yes,Placed,Startup,8.08,Software Developer
+BT20240589,2024,Deemed University,CIVIL,Male,7.57,2.0,2,0,Advanced,Good,No,Placed,Core,4.33,Analyst
+BT20250590,2025,Private Engineering College,MECH,Male,7.12,,6,0,Advanced,Good,No,Placed,Core,6.42,Analyst
+BT20210591,2021,State University,CIVIL,Male,6.27,0.0,2,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20230592,2023,Deemed University,AIML,Female,6.99,,3,1,Advanced,Good,Yes,Placed,Service,7.08,Data Scientist
+BT20230593,2023,State University,AIML,Male,8.73,1.0,4,0,Intermediate,Excellent,No,Placed,Startup,12.15,Data Analyst
+BT20240594,2024,State University,ECE,Male,7.31,4.0,4,0,Intermediate,Good,No,Placed,Service,7.19,Software Developer
+BT20210595,2021,Private Engineering College,MECH,Male,6.17,0.0,2,0,Intermediate,Average,Yes,Placed,Service,3.66,Analyst
+BT20220596,2022,State University,IT,Male,6.15,0.0,2,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20240597,2024,Deemed University,EEE,Female,6.59,2.0,2,0,Beginner,Good,Yes,Placed,Service,6.66,Software Developer
+BT20210598,2021,Private Engineering College,EEE,Female,7.44,2.0,2,0,Intermediate,Good,No,Placed,Service,4.62,Software Developer
+BT20210599,2021,Deemed University,EEE,Female,7.83,1.0,0,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20230600,2023,State University,MECH,Female,7.56,1.0,2,0,Beginner,Good,Yes,Placed,Service,4.26,Operations
+BT20220601,2022,Deemed University,MECH,Male,6.9,1.0,1,1,Advanced,Good,No,Placed,Core,3.91,Software Developer
+BT20220602,2022,NIT,EEE,Female,6.0,1.0,3,0,Intermediate,Excellent,Yes,Placed,Core,4.77,Software Developer
+BT20230603,2023,Private Engineering College,EEE,Female,5.49,0.0,1,0,Intermediate,Average,No,Placed,Product,7.79,Embedded Engineer
+BT20210604,2021,Deemed University,MECH,Male,6.93,0.0,0,0,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20250605,2025,Private Engineering College,IT,Male,8.7,0.0,1,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20240606,2024,NIT,CSE,Female,8.14,1.0,2,0,Intermediate,Good,Yes,Placed,Startup,11.62,Software Developer
+BT20230607,2023,Deemed University,MECH,Male,7.59,0.0,1,0,Beginner,Good,No,Placed,Service,4.24,Core Engineer
+BT20230608,2023,Deemed University,EEE,Male,7.45,0.0,2,0,Beginner,Average,No,placed,Product,7.98,Core Engineer
+BT20240609,2024,State University,AIML,Female,6.64,,2,1,Advanced,Good,No,Placed,Service,6.39,Software Developer
+BT20250610,2025,NIT,MECH,Male,7.01,1.0,2,0,Beginner,Average,Yes,Placed,Service,3.51,Operations
+BT20230611,2023,State University,ECE,Male,6.33,,5,0,Beginner,Average,No,Placed,Service,5.74,Core Engineer
+BT20220612,2022,Private Engineering College,CSE,Male,8.51,0.0,2,0,Beginner,Average,Yes,Placed,Service,7.65,DevOps Engineer
+BT20250613,2025,State University,IT,Male,7.17,1.0,3,0,Beginner,Excellent,Yes,Placed,Service,5.91,Software Developer
+BT20250614,2025,Deemed University,EEE,Male,6.86,1.0,2,0,Intermediate,Average,No,Placed,Core,7.04,Core Engineer
+BT20230615,2023,NIT,CIVIL,Male,7.0,0.0,3,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20210616,2021,State University,ECE,Female,7.21,3.0,1,0,Beginner,Good,No,Placed,Product,9.96,QA Engineer
+BT20230617,2023,Private Engineering College,MECH,Male,5.74,0.0,3,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20240618,2024,Private Engineering College,AIML,Male,6.42,2.0,1,0,Beginner,Excellent,Yes,Placed,Service,8.14,Data Scientist
+BT20210619,2021,Deemed University,IT,Female,7.21,1.0,0,0,Beginner,Poor,Yes,Not Placed,NA,,NA
+BT20240620,2024,State University,MECH,Female,8.82,0.0,4,0,Intermediate,Average,Yes,Placed,Service,3.93,Operations
+BT20230621,2023,Deemed University,ECE,Male,6.63,1.0,3,1,Beginner,Excellent,No,Placed,Service,4.97,Software Developer
+BT20250622,2025,Private Engineering College,AIML,Male,7.53,1.0,2,0,Advanced,Good,Yes,Placed,Product,14.26,Data Scientist
+BT20230623,2023,NIT,CSE,Female,6.51,0.0,4,0,Beginner,Good,Yes,Placed,Service,7.3,Software Developer
+BT20230624,2023,State University,CSE,Female,5.66,2.0,1,0,Intermediate,Good,Yes,Placed,Service,6.27,DevOps Engineer
+BT20230625,2023,Deemed University,CSE,Male,7.58,1.0,3,1,Beginner,Average,Yes,Placed,Startup,11.09,DevOps Engineer
+BT20250626,2025,Deemed University,AIML,Male,7.84,0.0,2,1,Beginner,Good,Yes,Placed,Product,14.94,ML Engineer
+BT20250627,2025,Deemed University,MECH,Male,6.95,0.0,2,0,Intermediate,Good,Yes,Placed,Startup,7.03,Core Engineer
+BT20240628,2024,Deemed University,ECE,Male,6.06,2.0,3,0,Intermediate,Good,Yes,Placed,Service,6.63,Software Developer
+BT20240629,2024,Private Engineering College,ECE,Male,6.39,1.0,3,0,Intermediate,Good,No,Placed,Core,7.06,Software Developer
+BT20230630,2023,Private Engineering College,ECE,Female,7.08,0.0,3,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20220631,2022,Deemed University,CSE,Male,7.68,0.0,2,0,Advanced,Good,Yes,Placed,Service,5.93,Software Developer
+BT20250632,2025,Deemed University,ECE,Male,7.03,0.0,3,0,Intermediate,Good,No,Placed,Core,7.83,Software Developer
+BT20210633,2021,Deemed University,ECE,Male,6.56,1.0,3,1,Advanced,Excellent,No,Not Placed,NA,,NA
+BT20230634,2023,Private Engineering College,IT,Male,6.71,1.0,3,0,Intermediate,Excellent,Yes,Placed,Service,6.64,Data Analyst
+BT20220635,2022,Private Engineering College,AIML,Male,7.96,0.0,2,0,Intermediate,Poor,Yes,Placed,Service,6.74,ML Engineer
+BT20220636,2022,Deemed University,CSE,Male,7.9,1.0,4,0,Intermediate,Good,Yes,Placed,Service,7.58,Data Analyst
+BT20250637,2025,Deemed University,ECE,Male,6.69,1.0,5,0,Advanced,Excellent,No,Placed,Core,6.93,Software Developer
+BT20240638,2024,Deemed University,AIML,Male,7.85,0.0,4,0,Beginner,Poor,Yes,Placed,Service,7.5,Data Analyst
+BT20250639,2025,Private Engineering College,CIVIL,Male,7.35,2.0,3,0,Beginner,Average,Yes,Placed,Core,6.67,Core Engineer
+BT20230640,2023,Private Engineering College,ECE,Male,8.47,3.0,3,0,Beginner,Good,No,Placed,Service,5.53,Software Developer
+BT20210641,2021,Private Engineering College,ECE,Female,7.7,1.0,2,0,Beginner,Good,Yes,Placed,Core,5.21,Embedded Engineer
+BT20210642,2021,State University,IT,Male,8.16,1.0,4,0,Advanced,Excellent,No,Placed,Service,5.98,QA Engineer
+BT20250643,2025,NIT,IT,Female,7.61,1.0,3,0,Advanced,Good,Yes,Placed,Service,7.29,Data Analyst
+BT20250644,2025,NIT,AIML,Male,6.78,0.0,1,1,Intermediate,Good,Yes,Placed,Service,7.63,ML Engineer
+BT20210645,2021,Deemed University,MECH,Male,7.35,1.0,1,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20210646,2021,State University,AIML,Male,8.91,0.0,0,0,Beginner,Excellent,Yes,Placed,Service,7.29,ML Engineer
+BT20220647,2022,State University,CSE,Female,6.8,0.0,2,1,Intermediate,Good,Yes,Placed,Startup,8.33,Software Developer
+BT20210648,2021,Deemed University,AIML,Female,7.06,2.0,1,0,Beginner,Excellent,No,Placed,Startup,11.66,Software Developer
+BT20240649,2024,Private Engineering College,EEE,Female,5.68,1.0,3,0,Advanced,Good,No,Placed,Service,5.83,Embedded Engineer
+BT20210650,2021,Deemed University,CSE,Female,5.82,1.0,2,0,Intermediate,Excellent,Yes,Placed,Service,6.11,Software Developer
+BT20210651,2021,NIT,EEE,Male,6.71,0.0,1,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20240652,2024,Private Engineering College,CIVIL,Female,7.12,2.0,5,0,Intermediate,Good,Yes,Placed,Service,4.68,Operations
+BT20240653,2024,Private Engineering College,MECH,Male,6.7,1.0,3,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20210654,2021,Private Engineering College,CSE,Male,7.05,1.0,3,2,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20210655,2021,Deemed University,CSE  ,Female,6.29,1.0,6,0,Beginner,Average,Yes,Placed,Service,5.78,Software Developer
+BT20230656,2023,Private Engineering College,ECE,Male,7.98,1.0,1,0,Beginner,Good,Yes,Placed,Service,5.82,QA Engineer
+BT20210657,2021,Deemed University,MECH,Male,8.2,0.0,3,0,Advanced,Excellent,No,Placed,Service,4.21,Core Engineer
+BT20230658,2023,Private Engineering College,CSE,Male,5.64,1.0,1,0,Intermediate,Good,No,Placed,Service,7.13,DevOps Engineer
+BT20210659,2021,Deemed University,AIML,Male,6.88,0.0,3,0,Intermediate,Excellent,Yes,Placed,Service,6.66,Data Scientist
+BT20230660,2023,Deemed University,AIML,Male,7.14,1.0,2,1,Intermediate,Average,No,Placed,Service,7.54,Software Developer
+BT20220661,2022,Private Engineering College,ECE,Female,7.47,1.0,2,0,Advanced,Good,Yes,Placed,Core,3.89,Software Developer
+BT20250662,2025,NIT,CSE,Male,10.4,0.0,0,0,Advanced,Average,Yes,Placed,Service,7.0,Software Developer
+BT20230663,2023,Deemed University,EEE,Female,5.82,0.0,2,2,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20230664,2023,NIT,EEE,Female,7.49,0.0,1,0,Advanced,Average,No,Placed,Service,4.79,Core Engineer
+BT20220665,2022,Deemed University,ECE,Male,6.65,1.0,4,0,Intermediate,Average,Yes,Placed,Product,8.27,Embedded Engineer
+BT20250666,2025,Private Engineering College,ECE,Male,7.29,0.0,5,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20250667,2025,Private Engineering College,MECH,Male,8.22,0.0,3,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20220668,2022,State University,CIVIL,Male,6.8,0.0,2,0,Beginner,Average,Yes,NotPlaced,NA,,NA
+BT20220669,2022,NIT,AIML,Male,7.52,0.0,2,0,Intermediate,Good,Yes,Placed,Service,5.59,ML Engineer
+BT20240670,2024,Deemed University,AIML,Male,8.37,3.0,3,0,Intermediate,Good,Yes,placed,Service,11.28,Data Analyst
+BT20250671,2025,Deemed University,ECE,Male,7.35,1.0,1,0,Advanced,Excellent,No,Placed,Core,5.29,Embedded Engineer
+BT20210672,2021,Deemed University,ECE,Male,6.76,2.0,2,0,Intermediate,Good,No,Placed,Service,4.56,Core Engineer
+BT20240673,2024,Deemed University,MECH,Male,6.4,0.0,2,0,Advanced,Good,Yes,Placed,Service,2.48,Core Engineer
+BT20230674,2023,Deemed University,CSE,Male,7.74,3.0,2,0,Intermediate,Good,Yes,Placed,Service,8.19,Software Developer
+BT20240675,2024,Private Engineering College,MECH,Female,6.92,1.0,2,0,Advanced,Good,Yes,Placed,Core,3.87,Analyst
+BT20230676,2023,Deemed University,CSE,Female,7.03,2.0,1,0,Intermediate,Excellent,Yes,Placed,Product,13.64,Data Analyst
+BT20240677,2024,Private Engineering College,CSE,Male,6.34,0.0,4,0,Intermediate,Poor,Yes,Placed,Service,7.2,QA Engineer
+BT20210678,2021,Private Engineering College,IT,Male,7.17,2.0,0,0,Intermediate,Average,Yes,Placed,Service,5.16,DevOps Engineer
+BT20210679,2021,State University,AIML,Male,6.94,2.0,4,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20230680,2023,Deemed University,ECE,Male,8.01,2.0,6,0,Intermediate,Good,No,Placed,Service,6.03,Embedded Engineer
+BT20230681,2023,State University,AIML,Female,8.5,0.0,2,0,Intermediate,Average,No,Placed,Service,7.91,QA Engineer
+BT20250682,2025,Private Engineering College,ECE,Male,6.78,1.0,3,1,Advanced,Good,No,Placed,Service,6.35,Software Developer
+BT20240683,2024,Deemed University,CSE,Male,6.82,0.0,1,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20250684,2025,State University,AIML,Male,7.66,1.0,1,0,Intermediate,Excellent,Yes,Placed,Product,15.43,Data Analyst
+BT20230685,2023,Deemed University,EEE,Male,5.4,0.0,0,0,Beginner,,No,Placed,Product,8.87,Core Engineer
+BT20210686,2021,Deemed University,CIVIL,Male,7.06,2.0,4,0,Beginner,Average,Yes,Placed,Core,4.26,Core Engineer
+BT20240687,2024,Private Engineering College,AIML,Female,7.47,0.0,1,0,Advanced,Poor,Yes,Placed,Service,7.77,Data Analyst
+BT20210688,2021,Deemed University,CSE,Female,7.61,1.0,4,0,Intermediate,Good,Yes,Placed,Startup,8.19,Software Developer
+BT20210689,2021,Deemed University,ECE,Female,7.43,0.0,2,0,Intermediate,Average,No,Placed,Product,8.38,Embedded Engineer
+BT20210690,2021,Private Engineering College,CSE,Male,7.95,0.0,1,0,Beginner,Average,Yes,Placed,Service,5.87,Data Analyst
+BT20230691,2023,NIT,EEE,Female,7.3,1.0,1,0,Intermediate,Excellent,Yes,Placed,Service,4.23,QA Engineer
+BT20220692,2022,Private Engineering College,CSE,Male,7.65,2.0,2,0,Beginner,Average,No,Placed,Startup,10.58,Software Developer
+BT20240693,2024,NIT,EEE,Female,7.47,1.0,2,0,Beginner,Average,No,Placed,Service,6.6,QA Engineer
+BT20240694,2024,Deemed University,CIVIL,Male,6.62,2.0,3,0,,Good,Yes,placed,Core,5.72,Operations
+BT20250695,2025,Private Engineering College,CSE,Female,7.39,1.0,2,0,Advanced,Average,Yes,Placed,Product,15.66,Data Analyst
+BT20220696,2022,Deemed University,EEE,Female,6.57,1.0,3,1,Beginner,Good,No,Placed,Service,6.99,Core Engineer
+BT20210697,2021,State University,MECH,Male,7.32,2.0,0,0,Intermediate,Average,No,Placed,Startup,7.43,Operations
+BT20240698,2024,Private Engineering College,ECE,Female,6.41,0.0,2,0,Beginner,Good,No,Placed,Service,7.23,Core Engineer
+BT20220699,2022,NIT,AIML,Male,6.76,1.0,3,0,Beginner,Good,Yes,Placed,Startup,10.78,Data Analyst
+BT20220700,2022,Private Engineering College,AIML,Female,6.25,0.0,5,0,Beginner,Average,Yes,Placed,Service,6.75,Software Developer
+BT20250701,2025,Deemed University,ECE,Female,8.12,,5,0,Beginner,Average,No,Placed,Service,6.02,Core Engineer
+BT20240702,2024,NIT,AIML,Male,7.27,2.0,3,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20220703,2022,Deemed University,AIML,Female,6.48,1.0,3,0,,Average,Yes,Placed,Startup,11.94,ML Engineer
+BT20220704,2022,Deemed University,CSE,Female,6.88,1.0,3,2,Intermediate,Good,No,Placed,Product,11.82,QA Engineer
+BT20240705,2024,Deemed University,AIML,Male,6.95,1.0,4,2,Intermediate,Good,Yes,Placed,Startup,9.94,ML Engineer
+BT20220706,2022,NIT,MECH,Female,6.67,1.0,3,0,Advanced,Good,No,Placed,Core,4.39,Software Developer
+BT20210707,2021,NIT,CSE,Male,7.56,0.0,3,0,Intermediate,Good,Yes,Placed,Product,11.77,Software Developer
+BT20210708,2021,Private Engineering College,MECH,Female,6.61,1.0,4,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20210709,2021,Deemed University,ECE,Female,5.37,0.0,3,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20220710,2022,Private Engineering College,CSE,Male,8.09,1.0,4,1,Beginner,Average,Yes,Placed,Startup,9.52,Data Analyst
+BT20210711,2021,State University,AIML,Male,8.96,1.0,1,0,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20230712,2023,Deemed University,CSE,Male,7.34,0.0,1,0,Intermediate,Excellent,Yes,Placed,Startup,10.84,Software Developer
+BT20230713,2023,NIT,IT,Male,6.63,0.0,2,1,Advanced,Good,Yes,Placed,Startup,9.15,QA Engineer
+BT20210714,2021,Private Engineering College,ECE,Male,7.81,2.0,3,0,Intermediate,Average,No,Placed,Service,3.78,Core Engineer
+BT20220715,2022,Deemed University,AIML,Male,6.01,1.0,3,1,Advanced,Poor,Yes,Placed,Service,5.64,ML Engineer
+BT20240716,2024,State University,CSE,Male,7.66,0.0,1,0,Intermediate,Average,Yes,Placed,Startup,10.72,Data Analyst
+BT20220717,2022,Private Engineering College,CIVIL,Female,7.05,0.0,0,1,Advanced,Good,No,Not Placed,NA,,NA
+BT20240718,2024,State University,ECE,Female,7.34,1.0,0,0,Intermediate,Average,No,Placed,Service,7.22,QA Engineer
+BT20210719,2021,State University,CSE,Male,6.95,0.0,2,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20240720,2024,Deemed University,CSE,Male,7.44,4.0,0,0,,Average,Yes,Placed,Service,8.21,Software Developer
+BT20250721,2025,Deemed University,CSE,Male,6.76,4.0,6,0,Intermediate,Poor,Yes,Placed,Startup,14.15,DevOps Engineer
+BT20210722,2021,Deemed University,IT,Female,7.36,0.0,1,0,Advanced,Excellent,Yes,Placed,Service,5.14,QA Engineer
+BT20240723,2024,Private Engineering College,CSE,Male,8.37,3.0,2,0,Advanced,Average,Yes,Placed,Product,17.83,Software Developer
+BT20220724,2022,Deemed University,EEE,Male,7.72,1.0,2,0,Beginner,,Yes,Not Placed,NA,,NA
+BT20250725,2025,Private Engineering College,AIML,Male,7.67,,3,2,Intermediate,Good,Yes,placed,Startup,14.05,ML Engineer
+BT20220726,2022,Deemed University,MECH,Male,7.29,0.0,3,0,Intermediate,Average,No,Placed,Core,4.45,Core Engineer
+BT20210727,2021,Private Engineering College,CSE,Male,6.88,1.0,2,0,Intermediate,Good,Yes,Placed,Service,7.05,Data Analyst
+BT20230728,2023,State University,MECH,Male,7.69,0.0,1,1,,Good,No,Placed,Core,3.57,Software Developer
+BT20240729,2024,Private Engineering College,AIML,Male,6.2,1.0,2,1,Advanced,Average,Yes,Placed,Startup,11.62,Data Scientist
+BT20230730,2023,Deemed University,MECH,Male,7.71,2.0,2,0,Intermediate,Average,No,Placed,Core,5.75,Core Engineer
+BT20210731,2021,NIT,IT,Female,7.06,1.0,2,0,Advanced,Excellent,Yes,Placed,Startup,8.45,Software Developer
+BT20230732,2023,State University,CIVIL,Male,7.43,3.0,0,0,Intermediate,Good,No,Placed,Service,5.62,Core Engineer
+BT20210733,2021,Private Engineering College,CIVIL,Male,6.15,3.0,2,1,Advanced,Average,No,Not Placed,NA,,NA
+BT20210734,2021,Deemed University,ECE,Female,7.32,0.0,4,0,Intermediate,Poor,No,Placed,Service,4.34,Core Engineer
+BT20250735,2025,State University,AIML,Male,5.16,2.0,0,1,Intermediate,Good,Yes,Placed,Service,10.89,ML Engineer
+BT20220736,2022,State University,AIML,Male,6.94,2.0,2,0,Advanced,Average,Yes,Placed,Service,9.23,ML Engineer
+BT20250737,2025,Deemed University,MECH,Male,6.52,0.0,1,0,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20240738,2024,Private Engineering College,CSE,Male,6.49,1.0,4,2,Beginner,Good,No,Placed,Startup,10.72,Software Developer
+BT20220739,2022,NIT,cse,Male,7.3,1.0,2,0,Beginner,Average,Yes,Placed,Product,10.4,Software Developer
+BT20210740,2021,Deemed University,MECH,Male,7.34,0.0,1,0,Advanced,Average,Yes,Placed,Startup,5.63,Core Engineer
+BT20210741,2021,Private Engineering College,AIML,Male,7.38,0.0,6,1,Intermediate,Average,Yes,not placed,NA,,NA
+BT20240742,2024,Private Engineering College,MECH,Male,6.43,2.0,5,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20240743,2024,State University,AIML,Female,6.6,0.0,3,0,Intermediate,Good,Yes,Placed,Startup,11.62,Data Analyst
+BT20210744,2021,Private Engineering College,ECE,Female,9.21,2.0,4,0,Intermediate,Good,Yes,Placed,Service,5.09,Software Developer
+BT20220745,2022,Private Engineering College,AIML,Male,6.92,0.0,3,1,Beginner,Poor,Yes,Not Placed,NA,,NA
+BT20240746,2024,Deemed University,CIVIL,Female,8.31,3.0,5,0,Beginner,Good,Yes,Placed,Service,6.6,Core Engineer
+BT20250747,2025,NIT,MECH,Female,6.7,1.0,1,1,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20230748,2023,State University,CSE,Male,6.72,1.0,1,1,Intermediate,Good,No,Placed,Service,6.26,Software Developer
+BT20240749,2024,NIT,ECE,Male,7.47,1.0,4,0,Advanced,Average,No,Placed,Service,5.93,Software Developer
+BT20210750,2021,State University,CIVIL,Female,7.34,4.0,3,0,Intermediate,Good,No,Placed,Service,3.7,Analyst
+BT20250751,2025,Private Engineering College,IT,Male,5.34,0.0,2,1,Advanced,Good,Yes,Placed,Service,6.69,Data Analyst
+BT20230752,2023,Private Engineering College,AIML,Male,6.43,1.0,4,2,Intermediate,Good,Yes,Placed,Service,6.89,Software Developer
+BT20250753,2025,NIT,CIVIL,Female,8.01,2.0,2,1,Advanced,Good,No,Placed,Service,4.03,Operations
+BT20230754,2023,Deemed University,MECH,Male,6.68,0.0,6,3,Beginner,Excellent,No,Placed,Core,5.14,Core Engineer
+BT20250755,2025,Deemed University,AIML,Male,5.32,1.0,3,4,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20220756,2022,Private Engineering College,MECH,Male,7.39,1.0,3,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20210757,2021,Private Engineering College,IT,Male,5.8,3.0,4,2,Advanced,Excellent,Yes,Placed,Startup,8.51,QA Engineer
+BT20240758,2024,Deemed University,IT,Male,7.13,0.0,1,0,Intermediate,Average,Yes,Placed,Service,6.48,QA Engineer
+BT20230759,2023,Private Engineering College,EEE,Male,7.79,1.0,2,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20240760,2024,Deemed University,AIML,Male,8.34,,4,0,Advanced,Average,No,Placed,Product,14.95,Software Developer
+BT20230761,2023,NIT,AIML,Male,7.32,2.0,2,0,,Poor,Yes,Placed,Service,7.72,ML Engineer
+BT20250762,2025,State University,EEE,Male,5.57,1.0,6,1,Advanced,Good,Yes,Placed,Core,5.36,Software Developer
+BT20220763,2022,NIT,EEE,Male,8.21,1.0,6,0,Advanced,Good,Yes,Placed,Service,3.92,Core Engineer
+BT20250764,2025,Deemed University,MECH,Male,6.78,0.0,4,0,Advanced,Good,Yes,Not Placed,NA,,NA
+BT20230765,2023,Private Engineering College,AIML,Female,6.39,0.0,5,0,Advanced,Good,Yes,Placed,Service,6.7,Data Scientist
+BT20210766,2021,State University,MECH,Male,5.6,2.0,1,0,Advanced,Good,No,Placed,Service,5.25,Core Engineer
+BT20210767,2021,Deemed University,CIVIL,Male,7.49,1.0,2,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20230768,2023,Deemed University,CSE,Male,8.39,0.0,3,0,Intermediate,Good,Yes,Placed,Product,24.41,DevOps Engineer
+BT20240769,2024,Private Engineering College,MECH,Male,7.91,0.0,7,2,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20230770,2023,Private Engineering College,IT,Male,8.53,2.0,1,0,Intermediate,Excellent,Yes,Placed,Service,7.37,Software Developer
+BT20210771,2021,Private Engineering College,CSE,Female,7.76,1.0,4,0,Beginner,Average,Yes,Placed,Service,4.01,Software Developer
+BT20220772,2022,Private Engineering College,ECE,Male,7.53,1.0,3,1,Beginner,Good,Yes,Placed,Product,9.09,Embedded Engineer
+BT20250773,2025,Private Engineering College,IT,Male,7.63,1.0,1,2,Beginner,Good,Yes,Placed,Service,6.99,QA Engineer
+BT20220774,2022,Private Engineering College,CSE,Male,7.38,2.0,8,0,Intermediate,Average,Yes,Placed,Service,7.65,Data Analyst
+BT20230775,2023,Private Engineering College,CSE,Male,6.68,1.0,4,0,Intermediate,Average,Yes,Placed,Product,12.64,Software Developer
+BT20210776,2021,State University,CIVIL,Male,7.2,1.0,1,0,Advanced,Poor,No,Not Placed,NA,,NA
+BT20220777,2022,Deemed University,IT,Female,6.25,2.0,1,0,Intermediate,Good,Yes,Placed,Service,6.1,QA Engineer
+BT20240778,2024,Private Engineering College,CSE,Male,8.53,0.0,1,0,Intermediate,Average,Yes,Placed,Service,7.87,Data Analyst
+BT20230779,2023,NIT,ECE,Male,7.53,0.0,3,0,Beginner,Good,No,Placed,Service,3.9,Software Developer
+BT20210780,2021,Deemed University,CSE,Male,6.8,2.0,0,0,Advanced,Good,No,Placed,Service,7.17,Data Analyst
+BT20250781,2025,NIT,CSE,Female,7.0,1.0,3,1,Advanced,Good,No,Placed,Service,8.6,QA Engineer
+BT20220782,2022,State University,CIVIL,Female,7.42,2.0,1,0,Intermediate,Average,Yes,Placed,Core,4.29,Analyst
+BT20240783,2024,Deemed University,CSE,Male,6.14,1.0,8,1,Intermediate,Good,Yes,Placed,Product,12.95,Software Developer
+BT20250784,2025,Private Engineering College,MECH,Female,7.48,1.0,5,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20210785,2021,Deemed University,AIML,Male,5.21,0.0,1,0,Beginner,Good,Yes,Placed,Service,6.47,Data Scientist
+BT20250786,2025,Private Engineering College,AIML,Male,6.68,3.0,2,0,Intermediate,Good,No,Placed,Service,8.33,QA Engineer
+BT20220787,2022,State University,eee,Male,8.35,1.0,1,0,Intermediate,Average,Yes,Placed,Service,2.57,QA Engineer
+BT20230788,2023,NIT,CSE,Male,5.79,1.0,0,2,Intermediate,Good,Yes,Placed,Service,5.73,Data Analyst
+BT20230789,2023,State University,CSE,Male,5.57,3.0,2,0,Advanced,Average,Yes,Placed,Service,8.22,Software Developer
+BT20240790,2024,Private Engineering College,CSE,Male,8.41,0.0,2,0,Intermediate,Excellent,Yes,Placed,Service,7.37,Software Developer
+BT20220791,2022,NIT,CIVIL,Male,7.73,0.0,4,0,Beginner,Good,No,Placed,Core,4.03,Operations
+BT20240792,2024,Private Engineering College,EEE,Male,7.92,0.0,2,0,Beginner,Good,No,Placed,Service,4.44,Embedded Engineer
+BT20250793,2025,State University,AIML,Male,5.7,1.0,2,1,Intermediate,Average,Yes,Placed,Service,6.51,ML Engineer
+BT20210794,2021,NIT,AIML,Male,7.02,3.0,4,0,Intermediate,Excellent,No,Placed,Startup,11.35,QA Engineer
+BT20250795,2025,Private Engineering College,ECE,Male,8.29,1.0,2,0,Intermediate,Average,Yes,Placed,Product,11.82,Core Engineer
+BT20220796,2022,Private Engineering College,ECE,Female,6.3,,6,1,Beginner,Good,No,Placed,Service,4.68,Embedded Engineer
+BT20220797,2022,Deemed University,ECE,Male,7.28,1.0,1,0,Intermediate,Good,No,Placed,Service,4.18,Embedded Engineer
+BT20240798,2024,Private Engineering College,CIVIL,Female,9.0,0.0,4,0,Advanced,Average,No,Placed,Core,3.76,Core Engineer
+BT20250799,2025,Deemed University,ECE,Male,8.64,1.0,1,0,Intermediate,Average,No,Placed,Service,5.48,Embedded Engineer
+BT20220800,2022,Private Engineering College,AIML,Male,7.59,0.0,1,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20230801,2023,Private Engineering College,ECE,Female,7.0,1.0,1,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20250802,2025,NIT,ECE,Female,8.41,2.0,3,0,Beginner,Good,No,Placed,Product,13.47,Software Developer
+BT20240803,2024,Private Engineering College,CSE,Female,7.25,1.0,1,0,,Average,Yes,Placed,Service,7.47,QA Engineer
+BT20240804,2024,Private Engineering College,CSE,Male,7.99,1.0,1,0,Beginner,Excellent,Yes,Placed,Product,14.89,QA Engineer
+BT20210805,2021,Deemed University,EEE,Female,6.62,0.0,5,0,Intermediate,Average,Yes,Placed,Core,4.88,Embedded Engineer
+BT20250806,2025,State University,CSE,Male,8.1,1.0,6,0,Intermediate,Good,No,Placed,Product,15.83,Data Analyst
+BT20250807,2025,State University,MECH,Male,5.64,2.0,1,-1,Beginner,Average,No,Not Placed,NA,,NA
+BT20250808,2025,Deemed University,CSE,Female,8.83,0.0,3,0,Intermediate,Good,Yes,Placed,Service,9.73,Software Developer
+BT20240809,2024,State University,MECH,Female,6.73,2.0,4,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20220810,2022,Deemed University,CSE,Female,6.18,1.0,3,0,Intermediate,Excellent,Yes,Placed,Service,8.23,Data Analyst
+BT20210811,2021,State University,MECH,Male,7.9,2.0,4,0,Beginner,Excellent,Yes,not placed,NA,,NA
+BT20250812,2025,Private Engineering College,ECE,Male,8.43,1.0,2,0,Intermediate,Good,Yes,Placed,Service,7.81,Software Developer
+BT20250813,2025,Private Engineering College,MECH,Female,8.72,2.0,3,0,Intermediate,Average,Yes,Placed,Core,7.36,Core Engineer
+BT20220814,2022,Deemed University,CIVIL,Male,6.66,2.0,2,1,Intermediate,Good,Yes,Placed,Service,3.23,Software Developer
+BT20240815,2024,Private Engineering College,ECE,Male,6.77,2.0,2,2,Advanced,Poor,No,Not Placed,NA,,NA
+BT20230816,2023,Private Engineering College,CSE,Female,7.6,1.0,1,0,Intermediate,Average,Yes,Placed,Product,11.67,Data Analyst
+BT20220817,2022,Deemed University,EEE,Female,7.86,1.0,0,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20230818,2023,State University,ECE,Male,6.61,1.0,1,0,Intermediate,Average,No,not placed,NA,,NA
+BT20250819,2025,Deemed University,CSE,Male,6.04,1.0,3,1,Intermediate,Good,Yes,Placed,Service,7.29,Software Developer
+BT20250820,2025,Deemed University,MECH,Male,7.91,2.0,2,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20220821,2022,Deemed University,ECE,Female,7.94,2.0,2,1,Advanced,Good,Yes,Placed,Product,10.05,Core Engineer
+BT20220822,2022,Deemed University,AIML,Male,5.41,0.0,1,0,,Good,Yes,Placed,Product,13.08,Data Analyst
+BT20210823,2021,NIT,AIML,Male,6.06,2.0,4,2,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20210824,2021,NIT,IT,Male,8.77,2.0,1,0,Advanced,Average,Yes,Placed,Product,11.01,Software Developer
+BT20210825,2021,Deemed University,ECE,Male,6.31,1.0,3,0,Beginner,Good,No,Placed,Product,7.65,QA Engineer
+BT20250826,2025,Private Engineering College,CSE,Male,8.15,1.0,2,0,Beginner,Excellent,Yes,Placed,Service,7.98,Software Developer
+BT20230827,2023,Private Engineering College,IT,Male,6.81,0.0,3,0,Beginner,Average,Yes,Placed,Service,5.16,Software Developer
+BT20250828,2025,State University,EEE,Female,7.89,0.0,2,1,Intermediate,Average,No,Placed,Service,5.48,QA Engineer
+BT20220829,2022,Deemed University,MECH,Male,6.17,0.0,1,0,Beginner,Excellent,No,Placed,Startup,5.37,Software Developer
+BT20250830,2025,Deemed University,AIML,Male,6.58,3.0,1,0,Advanced,Good,Yes,Placed,Startup,14.91,ML Engineer
+BT20210831,2021,Private Engineering College,CSE,Male,6.61,0.0,4,2,Advanced,Good,Yes,Placed,Startup,7.43,Software Developer
+BT20220832,2022,State University,AIML,Female,6.89,1.0,3,0,Intermediate,Excellent,Yes,Placed,Service,6.18,Data Scientist
+BT20250833,2025,Private Engineering College,EEE,Female,7.73,1.0,1,0,Beginner,Average,No,Placed,Core,5.36,Software Developer
+BT20230834,2023,Deemed University,MECH,Male,8.66,0.0,1,0,Advanced,Average,No,Placed,Core,5.2,Software Developer
+BT20250835,2025,Private Engineering College,AIML,Female,7.01,1.0,4,0,Advanced,Good,Yes,Placed,Product,16.6,Data Analyst
+BT20230836,2023,Deemed University,CSE,Male,6.21,0.0,1,1,Beginner,Good,Yes,Placed,Service,6.7,Software Developer
+BT20210837,2021,State University,CSE,Female,6.74,1.0,4,0,Advanced,Average,Yes,Placed,Service,6.74,Data Analyst
+BT20250838,2025,Private Engineering College,ECE,Female,6.94,1.0,0,1,Advanced,Good,No,Placed,Core,6.21,Core Engineer
+BT20220839,2022,State University,AIML,Male,7.17,1.0,1,0,Intermediate,Poor,Yes,Placed,Product,12.84,Software Developer
+BT20210840,2021,Deemed University,AIML,Female,6.56,0.0,3,0,Intermediate,Good,Yes,Placed,Startup,9.09,Data Scientist
+BT20250841,2025,Private Engineering College,AIML,Male,10.4,0.0,2,1,Advanced,Average,Yes,Placed,Service,7.56,Data Analyst
+BT20230842,2023,Private Engineering College,CSE,Male,6.46,2.0,5,0,Beginner,,Yes,Placed,Service,7.39,Software Developer
+BT20220843,2022,Private Engineering College,CSE,Female,8.94,0.0,0,0,Beginner,Good,Yes,Placed,Service,6.47,Data Analyst
+BT20240844,2024,NIT,CSE,Female,6.0,0.0,2,1,Beginner,Average,Yes,Placed,Service,6.73,Data Analyst
+BT20230845,2023,Deemed University,MECH,Male,6.24,0.0,2,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20210846,2021,Deemed University,CIVIL,Male,5.11,2.0,2,2,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20240847,2024,Deemed University,ECE,Male,6.82,1.0,1,3,Intermediate,Good,No,Not Placed,NA,,NA
+BT20240848,2024,Private Engineering College,IT,Male,6.62,2.0,2,1,Intermediate,Good,Yes,Placed,Service,6.89,Data Analyst
+BT20220849,2022,Private Engineering College,MECH,Male,7.86,0.0,1,0,,Average,No,Placed,Core,4.44,Core Engineer
+BT20210850,2021,Private Engineering College,MECH,Female,8.46,0.0,1,0,Advanced,Poor,No,Placed,Service,3.41,Core Engineer
+BT20240851,2024,Deemed University,ECE,Female,8.16,,3,0,Beginner,Good,Yes,Placed,Core,6.65,Software Developer
+BT20220852,2022,NIT,EEE,Female,7.51,0.0,2,0,Advanced,Poor,No,Placed,Service,4.81,Embedded Engineer
+BT20230853,2023,Private Engineering College,ECE,Male,6.19,2.0,1,0,Advanced,Good,Yes,Placed,Product,11.59,QA Engineer
+BT20220854,2022,Private Engineering College,ECE,Male,5.86,1.0,1,2,Beginner,Good,No,Not Placed,NA,,NA
+BT20220855,2022,Deemed University,MECH,Female,5.98,1.0,3,0,Beginner,Average,No,Placed,Startup,5.41,Core Engineer
+BT20250856,2025,State University,EEE,Female,6.88,1.0,3,2,Advanced,Average,Yes,Placed,Service,4.93,Core Engineer
+BT20210857,2021,Deemed University,CSE,Male,7.02,0.0,3,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20210858,2021,Deemed University,ECE,Female,7.61,0.0,2,1,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20220859,2022,Private Engineering College,MECH,Male,6.28,1.0,0,1,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20250860,2025,Private Engineering College,CSE,Female,7.16,1.0,1,0,Beginner,Good,Yes,Placed,Service,8.46,Software Developer
+BT20220861,2022,Deemed University,EEE,Male,7.13,3.0,3,0,Intermediate,Good,No,Placed,Service,3.74,Core Engineer
+BT20240862,2024,State University,CSE,Male,8.15,1.0,1,0,Intermediate,Poor,Yes,Placed,Service,6.59,Software Developer
+BT20250863,2025,Deemed University,CIVIL,Female,6.49,1.0,1,0,Advanced,Good,Yes,Placed,Core,5.24,Core Engineer
+BT20230864,2023,Private Engineering College,AIML,Male,7.2,3.0,8,0,Intermediate,Average,No,Placed,Startup,11.54,Software Developer
+BT20230865,2023,Deemed University,CSE,Female,7.28,1.0,6,1,Intermediate,Good,Yes,Placed,Product,13.89,Data Analyst
+BT20230866,2023,Deemed University,CIVIL,Female,6.66,0.0,0,0,Intermediate,Average,No,Placed,Service,2.4,Core Engineer
+BT20250867,2025,Private Engineering College,EEE,Female,7.27,1.0,0,0,Intermediate,Average,No,Placed,Product,10.29,QA Engineer
+BT20220868,2022,Private Engineering College,CSE,Female,5.5,1.0,2,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20210869,2021,State University,MECH,Male,6.65,0.0,5,0,Intermediate,Good,No,Placed,Service,2.96,Operations
+BT20230870,2023,Deemed University,AIML,Male,8.62,1.0,2,0,Beginner,Excellent,Yes,Placed,Product,15.61,ML Engineer
+BT20240871,2024,Deemed University,CSE,Male,7.86,1.0,4,0,Beginner,Poor,Yes,Placed,Service,7.22,Software Developer
+BT20220872,2022,Private Engineering College,CSE ,Male,8.2,3.0,4,0,Beginner,Good,Yes,Placed,Product,13.95,Software Developer
+BT20210873,2021,Private Engineering College,ECE,Male,7.09,0.0,1,0,Intermediate,Good,No,Placed,Core,4.71,Software Developer
+BT20240874,2024,Private Engineering College,EEE,Male,7.16,2.0,3,0,Intermediate,Good,No,Placed,Core,7.02,QA Engineer
+BT20250875,2025,Deemed University,MECH,Male,8.86,0.0,2,1,Advanced,Excellent,Yes,Placed,Service,5.55,Operations
+BT20210876,2021,Deemed University,MECH,Female,8.47,0.0,1,0,Beginner,Good,No,Placed,Core,3.52,Analyst
+BT20250877,2025,Deemed University,EEE,Female,8.81,2.0,2,0,Advanced,Good,Yes,Not Placed,NA,,NA
+BT20220878,2022,Deemed University,MECH,Male,9.02,1.0,1,0,Intermediate,Average,Yes,Placed,Service,4.36,Core Engineer
+BT20220879,2022,Deemed University,IT,Female,8.37,2.0,8,1,Intermediate,Average,Yes,Placed,Service,9.11,Software Developer
+BT20220880,2022,Private Engineering College,ECE,Female,6.98,0.0,4,0,Beginner,Excellent,No,Placed,Service,5.49,Core Engineer
+BT20220881,2022,Private Engineering College,CSE,Female,6.08,1.0,3,0,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20240882,2024,Deemed University,CSE,Female,6.11,0.0,0,0,Intermediate,Average,Yes,Placed,Service,7.21,QA Engineer
+BT20210883,2021,Deemed University,CSE,Male,6.13,1.0,1,0,Intermediate,Average,Yes,Placed,Service,5.76,QA Engineer
+BT20250884,2025,Deemed University,CIVIL,Male,7.08,1.0,4,0,Intermediate,Average,No,Placed,Service,3.98,Software Developer
+BT20230885,2023,Private Engineering College,EEE,Female,6.44,0.0,5,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20230886,2023,NIT,AIML,Female,8.12,1.0,3,1,Advanced,Average,Yes,placed,Product,14.01,ML Engineer
+BT20230887,2023,Private Engineering College,CSE,Male,5.63,3.0,2,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20240888,2024,Deemed University,AIML,Male,6.72,0.0,6,2,Beginner,Excellent,No,Placed,Service,7.34,Software Developer
+BT20240889,2024,Private Engineering College,ECE,Male,7.18,3.0,2,0,Intermediate,Good,Yes,Placed,Service,7.02,Embedded Engineer
+BT20210890,2021,NIT,AIML,Male,5.44,1.0,3,1,Intermediate,Good,Yes,Placed,Product,11.21,ML Engineer
+BT20250891,2025,Deemed University,CIVIL,Male,7.72,2.0,5,0,Intermediate,Average,No,Placed,Core,3.76,Software Developer
+BT20250892,2025,Deemed University,CSE,Male,7.23,0.0,2,0,Advanced,Good,Yes,Placed,Service,7.56,Software Developer
+BT20230893,2023,State University,CSE,Male,6.56,0.0,1,2,Advanced,Excellent,Yes,Placed,Service,6.44,QA Engineer
+BT20240894,2024,Deemed University,EEE,Male,7.23,1.0,3,0,Beginner,Average,No,Placed,Core,4.98,Embedded Engineer
+BT20230895,2023,Deemed University,AIML,Female,6.27,3.0,5,1,Intermediate,Average,Yes,Placed,Product,15.45,ML Engineer
+BT20220896,2022,State University,IT,Female,7.35,1.0,3,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20240897,2024,NIT,MECH,Male,8.59,1.0,2,0,Advanced,Average,No,placed,Service,4.56,Software Developer
+BT20220898,2022,State University,ECE,Female,8.12,1.0,5,0,Intermediate,Good,No,Placed,Core,5.63,Embedded Engineer
+BT20240899,2024,Private Engineering College,MECH,Male,5.0,1.0,3,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20210900,2021,Private Engineering College,AIML,Female,8.11,0.0,3,0,Intermediate,Average,Yes,Placed,Startup,9.49,Data Scientist
+BT20240901,2024,State University,IT,Male,7.17,1.0,3,1,Advanced,Good,Yes,Placed,Service,7.77,QA Engineer
+BT20250902,2025,Deemed University,ECE,Female,7.4,1.0,3,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20240903,2024,Deemed University,MECH,Male,6.6,1.0,2,3,Intermediate,Excellent,No,Placed,Core,6.04,Core Engineer
+BT20250904,2025,Deemed University,CSE,Male,7.78,1.0,3,0,Intermediate,Good,Yes,Placed,Service,9.24,Software Developer
+BT20240905,2024,NIT,CSE,Male,7.78,1.0,7,1,Advanced,Good,Yes,Not Placed,NA,,NA
+BT20230906,2023,State University,EEE,Male,10.4,1.0,4,2,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20230907,2023,Deemed University,IT,Female,7.55,0.0,1,0,Intermediate,Good,Yes,Placed,Service,5.82,QA Engineer
+BT20220908,2022,Deemed University,MECH,Female,6.61,1.0,2,0,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20240909,2024,State University,IT,Female,5.84,1.0,2,0,Intermediate,Average,Yes,Placed,Service,5.19,QA Engineer
+BT20240910,2024,Deemed University,CSE,Male,6.23,0.0,5,0,,Excellent,Yes,Placed,Service,8.29,QA Engineer
+BT20220911,2022,Private Engineering College,IT,Female,7.1,1.0,1,0,Beginner,Good,Yes,Placed,Service,6.55,DevOps Engineer
+BT20230912,2023,Deemed University,CSE,Female,8.4,1.0,5,0,Intermediate,Average,No,Placed,Service,7.45,DevOps Engineer
+BT20210913,2021,NIT,MECH,Female,7.5,1.0,1,0,Beginner,Excellent,No,Placed,Core,2.4,Operations
+BT20210914,2021,Deemed University,IT,Male,7.24,2.0,2,0,Advanced,Excellent,Yes,Placed,Product,10.21,Software Developer
+BT20220915,2022,Private Engineering College,IT,Female,6.5,0.0,3,2,Intermediate,Good,Yes,Placed,Service,4.64,Software Developer
+BT20210916,2021,Private Engineering College,IT,Male,6.48,0.0,3,1,Intermediate,Average,Yes,Placed,Product,10.66,QA Engineer
+BT20210917,2021,NIT,ECE,Female,8.03,1.0,3,0,Intermediate,Average,No,Placed,Product,8.4,Core Engineer
+BT20220918,2022,Deemed University,MECH,Male,7.26,0.0,3,0,Advanced,Average,No,Not Placed,NA,,NA
+BT20240919,2024,Private Engineering College,MECH,Female,6.83,0.0,1,0,Advanced,Average,Yes,Placed,Service,3.33,Operations
+BT20210920,2021,Deemed University,MECH,Female,5.0,3.0,2,1,Advanced,Good,Yes,Not Placed,NA,,NA
+BT20210921,2021,Private Engineering College,AIML,Female,8.3,0.0,3,0,Advanced,Poor,Yes,Placed,Startup,8.56,Data Scientist
+BT20240922,2024,NIT,AIML,Male,7.84,2.0,3,1,Intermediate,Average,Yes,Placed,Product,17.54,Software Developer
+BT20210923,2021,Deemed University,EEE,Male,6.27,1.0,1,2,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20250924,2025,Private Engineering College,CSE,Male,9.51,1.0,6,0,Intermediate,Average,Yes,Placed,Product,17.95,Data Analyst
+BT20220925,2022,Deemed University,IT,Male,7.49,1.0,1,0,,Average,No,Placed,Product,10.85,Data Analyst
+BT20220926,2022,Deemed University,AIML,Female,6.31,,3,1,Beginner,Excellent,No,Placed,Service,6.83,Data Analyst
+BT20230927,2023,Deemed University,CIVIL,Male,8.42,1.0,3,0,Intermediate,Average,No,Placed,Startup,7.0,Software Developer
+BT20230928,2023,NIT,MECH ,Male,8.19,2.0,0,0,Intermediate,Average,No,Placed,Service,4.52,Core Engineer
+BT20210929,2021,State University,ECE,Female,5.62,1.0,2,1,Intermediate,Average,No,not placed,NA,,NA
+BT20250930,2025,Deemed University,ECE,Male,7.59,1.0,3,0,Advanced,Average,Yes,Placed,Product,12.31,QA Engineer
+BT20210931,2021,Private Engineering College,CSE,Female,5.27,1.0,2,0,Advanced,Average,Yes,Placed,Product,11.27,Software Developer
+BT20250932,2025,State University,IT,Female,5.82,4.0,2,2,Intermediate,Excellent,Yes,Placed,Service,8.33,Software Developer
+BT20210933,2021,Deemed University,ECE,Male,7.16,,2,0,Advanced,Good,No,Placed,Service,6.15,Software Developer
+BT20250934,2025,Deemed University,CSE,Female,6.59,0.0,0,0,Intermediate,Good,Yes,Placed,Service,7.65,Data Analyst
+BT20250935,2025,Deemed University,CIVIL,Male,6.48,1.0,1,1,,Average,No,Placed,Service,4.89,Software Developer
+BT20250936,2025,Private Engineering College,EEE,Female,8.35,2.0,0,0,Intermediate,Good,No,Placed,Service,5.74,Software Developer
+BT20230937,2023,State University,CSE,Female,9.07,2.0,1,0,Beginner,Average,No,Placed,Service,8.3,DevOps Engineer
+BT20250938,2025,Private Engineering College,EEE,Male,6.92,0.0,3,0,Advanced,Excellent,No,Placed,Service,4.57,Software Developer
+BT20250939,2025,Deemed University,AIML,Female,5.0,1.0,1,0,Intermediate,Good,Yes,Placed,Startup,13.31,ML Engineer
+BT20210940,2021,Deemed University,AIML,Female,6.37,0.0,4,1,Advanced,,Yes,Placed,Product,11.07,Data Analyst
+BT20250941,2025,Private Engineering College,AIML,Male,6.88,2.0,3,0,Intermediate,Excellent,Yes,Placed,Startup,14.07,Data Analyst
+BT20250942,2025,Private Engineering College,CSE,Male,6.31,,3,1,Intermediate,Good,Yes,Placed,Product,13.63,QA Engineer
+BT20240943,2024,Deemed University,ECE,Male,7.19,1.0,3,1,Advanced,Excellent,No,Placed,Service,4.98,Core Engineer
+BT20220944,2022,NIT,CSE,Female,6.67,3.0,2,0,Beginner,,Yes,Placed,Startup,13.16,Software Developer
+BT20230945,2023,State University,CSE,Female,7.17,1.0,5,0,Beginner,Good,Yes,Placed,Service,9.01,QA Engineer
+BT20210946,2021,Deemed University,MECH,Male,6.66,0.0,3,2,Intermediate,Average,No,Not Placed,NA,,NA
+BT20210947,2021,State University,ECE,Male,7.71,1.0,2,0,Beginner,Poor,No,Not Placed,NA,,NA
+BT20210948,2021,Private Engineering College,CSE,Male,6.85,1.0,4,1,Beginner,Average,Yes,NotPlaced,NA,,NA
+BT20210949,2021,Private Engineering College,EEE,Female,6.24,3.0,4,4,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20250950,2025,Private Engineering College,AIML,Female,7.56,1.0,3,0,Beginner,Poor,Yes,Placed,Product,13.92,Data Scientist
+BT20210951,2021,Private Engineering College,IT,Female,6.6,1.0,2,1,Intermediate,Good,No,Placed,Service,4.52,QA Engineer
+BT20220952,2022,Deemed University,AIML,Female,7.56,0.0,0,1,Intermediate,Excellent,Yes,Placed,Service,6.5,Data Analyst
+BT20220953,2022,NIT,CSE,Male,6.5,0.0,6,1,Intermediate,Average,Yes,Placed,Product,11.41,Data Analyst
+BT20220954,2022,Deemed University,EEE,Female,8.88,1.0,0,0,Beginner,Excellent,No,Placed,Service,4.64,Software Developer
+BT20210955,2021,State University,CSE,Male,7.04,3.0,3,0,Advanced,,No,Placed,Product,12.75,Data Analyst
+BT20240956,2024,Deemed University,IT,Male,6.73,1.0,4,1,Intermediate,Average,Yes,Placed,Startup,9.79,QA Engineer
+BT20240957,2024,Deemed University,AIML,Male,6.51,0.0,1,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20230958,2023,Deemed University,IT,Female,7.74,2.0,2,0,Beginner,Good,No,Placed,Service,5.29,Software Developer
+BT20210959,2021,Private Engineering College,AIML,Male,7.56,0.0,4,0,Intermediate,Average,Yes,Placed,Service,6.24,ML Engineer
+BT20240960,2024,Private Engineering College,CSE,Male,8.98,0.0,4,1,Beginner,Good,Yes,Placed,Startup,9.89,Software Developer
+BT20210961,2021,Deemed University,EEE,Female,7.24,1.0,3,0,Intermediate,Good,No,Not Placed,NA,,NA
+BT20240962,2024,Private Engineering College,AIML,Male,6.44,0.0,2,0,Intermediate,Good,Yes,Placed,Service,7.89,Software Developer
+BT20210963,2021,Private Engineering College,CSE,Female,6.28,0.0,4,0,Intermediate,Excellent,Yes,Not Placed,NA,,NA
+BT20220964,2022,Private Engineering College,CSE,Female,7.2,3.0,4,0,Intermediate,Average,No,Placed,Service,8.19,DevOps Engineer
+BT20220965,2022,NIT,ECE,Male,6.5,0.0,3,1,Advanced,Good,Yes,Placed,Service,6.16,Core Engineer
+BT20250966,2025,Deemed University,CSE  ,Female,6.66,1.0,3,2,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20250967,2025,State University,MECH,Male,7.48,0.0,6,1,Beginner,Excellent,No,NotPlaced,NA,,NA
+BT20230968,2023,Private Engineering College,MECH,Male,6.86,0.0,2,0,Intermediate,Average,Yes,Placed,Core,2.8,Operations
+BT20230969,2023,State University,MECH,Male,5.18,2.0,1,2,Beginner,Poor,No,Not Placed,NA,,NA
+BT20210970,2021,Private Engineering College,IT,Male,6.97,1.0,4,1,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20230971,2023,Private Engineering College,CSE,Female,5.1,1.0,4,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20230972,2023,State University,AIML,Male,5.44,0.0,0,0,Advanced,Good,Yes,Placed,Service,8.25,Data Analyst
+BT20220973,2022,State University,ECE,Male,8.21,2.0,3,0,Advanced,Excellent,No,Not Placed,NA,,NA
+BT20210974,2021,State University,EEE,Male,8.35,2.0,3,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20210975,2021,Private Engineering College,IT,Male,7.21,0.0,1,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20230976,2023,Deemed University,EEE,Male,6.42,0.0,1,1,Intermediate,Good,Yes,Placed,Service,4.15,Software Developer
+BT20210977,2021,Deemed University,ECE,Male,8.03,1.0,3,0,Intermediate,Excellent,Yes,Placed,Service,4.04,Core Engineer
+BT20230978,2023,Private Engineering College,MECH,Male,7.41,1.0,4,0,Intermediate,Excellent,No,Placed,Service,3.33,Analyst
+BT20210979,2021,NIT,EEE,Female,7.59,1.0,0,0,Advanced,Good,No,Placed,Service,4.3,Core Engineer
+BT20240980,2024,Private Engineering College,IT,Male,7.81,1.0,1,0,Intermediate,Poor,Yes,Placed,Product,13.43,QA Engineer
+BT20250981,2025,Deemed University,CSE,Female,7.77,0.0,0,0,Advanced,Average,Yes,Placed,Service,8.07,Data Analyst
+BT20210982,2021,Private Engineering College,AIML,Female,7.28,2.0,0,0,Beginner,Good,Yes,Placed,Service,7.28,Data Scientist
+BT20230983,2023,Deemed University,EEE,Male,7.99,0.0,2,0,Intermediate,Good,No,Placed,Service,3.91,Embedded Engineer
+BT20240984,2024,Deemed University,MECH,Male,6.63,0.0,5,1,Intermediate,Average,No,Placed,Startup,6.4,Core Engineer
+BT20230985,2023,Private Engineering College,AIML,Male,7.29,0.0,4,0,Advanced,Poor,No,Placed,Startup,11.39,DevOps Engineer
+BT20220986,2022,Deemed University,CIVIL,Male,7.75,0.0,2,0,Intermediate,Good,No,Placed,Service,3.75,Core Engineer
+BT20210987,2021,Deemed University,CSE,Female,7.64,2.0,4,0,Intermediate,Good,Yes,Placed,Product,13.65,QA Engineer
+BT20230988,2023,Private Engineering College,AIML,Male,7.78,2.0,2,0,Beginner,Good,Yes,Placed,Startup,11.51,Data Analyst
+BT20240989,2024,Deemed University,AIML,Male,5.46,0.0,1,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20230990,2023,Deemed University,ECE,Male,6.55,0.0,2,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20240991,2024,Deemed University,CSE,Male,6.11,,4,0,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20210992,2021,Private Engineering College,IT,Female,6.34,1.0,1,0,Intermediate,Average,Yes,Placed,Service,5.7,QA Engineer
+BT20210993,2021,Private Engineering College,AIML,Female,5.84,1.0,3,2,Intermediate,Good,Yes,Placed,Service,5.25,Software Developer
+BT20230994,2023,Deemed University,CIVIL,Male,6.41,0.0,1,1,Intermediate,Poor,No,Placed,Service,3.72,Analyst
+BT20250995,2025,NIT,CIVIL,Male,6.63,1.0,2,1,Beginner,Poor,No,Placed,Service,5.34,Software Developer
+BT20250996,2025,Deemed University,ECE,Female,7.93,1.0,3,0,Intermediate,Excellent,Yes,Placed,Service,6.28,Embedded Engineer
+BT20210997,2021,Private Engineering College,AIML,Male,6.96,2.0,2,1,Intermediate,,Yes,Not Placed,NA,,NA
+BT20250998,2025,Private Engineering College,ECE,Female,5.58,1.0,4,0,Advanced,Average,No,Placed,Product,11.03,Embedded Engineer
+BT20210999,2021,Deemed University,CIVIL,Female,7.82,0.0,3,0,Intermediate,,No,Not Placed,NA,,NA
+BT20251000,2025,Deemed University,EEE,Female,7.75,2.0,3,0,Beginner,Average,No,Placed,Core,6.09,Software Developer
+BT20251001,2025,Deemed University,ECE,Female,6.35,2.0,4,1,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20241002,2024,Deemed University,IT,Male,7.52,0.0,0,0,Intermediate,Average,Yes,Placed,Product,10.77,Software Developer
+BT20241003,2024,Deemed University,CIVIL,Male,7.06,1.0,6,1,Intermediate,Poor,No,Placed,Core,3.39,Core Engineer
+BT20221004,2022,Deemed University,ECE,Male,6.85,0.0,2,1,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20231005,2023,State University,ECE,Male,6.67,1.0,2,1,Beginner,Good,No,Not Placed,NA,,NA
+BT20251006,2025,State University,AIML,Male,6.7,0.0,3,0,Intermediate,Average,Yes,Placed,Service,8.0,Data Analyst
+BT20211007,2021,Private Engineering College,AIML,Female,7.26,,4,0,Advanced,Average,Yes,Placed,Service,6.11,ML Engineer
+BT20241008,2024,Private Engineering College,EEE,Male,7.61,0.0,3,0,Advanced,Average,Yes,Placed,Service,4.91,Embedded Engineer
+BT20231009,2023,Deemed University,IT,Male,8.41,2.0,1,1,Advanced,Good,Yes,Placed,Service,7.11,Software Developer
+BT20231010,2023,State University,CIVIL,Female,7.12,0.0,2,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20231011,2023,Deemed University,IT,Male,6.02,1.0,1,0,Intermediate,Good,Yes,Placed,Startup,9.31,Software Developer
+BT20251012,2025,Private Engineering College,aiml,Male,7.84,,2,0,Intermediate,Average,Yes,Placed,Startup,13.83,Data Analyst
+BT20241013,2024,Deemed University,AIML,Female,7.1,4.0,3,0,Advanced,Average,Yes,Placed,Product,17.91,Data Analyst
+BT20211014,2021,Deemed University,MECH,Female,6.34,3.0,3,1,Beginner,Good,No,Not Placed,NA,,NA
+BT20251015,2025,Private Engineering College,ECE,Male,6.13,2.0,2,1,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20211016,2021,Private Engineering College,IT,Male,6.6,3.0,1,0,Intermediate,Good,Yes,Placed,Service,4.7,DevOps Engineer
+BT20221017,2022,State University,CSE,Female,7.35,0.0,2,0,Intermediate,Poor,Yes,Placed,Product,11.95,Software Developer
+BT20241018,2024,Private Engineering College,ECE,Male,9.17,,3,0,Advanced,,No,Placed,Product,11.49,QA Engineer
+BT20241019,2024,Private Engineering College,CIVIL,Female,7.13,,3,0,Beginner,Good,Yes,Placed,Startup,5.93,Software Developer
+BT20251020,2025,Private Engineering College,IT,Male,7.52,1.0,2,0,Advanced,Good,Yes,Placed,Service,6.47,Data Analyst
+BT20211021,2021,Deemed University,EEE,Female,7.19,2.0,2,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20241022,2024,Deemed University,CIVIL,Female,6.81,2.0,0,1,Beginner,Average,No,Placed,Core,4.69,Analyst
+BT20251023,2025,Private Engineering College,CSE,Male,8.71,0.0,2,1,Intermediate,Average,Yes,Placed,Product,16.8,QA Engineer
+BT20231024,2023,Private Engineering College,AIML,Male,6.66,1.0,4,1,Beginner,Excellent,No,Placed,Service,7.0,QA Engineer
+BT20231025,2023,Deemed University,EEE,Female,8.69,1.0,3,0,Advanced,Average,No,Placed,Core,5.96,Software Developer
+BT20211026,2021,NIT,CSE,Female,7.08,4.0,1,0,Intermediate,,Yes,Placed,Startup,10.24,QA Engineer
+BT20221027,2022,Private Engineering College,ECE,Male,8.06,1.0,3,0,Intermediate,,No,Not Placed,NA,,NA
+BT20221028,2022,Private Engineering College,IT,Male,7.29,2.0,4,0,Intermediate,Poor,Yes,Placed,Startup,10.75,Data Analyst
+BT20221029,2022,Private Engineering College,ECE,Male,8.34,2.0,2,0,Intermediate,Poor,Yes,Placed,Service,5.33,Core Engineer
+BT20221030,2022,Private Engineering College,CSE,Male,5.92,0.0,1,1,Beginner,Poor,Yes,Placed,Service,5.01,Software Developer
+BT20221031,2022,Deemed University,CSE,Female,7.22,0.0,2,0,Intermediate,Good,Yes,Placed,Service,6.34,QA Engineer
+BT20251032,2025,State University,EEE,Male,6.59,4.0,1,1,Intermediate,Excellent,No,Placed,Core,5.67,Embedded Engineer
+BT20221033,2022,Deemed University,AIML,Female,8.24,3.0,3,1,Intermediate,Average,Yes,Placed,Service,9.17,Data Analyst
+BT20241034,2024,Private Engineering College,MECH,Female,6.72,3.0,4,1,Intermediate,Good,No,Placed,Core,4.99,Core Engineer
+BT20221035,2022,State University,aiml,Female,5.74,2.0,5,0,Intermediate,Good,Yes,Placed,Product,12.7,Data Analyst
+BT20251036,2025,NIT,EEE,Male,7.29,1.0,2,0,Intermediate,Good,No,Placed,Service,5.4,Embedded Engineer
+BT20251037,2025,Private Engineering College,CSE,Male,8.11,1.0,0,0,Intermediate,Excellent,Yes,Placed,Service,8.76,Data Analyst
+BT20241038,2024,State University,CIVIL,Male,6.76,0.0,0,0,Intermediate,Average,Yes,Placed,Service,4.63,Core Engineer
+BT20241039,2024,NIT,IT,Male,5.73,2.0,1,0,Advanced,Good,Yes,Placed,Startup,10.41,Software Developer
+BT20231040,2023,Private Engineering College,CIVIL,Female,7.83,2.0,1,0,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20231041,2023,Deemed University,IT,Male,6.61,1.0,2,0,Advanced,Poor,No,Placed,Startup,10.42,DevOps Engineer
+BT20241042,2024,Private Engineering College,EEE,Female,7.24,4.0,4,0,Beginner,,No,Placed,Product,11.61,Core Engineer
+BT20211043,2021,Deemed University,AIML,Female,7.73,3.0,1,0,Advanced,Excellent,Yes,Placed,Service,7.04,Data Scientist
+BT20211044,2021,Deemed University,ECE,Female,7.38,1.0,3,1,Intermediate,Average,Yes,Placed,Product,9.42,Software Developer
+BT20211045,2021,Deemed University,IT,Female,7.63,3.0,3,0,Advanced,Good,Yes,Placed,Service,6.89,Software Developer
+BT20241046,2024,Deemed University,AIML,Female,5.67,,4,1,Beginner,Excellent,Yes,Placed,Service,9.07,ML Engineer
+BT20251047,2025,Private Engineering College,AIML,Male,6.47,0.0,4,1,Intermediate,Excellent,Yes,Not Placed,NA,,NA
+BT20211048,2021,Deemed University,EEE,Male,5.34,1.0,2,2,Intermediate,Good,No,Placed,Service,5.34,QA Engineer
+BT20211049,2021,NIT,IT,Male,5.7,1.0,3,1,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20221050,2022,Deemed University,ECE,Female,7.96,2.0,6,0,Intermediate,Average,No,Placed,Service,5.82,Embedded Engineer
+BT20241051,2024,Deemed University,IT,Female,7.35,2.0,2,0,Beginner,Good,Yes,Placed,Service,6.98,QA Engineer
+BT20251052,2025,Private Engineering College,CSE,Male,8.19,2.0,4,0,Beginner,Good,Yes,Placed,Startup,13.11,Software Developer
+BT20231053,2023,NIT,CSE,Male,5.74,0.0,4,3,Advanced,Average,Yes,Placed,Product,10.6,Software Developer
+BT20211054,2021,Deemed University,CSE,Male,5.71,0.0,1,0,,Excellent,Yes,Placed,Service,6.74,QA Engineer
+BT20251055,2025,Private Engineering College,ECE,Female,8.22,1.0,4,0,Advanced,Good,Yes,Placed,Service,7.02,QA Engineer
+BT20231056,2023,Private Engineering College,EEE,Female,7.92,0.0,0,0,Intermediate,,Yes,Placed,Core,5.52,QA Engineer
+BT20221057,2022,Private Engineering College,MECH,Female,5.0,1.0,2,0,Intermediate,Excellent,Yes,Placed,Service,3.59,Core Engineer
+BT20241058,2024,Private Engineering College,CIVIL,Female,6.08,0.0,1,0,Advanced,Good,No,Placed,Service,3.5,Analyst
+BT20241059,2024,Deemed University,CSE,Female,6.54,1.0,3,0,Advanced,Good,Yes,Placed,Product,12.59,Software Developer
+BT20211060,2021,Private Engineering College,IT,Female,8.49,2.0,1,0,Intermediate,Average,Yes,Placed,Product,12.2,Software Developer
+BT20231061,2023,Deemed University,AIML,Male,8.42,0.0,4,0,Advanced,Average,Yes,Placed,Startup,11.63,Data Scientist
+BT20251062,2025,Private Engineering College,EEE,Male,7.48,3.0,3,0,Beginner,Average,Yes,Placed,Service,6.73,Software Developer
+BT20231063,2023,Deemed University,EEE,Female,6.5,1.0,3,1,Advanced,Average,No,Placed,Service,4.73,Core Engineer
+BT20211064,2021,Private Engineering College,CSE,Female,7.1,0.0,1,0,Beginner,Good,Yes,Placed,Startup,9.53,Software Developer
+BT20251065,2025,Private Engineering College,MECH,Male,7.74,,3,0,Beginner,Good,No,Placed,Core,6.34,Core Engineer
+BT20251066,2025,Deemed University,EEE,Male,7.38,2.0,2,0,Advanced,Excellent,No,Placed,Product,10.09,Core Engineer
+BT20211067,2021,Deemed University,CSE,Female,7.29,2.0,5,0,Advanced,Excellent,Yes,Placed,Startup,9.63,QA Engineer
+BT20251068,2025,Private Engineering College,EEE,Female,7.01,1.0,4,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20251069,2025,Deemed University,MECH,Female,8.57,1.0,2,0,Advanced,Good,Yes,Placed,Service,5.54,Core Engineer
+BT20231070,2023,Deemed University,AIML,Male,7.6,0.0,1,0,Advanced,Average,Yes,Placed,Service,7.62,Data Analyst
+BT20251071,2025,State University,IT,Male,7.27,2.0,2,0,Beginner,Good,Yes,Placed,Product,14.47,DevOps Engineer
+BT20221072,2022,State University,CSE,Female,7.85,0.0,6,0,Beginner,Good,No,Placed,Product,11.65,Software Developer
+BT20221073,2022,Deemed University,CSE,Male,7.82,1.0,4,1,Advanced,Poor,Yes,Placed,Service,7.66,Data Analyst
+BT20241074,2024,Deemed University,CIVIL,Female,6.73,0.0,5,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20211075,2021,Private Engineering College,CSE,Female,6.96,1.0,4,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20221076,2022,State University,ECE,Female,7.36,2.0,2,0,Intermediate,Good,Yes,Placed,Core,5.8,Software Developer
+BT20211077,2021,Deemed University,IT,Female,7.84,2.0,0,0,Intermediate,Average,Yes,Placed,Startup,9.02,Software Developer
+BT20221078,2022,NIT,AIML,Male,6.78,1.0,2,1,Intermediate,Good,Yes,Placed,Product,12.21,Data Analyst
+BT20221079,2022,State University,CSE,Male,6.88,4.0,0,0,Intermediate,Good,Yes,Placed,Service,6.11,Software Developer
+BT20251080,2025,Deemed University,AIML,Male,5.32,0.0,1,0,Intermediate,Good,Yes,Placed,Service,8.43,Data Analyst
+BT20221081,2022,NIT,AIML,Female,6.46,0.0,1,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20231082,2023,State University,AIML,Female,7.73,1.0,1,1,Intermediate,Average,Yes,Placed,Startup,10.41,ML Engineer
+BT20251083,2025,State University,AIML,Female,7.2,1.0,1,0,Intermediate,Good,Yes,Placed,Service,8.58,ML Engineer
+BT20251084,2025,Private Engineering College,ECE,Male,7.06,2.0,3,1,Intermediate,Excellent,No,Placed,Core,6.81,Embedded Engineer
+BT20221085,2022,Deemed University,IT,Male,7.25,2.0,2,0,Advanced,Good,Yes,Placed,Service,5.88,Data Analyst
+BT20251086,2025,Deemed University,MECH,Female,7.01,1.0,2,0,Intermediate,Average,No,Placed,Core,3.37,Operations
+BT20211087,2021,NIT,ECE,Male,6.91,4.0,4,2,Advanced,Good,No,Placed,Product,10.3,Core Engineer
+BT20211088,2021,NIT,MECH,Female,6.67,0.0,1,1,Intermediate,Average,No,Placed,Startup,5.45,Analyst
+BT20241089,2024,Private Engineering College,CSE,Female,6.34,0.0,1,0,Intermediate,Excellent,Yes,Placed,Product,12.57,Software Developer
+BT20211090,2021,State University,CSE,Female,5.97,0.0,3,1,Intermediate,Good,Yes,Placed,Startup,8.26,QA Engineer
+BT20211091,2021,NIT,CSE,Male,6.69,1.0,5,1,Intermediate,Poor,Yes,Placed,Startup,8.35,DevOps Engineer
+BT20211092,2021,State University,ECE,Female,7.62,0.0,2,0,Beginner,Good,No,not placed,NA,,NA
+BT20251093,2025,Private Engineering College,CIVIL,Male,7.56,0.0,5,0,Advanced,Good,Yes,Placed,Service,5.46,Core Engineer
+BT20231094,2023,Deemed University,ECE,Male,6.54,1.0,6,0,Advanced,Good,Yes,Placed,Product,10.18,Embedded Engineer
+BT20211095,2021,Deemed University,MECH,Male,7.52,0.0,2,0,Advanced,Average,No,Placed,Service,2.92,Operations
+BT20221096,2022,NIT,CIVIL,Male,8.15,2.0,4,0,Intermediate,Good,No,Placed,Core,4.88,Analyst
+BT20231097,2023,Deemed University,ECE,Male,6.98,0.0,4,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20211098,2021,Private Engineering College,AIML,Female,7.73,0.0,4,0,Intermediate,Good,No,Placed,Product,11.39,Software Developer
+BT20241099,2024,State University,ECE,Female,7.11,0.0,4,0,Beginner,Average,No,Placed,Core,4.89,Software Developer
+BT20221100,2022,Private Engineering College,CSE,Female,7.33,3.0,2,0,Intermediate,Average,No,Placed,Service,7.26,DevOps Engineer
+BT20251101,2025,State University,MECH,Female,7.92,0.0,0,0,Advanced,Excellent,No,Placed,Core,5.46,Operations
+BT20251102,2025,State University,IT,Male,6.58,2.0,2,0,Advanced,Good,Yes,Placed,Service,6.54,QA Engineer
+BT20251103,2025,Deemed University,ECE,Female,6.7,0.0,5,0,Intermediate,Good,No,Placed,Service,4.51,QA Engineer
+BT20211104,2021,Deemed University,IT,Male,7.93,1.0,1,0,Intermediate,Excellent,Yes,Placed,Service,4.87,Data Analyst
+BT20231105,2023,Private Engineering College,CSE,Male,6.14,0.0,1,1,Intermediate,Excellent,Yes,Placed,Service,6.5,QA Engineer
+BT20251106,2025,Private Engineering College,ECE,Female,5.91,0.0,3,0,Intermediate,Poor,No,Placed,Service,7.08,Embedded Engineer
+BT20251107,2025,Private Engineering College,CSE,Male,6.36,1.0,5,1,Intermediate,Excellent,Yes,Placed,Service,8.43,Data Analyst
+BT20211108,2021,State University,CSE,Female,5.0,0.0,2,0,Advanced,Excellent,Yes,Placed,Service,4.51,Data Analyst
+BT20231109,2023,State University,CSE,Female,8.09,1.0,2,0,Beginner,Average,Yes,Placed,Service,9.07,DevOps Engineer
+BT20211110,2021,Deemed University,MECH,Female,7.31,1.0,1,1,Intermediate,Good,No,Placed,Service,3.17,Operations
+BT20211111,2021,State University,AIML,Female,9.61,1.0,2,1,Intermediate,Good,No,Placed,Service,6.29,Software Developer
+BT20231112,2023,NIT,ECE,Male,8.11,1.0,3,0,Advanced,Good,No,placed,Service,6.47,QA Engineer
+BT20251113,2025,Private Engineering College,ECE,Female,5.92,1.0,5,1,Intermediate,Good,No,Placed,Service,5.3,Software Developer
+BT20251114,2025,Private Engineering College,ECE,Male,5.9,3.0,4,0,Advanced,Average,No,Not Placed,NA,,NA
+BT20221115,2022,Deemed University,CSE,Female,6.89,0.0,4,1,Intermediate,Excellent,Yes,Placed,Product,10.75,Software Developer
+BT20211116,2021,Deemed University,CIVIL,Female,8.13,0.0,0,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20251117,2025,Private Engineering College,CIVIL,Female,6.18,2.0,4,0,Advanced,Average,No,Placed,Core,4.33,Software Developer
+BT20241118,2024,Deemed University,EEE,Male,6.91,0.0,5,1,Beginner,,No,Placed,Service,3.96,Software Developer
+BT20251119,2025,Deemed University,ECE,Female,6.5,1.0,4,0,Beginner,Good,Yes,Placed,Core,6.51,Software Developer
+BT20251120,2025,Deemed University,IT,Male,6.72,1.0,2,0,Intermediate,Good,Yes,Placed,Service,7.53,Software Developer
+BT20241121,2024,Deemed University,CSE,Female,8.7,0.0,1,0,Beginner,Average,No,Placed,Startup,12.59,Software Developer
+BT20211122,2021,State University,IT,Female,7.57,0.0,3,0,Intermediate,Good,Yes,Placed,Service,7.02,Data Analyst
+BT20251123,2025,Private Engineering College,ECE,Male,5.93,1.0,2,1,Beginner,Good,No,Placed,Service,5.33,Embedded Engineer
+BT20251124,2025,Deemed University,MECH,Male,6.23,0.0,1,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20241125,2024,Private Engineering College,ECE,Male,7.59,,3,0,Advanced,Good,No,Placed,Core,6.99,Software Developer
+BT20231126,2023,Deemed University,CSE,Female,6.74,1.0,2,0,Intermediate,Excellent,Yes,Placed,Service,8.5,Software Developer
+BT20211127,2021,Deemed University,aiml,Male,7.67,1.0,3,0,Intermediate,Good,No,Placed,Service,6.94,Software Developer
+BT20241128,2024,Deemed University,MECH,Male,8.27,0.0,3,0,Advanced,Good,No,Placed,Service,4.21,Software Developer
+BT20241129,2024,Deemed University,AIML,Female,6.05,4.0,4,0,Intermediate,Excellent,Yes,Placed,Service,9.97,Data Analyst
+BT20241130,2024,NIT,CIVIL,Male,6.89,1.0,2,0,Intermediate,Average,No,Placed,Core,3.35,Software Developer
+BT20241131,2024,Private Engineering College,CSE,Male,6.52,1.0,2,1,Advanced,Average,Yes,Placed,Startup,10.84,Data Analyst
+BT20211132,2021,Private Engineering College,CSE,Female,5.81,2.0,1,0,Intermediate,Good,Yes,Placed,Startup,9.28,QA Engineer
+BT20251133,2025,State University,AIML,Male,7.37,3.0,1,0,Advanced,Good,Yes,Placed,Product,18.79,ML Engineer
+BT20231134,2023,Private Engineering College,CIVIL,Male,6.44,0.0,3,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20221135,2022,Private Engineering College,aiml,Male,6.61,2.0,1,1,Intermediate,Good,Yes,Placed,Product,11.2,Software Developer
+BT20211136,2021,State University,IT,Female,7.63,1.0,0,0,Intermediate,Poor,Yes,Not Placed,NA,,NA
+BT20221137,2022,Private Engineering College,AIML,Male,7.0,2.0,1,0,Beginner,Average,Yes,Placed,Service,7.13,Data Scientist
+BT20251138,2025,Deemed University,MECH,Female,6.76,1.0,1,1,Beginner,Good,Yes,Placed,Service,3.59,Software Developer
+BT20231139,2023,Private Engineering College,CIVIL,Male,6.44,0.0,3,1,Beginner,Good,No,Not Placed,NA,,NA
+BT20241140,2024,Deemed University,ECE,Female,5.5,0.0,2,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20231141,2023,Deemed University,IT,Male,6.84,2.0,2,0,Beginner,Average,Yes,Placed,Service,7.29,Software Developer
+BT20241142,2024,State University,IT,Male,6.01,0.0,4,0,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20211143,2021,Deemed University,ECE,Male,5.0,0.0,2,0,Beginner,Good,No,Not Placed,NA,,NA
+BT20231144,2023,State University,AIML,Male,6.42,2.0,2,0,Intermediate,Good,Yes,Placed,Service,7.49,ML Engineer
+BT20211145,2021,Deemed University,ECE,Male,7.19,1.0,0,0,Intermediate,Average,Yes,Placed,Service,4.98,Embedded Engineer
+BT20241146,2024,Private Engineering College,CIVIL,Male,7.87,0.0,5,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20211147,2021,Private Engineering College,MECH,Female,6.32,2.0,4,4,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20251148,2025,State University,CSE,Male,7.76,1.0,2,0,Intermediate,Good,Yes,placed,Product,15.78,QA Engineer
+BT20211149,2021,NIT,CSE,Female,6.94,2.0,3,0,Advanced,Average,Yes,Placed,Service,7.66,Software Developer
+BT20211150,2021,Private Engineering College,EEE,Male,7.62,1.0,3,0,Advanced,Average,Yes,Placed,Service,3.68,Embedded Engineer
+BT20241151,2024,Private Engineering College,ECE,Male,7.28,0.0,0,0,Advanced,Average,No,Not Placed,NA,,NA
+BT20211152,2021,NIT,MECH,Male,6.94,2.0,4,1,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20251153,2025,State University,EEE,Male,5.5,1.0,1,0,Intermediate,Poor,No,Placed,Core,7.47,Core Engineer
+BT20211154,2021,NIT,ECE,Male,7.1,0.0,7,0,Advanced,Average,No,Placed,Service,2.4,Core Engineer
+BT20211155,2021,Private Engineering College,IT,Female,5.25,1.0,3,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20211156,2021,Private Engineering College,EEE,Male,6.51,0.0,3,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20211157,2021,Private Engineering College,IT,Female,5.75,0.0,5,1,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20221158,2022,State University,AIML,Female,8.56,3.0,5,0,Intermediate,Average,Yes,Placed,Startup,12.28,ML Engineer
+BT20211159,2021,Deemed University,CSE,Male,6.45,2.0,1,2,Beginner,Good,Yes,Placed,Service,7.56,Data Analyst
+BT20221160,2022,Deemed University,CSE,Female,6.51,2.0,4,1,Intermediate,Good,Yes,Placed,Service,8.64,QA Engineer
+BT20221161,2022,Private Engineering College,IT,Male,7.44,1.0,0,0,Intermediate,Average,Yes,Placed,Service,7.27,QA Engineer
+BT20211162,2021,Deemed University,MECH,Male,6.77,2.0,1,0,Intermediate,Average,No,Placed,Service,4.23,Operations
+BT20221163,2022,Deemed University,CSE,Female,7.74,1.0,2,0,Beginner,Good,Yes,Placed,Product,11.69,Software Developer
+BT20241164,2024,NIT,ECE,Male,5.87,1.0,2,0,Advanced,Good,No,Placed,Core,6.41,Embedded Engineer
+BT20211165,2021,NIT,ECE,Male,8.37,2.0,2,0,Intermediate,Average,No,Placed,Product,10.63,Software Developer
+BT20231166,2023,Deemed University,CSE,Male,7.46,3.0,5,0,Advanced,Excellent,Yes,Placed,Startup,11.32,Software Developer
+BT20231167,2023,Private Engineering College,MECH,Male,7.83,0.0,3,0,Advanced,Good,No,Placed,Core,4.78,Core Engineer
+BT20211168,2021,State University,ECE,Male,7.72,,0,0,Advanced,Good,No,Placed,Core,6.44,QA Engineer
+BT20251169,2025,Deemed University,CSE,Male,6.69,1.0,0,1,Advanced,Good,Yes,Placed,Service,7.03,DevOps Engineer
+BT20241170,2024,Private Engineering College,CSE,Female,6.93,1.0,3,0,Advanced,Average,Yes,Placed,Service,6.27,Data Analyst
+BT20231171,2023,Private Engineering College,cse,Male,7.14,2.0,4,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20231172,2023,Private Engineering College,ECE,Female,6.14,1.0,2,0,Intermediate,Good,No,Placed,Service,7.13,Core Engineer
+BT20251173,2025,NIT,AIML,Male,7.6,1.0,3,1,Intermediate,Average,Yes,Placed,Product,15.67,ML Engineer
+BT20231174,2023,Deemed University,IT,Female,7.9,0.0,4,1,Advanced,Good,Yes,Placed,Service,6.13,Software Developer
+BT20221175,2022,NIT,CIVIL,Male,7.56,0.0,3,1,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20221176,2022,NIT,CSE,Female,6.47,3.0,4,1,Intermediate,Average,Yes,Placed,Startup,11.23,Software Developer
+BT20231177,2023,Deemed University,MECH,Female,8.89,0.0,6,0,,Excellent,Yes,Placed,Service,4.17,Operations
+BT20231178,2023,Private Engineering College,EEE,Male,7.28,0.0,0,0,Intermediate,Average,No,Placed,Service,3.61,Core Engineer
+BT20241179,2024,Deemed University,AIML,Male,8.03,1.0,2,0,Beginner,Average,Yes,Placed,Service,8.7,Data Analyst
+BT20211180,2021,NIT,CSE,Female,6.49,1.0,1,1,Beginner,Good,Yes,Placed,Product,10.55,Data Analyst
+BT20241181,2024,Private Engineering College,CSE,Male,7.21,0.0,1,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20221182,2022,Deemed University,EEE,Male,6.93,0.0,4,0,Beginner,Average,No,Placed,Product,6.69,Embedded Engineer
+BT20241183,2024,Deemed University,IT,Male,7.03,1.0,2,0,Intermediate,Good,No,Placed,Service,5.81,Software Developer
+BT20251184,2025,Deemed University,CSE,Male,8.66,0.0,2,0,Advanced,Excellent,Yes,Placed,Product,15.0,Software Developer
+BT20231185,2023,State University,IT,Male,6.98,1.0,4,0,Beginner,Good,Yes,Placed,Startup,8.95,Data Analyst
+BT20241186,2024,Private Engineering College,AIML,Male,6.37,,5,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20241187,2024,Deemed University,CSE,Male,8.98,3.0,5,0,,Average,Yes,Placed,Product,16.4,Software Developer
+BT20251188,2025,NIT,CIVIL,Male,6.49,1.0,3,0,Advanced,Good,Yes,Placed,Core,4.43,Core Engineer
+BT20231189,2023,Deemed University,EEE,Male,6.59,0.0,6,0,Intermediate,Average,Yes,Placed,Service,3.89,Core Engineer
+BT20231190,2023,Deemed University,IT,Male,8.36,1.0,5,1,,Poor,Yes,Placed,Service,5.94,QA Engineer
+BT20241191,2024,Deemed University,AIML,Male,9.13,1.0,1,0,Intermediate,Average,Yes,Placed,Service,8.4,Data Analyst
+BT20221192,2022,Deemed University,CIVIL,Male,6.07,1.0,3,1,Advanced,Poor,Yes,Not Placed,NA,,NA
+BT20251193,2025,Private Engineering College,EEE,Male,7.3,0.0,0,1,Beginner,Poor,No,Not Placed,NA,,NA
+BT20221194,2022,Deemed University,CIVIL,Male,6.39,,1,1,Advanced,Average,No,Placed,Core,3.73,Software Developer
+BT20231195,2023,Private Engineering College,AIML,Male,6.4,0.0,1,1,Advanced,Good,Yes,Placed,Service,6.51,Data Analyst
+BT20221196,2022,Private Engineering College,CSE,Male,7.81,1.0,2,0,Intermediate,Excellent,Yes,Placed,Service,5.94,Data Analyst
+BT20251197,2025,Deemed University,ECE,Male,9.01,3.0,4,0,Beginner,Average,Yes,Placed,Service,8.86,QA Engineer
+BT20251198,2025,State University,CSE,Female,6.88,2.0,2,0,Advanced,Average,Yes,Placed,Startup,9.92,Software Developer
+BT20241199,2024,Deemed University,AIML,Female,6.31,0.0,3,3,Advanced,Good,Yes,Placed,Startup,11.73,Software Developer
+BT20251200,2025,NIT,ECE,Male,7.05,0.0,7,0,Intermediate,Good,No,Placed,Service,4.25,Embedded Engineer
+BT20221201,2022,NIT,CSE,Male,5.03,4.0,4,1,Intermediate,Good,Yes,Placed,Startup,11.03,QA Engineer
+BT20251202,2025,Deemed University,IT,Male,7.22,0.0,1,0,Beginner,Good,Yes,Placed,Service,6.95,Data Analyst
+BT20241203,2024,State University,EEE,Male,6.78,,4,1,Intermediate,Good,No,Placed,Service,4.56,Software Developer
+BT20231204,2023,NIT,IT,Female,6.16,0.0,5,2,Beginner,Average,Yes,Placed,Product,10.06,Software Developer
+BT20251205,2025,Private Engineering College,CIVIL,Female,6.54,3.0,2,0,Intermediate,Poor,No,Not Placed,NA,,NA
+BT20241206,2024,Private Engineering College,MECH,Male,6.63,1.0,2,0,Intermediate,Average,No,Placed,Service,2.65,Core Engineer
+BT20241207,2024,State University,ECE,Male,7.75,1.0,1,0,Intermediate,Average,Yes,Placed,Service,7.39,Core Engineer
+BT20241208,2024,State University,ECE,Male,7.26,2.0,1,0,Advanced,Good,Yes,Placed,Service,6.59,QA Engineer
+BT20251209,2025,Deemed University,ECE,Male,6.44,0.0,4,2,Advanced,Average,No,Placed,Service,4.06,Core Engineer
+BT20241210,2024,Deemed University,IT,Female,6.85,0.0,4,0,Advanced,Good,Yes,Placed,Service,5.92,Software Developer
+BT20231211,2023,Deemed University,CIVIL,Female,5.38,0.0,2,0,Advanced,Good,No,Not Placed,NA,,NA
+BT20241212,2024,NIT,ECE,Male,7.8,2.0,4,0,Beginner,Average,Yes,Placed,Service,6.42,Software Developer
+BT20231213,2023,Private Engineering College,MECH,Male,8.16,0.0,1,1,Advanced,Poor,No,Not Placed,NA,,NA
+BT20221214,2022,Deemed University,ECE,Male,8.01,,2,0,Advanced,Good,No,Placed,Service,5.38,Software Developer
+BT20251215,2025,State University,CSE,Male,5.19,1.0,5,0,Intermediate,Good,Yes,Placed,Product,14.27,Software Developer
+BT20231216,2023,Private Engineering College,IT,Male,6.8,1.0,2,0,Intermediate,Average,Yes,Placed,Service,5.19,Software Developer
+BT20231217,2023,Deemed University,MECH,Male,6.65,1.0,4,0,Intermediate,Good,No,Placed,Core,4.87,Core Engineer
+BT20251218,2025,NIT,ECE,Male,6.65,0.0,1,1,Intermediate,Average,No,Placed,Service,5.46,Core Engineer
+BT20231219,2023,State University,ECE,Male,8.38,0.0,4,0,Intermediate,Good,Yes,Placed,Core,5.38,Software Developer
+BT20211220,2021,NIT,ECE,Female,7.36,0.0,0,0,Intermediate,Excellent,Yes,Placed,Service,4.74,Software Developer
+BT20241221,2024,Deemed University,ECE,Female,7.67,2.0,2,0,Beginner,Excellent,Yes,Placed,Core,6.87,Software Developer
+BT20221222,2022,Deemed University,CSE,Male,7.32,2.0,2,0,Intermediate,Average,Yes,Placed,Service,7.14,Software Developer
+BT20241223,2024,State University,MECH,Female,6.67,1.0,4,0,Beginner,Poor,No,Placed,Core,5.08,Operations
+BT20231224,2023,Deemed University,CSE,Female,6.7,1.0,3,0,Advanced,Average,Yes,Placed,Product,11.75,DevOps Engineer
+BT20241225,2024,Private Engineering College,AIML,Male,6.76,0.0,3,0,Advanced,Good,Yes,Placed,Service,6.76,Data Analyst
+BT20231226,2023,Private Engineering College,EEE,Male,7.47,2.0,2,0,Beginner,Good,No,Placed,Service,5.42,QA Engineer
+BT20221227,2022,Private Engineering College,CSE,Male,7.12,2.0,5,0,Intermediate,Average,Yes,Placed,Product,12.95,QA Engineer
+BT20211228,2021,State University,CIVIL,Female,7.39,1.0,8,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20211229,2021,Deemed University,CIVIL,Male,6.15,1.0,0,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20231230,2023,Deemed University,IT,Male,5.94,0.0,1,0,Beginner,Good,Yes,Placed,Service,6.58,Software Developer
+BT20211231,2021,Deemed University,AIML,Female,5.81,0.0,2,0,Advanced,Average,Yes,placed,Service,5.32,Data Analyst
+BT20231232,2023,Private Engineering College,IT,Male,6.85,2.0,2,1,Beginner,Poor,Yes,Placed,Service,6.37,Software Developer
+BT20241233,2024,NIT,MECH,Female,8.57,2.0,2,1,Beginner,Average,Yes,Placed,Core,5.04,Operations
+BT20231234,2023,Deemed University,IT,Male,7.43,0.0,3,0,Beginner,Excellent,Yes,Placed,Service,5.99,DevOps Engineer
+BT20211235,2021,Deemed University,IT,Male,7.33,1.0,2,0,Intermediate,Good,No,Placed,Startup,7.28,Software Developer
+BT20211236,2021,Deemed University,MECH,Female,7.31,0.0,0,0,Intermediate,Average,No,Placed,Core,4.06,Operations
+BT20211237,2021,Private Engineering College,EEE,Male,6.49,0.0,5,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20231238,2023,Private Engineering College,CSE,Male,6.29,0.0,4,1,Intermediate,Excellent,Yes,Not Placed,NA,,NA
+BT20231239,2023,Private Engineering College,ECE,Male,7.13,1.0,3,0,Intermediate,Average,Yes,Placed,Core,6.16,QA Engineer
+BT20231240,2023,State University,CSE,Female,7.61,1.0,2,0,Beginner,Average,No,Placed,Service,6.72,Software Developer
+BT20241241,2024,Deemed University,IT,Female,8.29,0.0,2,0,Advanced,Good,Yes,Placed,Product,11.72,Software Developer
+BT20211242,2021,Deemed University,AIML,Female,6.25,0.0,3,0,Advanced,Average,Yes,Placed,Service,6.69,ML Engineer
+BT20241243,2024,NIT,AIML,Female,5.66,2.0,1,0,Beginner,Good,Yes,Placed,Service,5.87,Software Developer
+BT20221244,2022,Private Engineering College,mech,Male,8.01,3.0,1,0,Beginner,Average,Yes,Placed,Service,4.12,Operations
+BT20211245,2021,Deemed University,EEE,Female,8.43,2.0,2,0,Advanced,Good,No,Placed,Service,4.2,QA Engineer
+BT20221246,2022,NIT,CSE,Male,6.54,1.0,2,0,Intermediate,Average,Yes,Placed,Service,6.42,Data Analyst
+BT20251247,2025,Private Engineering College,ECE,Female,7.63,2.0,2,0,Intermediate,Excellent,No,Placed,Product,11.87,QA Engineer
+BT20251248,2025,Deemed University,CSE,Male,7.66,1.0,3,0,Beginner,Good,Yes,Placed,Service,8.35,DevOps Engineer
+BT20231249,2023,State University,AIML,Female,5.41,1.0,2,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20241250,2024,NIT,IT,Female,7.49,1.0,0,0,Intermediate,Average,No,Placed,Service,7.11,QA Engineer
+BT20211251,2021,NIT,MECH,Female,8.82,1.0,2,0,Beginner,,Yes,Placed,Service,4.53,Operations
+BT20211252,2021,NIT,CSE,Male,7.17,2.0,2,0,Advanced,Good,Yes,Not Placed,NA,,NA
+BT20211253,2021,Private Engineering College,CSE,Male,7.87,2.0,1,0,Intermediate,Average,Yes,Placed,Service,5.57,Software Developer
+BT20231254,2023,State University,CSE,Male,6.62,2.0,2,2,Beginner,Good,Yes,Placed,Service,6.5,Software Developer
+BT20241255,2024,Deemed University,EEE,Male,6.87,1.0,3,0,Advanced,,No,Placed,Core,5.75,QA Engineer
+BT20221256,2022,Deemed University,CSE,Male,6.12,1.0,3,1,Advanced,Average,Yes,Not Placed,NA,,NA
+BT20241257,2024,Deemed University,EEE,Male,5.95,1.0,1,0,Intermediate,Average,No,Placed,Service,4.61,Software Developer
+BT20211258,2021,Deemed University,CIVIL,Male,8.42,1.0,5,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20211259,2021,Private Engineering College,CSE,Male,5.96,0.0,1,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20211260,2021,Private Engineering College,ECE,Male,6.07,1.0,2,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20241261,2024,Private Engineering College,ECE,Male,6.9,1.0,3,1,Advanced,Average,No,Placed,Core,7.54,Software Developer
+BT20241262,2024,Deemed University,ECE,Male,6.52,1.0,1,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20231263,2023,Private Engineering College,AIML,Male,7.63,2.0,2,1,Beginner,Average,Yes,Placed,Service,7.35,Data Analyst
+BT20251264,2025,State University,IT,Female,6.58,0.0,5,0,Beginner,Average,Yes,Placed,Service,7.04,Data Analyst
+BT20221265,2022,Private Engineering College,CIVIL,Female,7.08,1.0,6,0,Advanced,Good,No,Placed,Core,2.99,Software Developer
+BT20231266,2023,Private Engineering College,CSE,Male,8.62,0.0,2,0,Advanced,Good,Yes,Placed,Product,13.19,Software Developer
+BT20211267,2021,Deemed University,MECH,Male,9.41,0.0,4,0,Advanced,Average,Yes,Placed,Core,4.13,Core Engineer
+BT20211268,2021,Deemed University,IT,Male,8.03,,3,0,Advanced,Average,Yes,Placed,Service,4.78,Software Developer
+BT20221269,2022,Private Engineering College,AIML,Male,8.1,,5,1,Beginner,Excellent,Yes,Placed,Startup,9.61,ML Engineer
+BT20231270,2023,State University,IT,Male,8.06,0.0,1,0,Advanced,Average,Yes,Placed,Product,12.02,Data Analyst
+BT20251271,2025,State University,CIVIL,Male,5.57,0.0,2,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20211272,2021,Private Engineering College,CSE,Male,5.41,3.0,1,0,Intermediate,Good,Yes,Placed,Startup,9.14,Software Developer
+BT20211273,2021,Private Engineering College,aiml,Male,6.55,0.0,1,0,,,Yes,Not Placed,NA,,NA
+BT20231274,2023,State University,AIML,Male,7.64,2.0,5,0,Beginner,Good,Yes,Placed,Service,7.67,ML Engineer
+BT20251275,2025,Deemed University,MECH,Male,6.61,0.0,0,0,Advanced,Average,No,Placed,Startup,6.18,Core Engineer
+BT20241276,2024,Private Engineering College,CSE,Male,7.02,0.0,1,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20211277,2021,Deemed University,CSE,Female,8.9,1.0,3,0,Intermediate,Excellent,Yes,Placed,Service,4.78,Data Analyst
+BT20221278,2022,Deemed University,CSE,Female,7.53,,2,0,Intermediate,Average,Yes,Placed,Product,9.44,Software Developer
+BT20231279,2023,Deemed University,CSE,Female,6.2,1.0,0,0,Advanced,Good,Yes,Placed,Service,7.05,Software Developer
+BT20211280,2021,Private Engineering College,CSE,Male,6.66,,1,1,Intermediate,Good,Yes,Placed,Service,7.31,Software Developer
+BT20211281,2021,Deemed University,MECH,Male,7.0,0.0,3,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20211282,2021,Private Engineering College,ECE,Male,8.9,0.0,1,0,Beginner,Good,No,Placed,Core,5.1,Software Developer
+BT20221283,2022,State University,ECE,Male,7.37,0.0,2,0,Intermediate,Average,Yes,Placed,Service,3.96,Software Developer
+BT20231284,2023,Deemed University,CSE,Female,7.13,3.0,2,0,Advanced,Average,Yes,Placed,Service,9.58,QA Engineer
+BT20241285,2024,Deemed University,CSE,Male,8.46,1.0,2,0,Beginner,Average,Yes,Placed,Service,8.13,DevOps Engineer
+BT20221286,2022,Deemed University,CSE,Male,5.7,2.0,7,0,Advanced,Average,Yes,Placed,Service,6.11,Software Developer
+BT20221287,2022,Private Engineering College,IT,Female,7.31,2.0,4,0,Intermediate,Good,Yes,Placed,Service,7.49,Software Developer
+BT20231288,2023,Deemed University,CSE,Female,7.32,1.0,1,1,Intermediate,,Yes,Placed,Startup,8.66,Software Developer
+BT20211289,2021,Private Engineering College,ECE ,Male,6.28,1.0,5,1,Beginner,Excellent,Yes,NotPlaced,NA,,NA
+BT20251290,2025,State University,IT,Female,6.17,1.0,7,0,Advanced,Average,Yes,Placed,Service,7.48,Software Developer
+BT20251291,2025,NIT,CSE,Male,6.82,1.0,5,0,Beginner,Excellent,Yes,Placed,Startup,11.9,Software Developer
+BT20221292,2022,Private Engineering College,ECE,Male,7.2,1.0,2,0,Advanced,Excellent,Yes,Placed,Service,5.52,Core Engineer
+BT20251293,2025,Deemed University,CIVIL,Male,7.16,,2,1,Beginner,Poor,No,Not Placed,NA,,NA
+BT20211294,2021,NIT,CSE,Male,7.64,2.0,1,0,Intermediate,Average,Yes,Placed,Product,11.42,Data Analyst
+BT20251295,2025,Private Engineering College,ECE,Female,7.81,0.0,2,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20231296,2023,Private Engineering College,EEE,Male,6.56,2.0,3,0,Advanced,Good,Yes,Placed,Service,5.86,Embedded Engineer
+BT20241297,2024,Deemed University,CSE,Female,8.53,1.0,2,0,Advanced,Good,Yes,Placed,Product,15.39,Software Developer
+BT20251298,2025,State University,CSE,Male,5.85,1.0,6,0,Intermediate,Average,Yes,Placed,Service,7.21,Software Developer
+BT20221299,2022,Deemed University,AIML,Female,8.29,2.0,1,0,Intermediate,Average,No,Placed,Startup,11.96,Software Developer
+BT20251300,2025,Deemed University,ECE,Male,6.8,0.0,5,1,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20251301,2025,Deemed University,MECH,Male,6.95,1.0,2,0,Advanced,Good,No,Placed,Service,5.85,Analyst
+BT20211302,2021,Deemed University,AIML,Male,7.14,0.0,2,0,Intermediate,Poor,Yes,Placed,Service,5.05,Software Developer
+BT20211303,2021,Private Engineering College,AIML,Male,6.36,0.0,3,0,Intermediate,Excellent,Yes,Placed,Service,6.08,ML Engineer
+BT20231304,2023,Private Engineering College,IT,Male,7.76,1.0,3,0,Intermediate,Average,No,Placed,Product,10.7,Data Analyst
+BT20231305,2023,Deemed University,CIVIL,Male,8.0,,2,0,Intermediate,Good,No,Placed,Startup,7.07,Core Engineer
+BT20231306,2023,Deemed University,MECH,Male,6.86,0.0,2,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20251307,2025,NIT,EEE,Male,6.32,1.0,1,0,Intermediate,Average,No,not placed,NA,,NA
+BT20231308,2023,NIT,ECE,Female,7.83,2.0,1,0,Beginner,Average,No,Placed,Service,5.42,Software Developer
+BT20211309,2021,Private Engineering College,IT ,Male,8.74,1.0,2,0,Advanced,Good,No,Placed,Service,6.26,DevOps Engineer
+BT20251310,2025,State University,ECE,Male,8.02,1.0,3,1,Advanced,Average,No,Placed,Core,5.66,Embedded Engineer
+BT20251311,2025,State University,EEE,Female,6.81,0.0,1,1,Beginner,Good,Yes,Placed,Service,4.45,Embedded Engineer
+BT20211312,2021,Deemed University,EEE,Male,7.32,0.0,1,0,Beginner,Excellent,No,Placed,Service,3.82,Embedded Engineer
+BT20241313,2024,Deemed University,CSE,Female,7.97,0.0,1,0,Advanced,Good,Yes,Placed,Service,7.19,QA Engineer
+BT20251314,2025,Private Engineering College,AIML,Female,7.38,2.0,2,0,Advanced,Good,Yes,Placed,Startup,14.5,ML Engineer
+BT20241315,2024,Private Engineering College,CSE,Male,7.41,0.0,1,0,Intermediate,Good,No,Placed,Service,5.73,DevOps Engineer
+BT20231316,2023,NIT,CSE,Female,6.18,3.0,0,0,Beginner,Poor,Yes,Placed,Service,8.77,Software Developer
+BT20231317,2023,Private Engineering College,IT,Female,6.62,3.0,2,0,Intermediate,Average,Yes,Placed,Service,6.51,Software Developer
+BT20251318,2025,Deemed University,IT,Female,8.59,0.0,1,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20231319,2023,NIT,CIVIL,Male,6.44,2.0,6,1,,Good,No,Not Placed,NA,,NA
+BT20221320,2022,Deemed University,ECE,Male,6.83,2.0,3,0,Intermediate,Average,No,Placed,Service,3.97,Software Developer
+BT20211321,2021,Deemed University,CSE,Female,6.77,0.0,0,1,Advanced,Good,Yes,Placed,Service,5.25,Software Developer
+BT20241322,2024,State University,ECE,Female,6.75,2.0,2,1,Beginner,,No,Placed,Service,6.02,Core Engineer
+BT20231323,2023,Private Engineering College,EEE,Female,6.82,0.0,0,0,Intermediate,Poor,No,NotPlaced,NA,,NA
+BT20241324,2024,Private Engineering College,MECH,Female,5.59,1.0,1,1,Beginner,Average,No,Placed,Service,4.38,Core Engineer
+BT20231325,2023,State University,AIML,Male,5.46,1.0,2,0,Intermediate,Average,Yes,Placed,Service,7.09,Data Analyst
+BT20211326,2021,Private Engineering College,MECH,Female,7.59,0.0,3,0,Advanced,Average,No,Placed,Startup,3.66,Core Engineer
+BT20211327,2021,NIT,CIVIL,Male,6.43,4.0,1,1,Beginner,Good,Yes,Placed,Core,4.14,Operations
+BT20251328,2025,Private Engineering College,MECH,Female,7.3,0.0,0,0,Beginner,Excellent,No,Not Placed,NA,,NA
+BT20241329,2024,Private Engineering College,EEE,Male,7.33,0.0,4,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20231330,2023,NIT,CSE,Male,8.43,0.0,2,0,Intermediate,Good,Yes,Placed,Service,5.54,Software Developer
+BT20221331,2022,Private Engineering College,MECH,Male,6.63,1.0,2,0,Beginner,Excellent,No,Placed,Core,3.1,Software Developer
+BT20231332,2023,Private Engineering College,AIML,Female,7.08,1.0,1,0,Intermediate,Average,Yes,Placed,Service,7.69,Data Analyst
+BT20241333,2024,Private Engineering College,EEE,Male,5.33,1.0,2,1,Advanced,Average,Yes,Placed,Core,4.46,Software Developer
+BT20211334,2021,Deemed University,CSE,Male,7.85,0.0,3,0,Beginner,Good,Yes,Placed,Service,6.25,Software Developer
+BT20221335,2022,NIT,MECH,Female,6.58,2.0,2,0,Intermediate,Good,No,Placed,Startup,4.08,Operations
+BT20241336,2024,State University,CSE,Male,6.45,0.0,1,0,Intermediate,Average,No,Placed,Startup,10.08,QA Engineer
+BT20231337,2023,Deemed University,CSE,Male,6.27,0.0,2,0,Intermediate,Poor,Yes,Placed,Startup,9.17,Software Developer
+BT20231338,2023,NIT,ECE,Male,6.48,0.0,3,0,Intermediate,Excellent,No,Placed,Service,7.11,Software Developer
+BT20241339,2024,Private Engineering College,MECH,Male,6.69,0.0,1,0,Beginner,Good,No,Placed,Startup,7.6,Analyst
+BT20221340,2022,Deemed University,CIVIL,Male,6.27,3.0,3,0,Intermediate,,No,Placed,Core,3.51,Core Engineer
+BT20211341,2021,Deemed University,AIML,Male,6.78,0.0,3,0,Intermediate,Average,Yes,Placed,Startup,8.68,Data Analyst
+BT20241342,2024,Deemed University,AIML,Male,6.74,1.0,2,1,Beginner,Excellent,Yes,Placed,Service,8.54,Software Developer
+BT20241343,2024,Private Engineering College,EEE,Female,7.45,0.0,0,0,Beginner,Poor,No,Not Placed,NA,,NA
+BT20241344,2024,Deemed University,CSE,Female,6.63,2.0,1,1,Beginner,Average,Yes,Placed,Service,8.8,Data Analyst
+BT20221345,2022,Private Engineering College,AIML,Male,6.95,1.0,2,1,Intermediate,Good,Yes,Placed,Service,6.9,Data Analyst
+BT20251346,2025,Deemed University,cse,Female,5.94,1.0,1,0,Intermediate,Average,Yes,Placed,Service,7.31,QA Engineer
+BT20221347,2022,State University,CSE,Female,7.02,0.0,2,0,Intermediate,Good,Yes,Placed,Service,6.73,DevOps Engineer
+BT20231348,2023,Private Engineering College,AIML,Male,9.8,1.0,2,0,Intermediate,Poor,Yes,Placed,Service,8.52,ML Engineer
+BT20241349,2024,Deemed University,EEE,Male,8.27,0.0,3,1,Beginner,Poor,No,Placed,Core,5.02,Embedded Engineer
+BT20221350,2022,Deemed University,CIVIL,Male,9.06,1.0,2,0,Intermediate,Average,No,Placed,Core,2.4,Core Engineer
+BT20231351,2023,Deemed University,AIML,Male,7.03,2.0,2,0,Beginner,Average,Yes,Placed,Service,8.38,Data Analyst
+BT20231352,2023,Private Engineering College,MECH,Male,6.04,0.0,4,0,Advanced,Average,No,Not Placed,NA,,NA
+BT20211353,2021,Deemed University,AIML,Male,7.49,0.0,4,0,Beginner,Good,Yes,Placed,Startup,8.44,Software Developer
+BT20221354,2022,Private Engineering College,MECH,Female,6.14,2.0,4,0,Intermediate,Excellent,Yes,Placed,Service,4.9,Operations
+BT20211355,2021,Deemed University,AIML,Male,8.46,3.0,4,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20211356,2021,Private Engineering College,CSE,Male,7.59,0.0,2,0,Intermediate,Good,Yes,Placed,Service,6.09,DevOps Engineer
+BT20231357,2023,NIT,CSE,Female,6.75,1.0,1,0,Advanced,Good,Yes,Placed,Product,12.02,Software Developer
+BT20211358,2021,Deemed University,ECE,Female,6.72,0.0,1,1,Beginner,Average,No,Not Placed,NA,,NA
+BT20241359,2024,State University,CSE,Female,8.63,2.0,4,0,Intermediate,Poor,Yes,Placed,Service,9.18,Data Analyst
+BT20221360,2022,NIT,CSE,Female,6.85,0.0,5,0,Beginner,Poor,Yes,Placed,Product,11.65,Software Developer
+BT20231361,2023,State University,MECH,Female,5.29,,2,2,Advanced,Good,No,Not Placed,NA,,NA
+BT20231362,2023,Deemed University,CSE,Male,8.5,2.0,5,0,Beginner,Poor,Yes,Placed,Service,7.22,Data Analyst
+BT20211363,2021,NIT,MECH,Female,5.75,3.0,0,1,Beginner,Average,No,Placed,Core,5.67,Analyst
+BT20211364,2021,Private Engineering College,MECH,Male,7.09,0.0,7,1,Intermediate,Good,Yes,Placed,Service,4.02,Operations
+BT20231365,2023,NIT,ECE,Male,8.4,1.0,3,0,Beginner,Good,No,Placed,Service,5.82,Software Developer
+BT20251366,2025,Deemed University,MECH,Female,6.66,0.0,1,0,Intermediate,Average,No,Placed,Service,4.53,Analyst
+BT20221367,2022,Private Engineering College,EEE,Female,5.62,3.0,1,0,Intermediate,Average,No,Placed,Service,4.63,Software Developer
+BT20211368,2021,Private Engineering College,EEE,Male,7.92,3.0,7,0,Intermediate,Good,No,Placed,Product,8.99,Embedded Engineer
+BT20221369,2022,Deemed University,AIML,Male,7.52,3.0,1,0,Beginner,Average,Yes,placed,Service,9.51,Data Analyst
+BT20211370,2021,Private Engineering College,AIML,Male,6.48,1.0,0,2,Intermediate,Excellent,Yes,Not Placed,NA,,NA
+BT20231371,2023,Deemed University,CIVIL,Male,6.21,1.0,3,0,Advanced,Average,Yes,Placed,Service,4.03,Operations
+BT20211372,2021,Deemed University,CSE,Male,6.08,1.0,3,1,Beginner,Poor,Yes,Not Placed,NA,,NA
+BT20211373,2021,State University,MECH,Female,6.78,2.0,5,1,Beginner,Average,No,not placed,NA,,NA
+BT20231374,2023,Deemed University,AIML,Male,7.24,1.0,0,0,Advanced,Good,Yes,Placed,Startup,10.43,ML Engineer
+BT20211375,2021,Private Engineering College,IT,Male,7.85,1.0,2,0,Intermediate,Average,Yes,Placed,Service,6.99,Software Developer
+BT20221376,2022,Deemed University,CSE,Male,7.71,1.0,0,0,Beginner,Average,Yes,Placed,Service,6.23,Software Developer
+BT20221377,2022,Deemed University,MECH,Male,8.12,1.0,5,0,Beginner,Good,No,Placed,Core,4.2,Operations
+BT20221378,2022,Private Engineering College,ECE,Male,7.02,0.0,5,0,Advanced,Average,No,Placed,Core,3.0,QA Engineer
+BT20241379,2024,Private Engineering College,MECH,Female,9.01,0.0,3,0,Beginner,Average,No,Placed,Service,4.9,Software Developer
+BT20231380,2023,State University,CSE,Male,6.39,2.0,1,0,Intermediate,Good,Yes,Placed,Service,6.93,Data Analyst
+BT20211381,2021,NIT,IT,Female,6.59,0.0,2,0,Intermediate,Good,Yes,Placed,Service,5.56,QA Engineer
+BT20231382,2023,Private Engineering College,EEE,Female,7.35,0.0,1,1,Intermediate,,No,Placed,Service,4.24,Embedded Engineer
+BT20241383,2024,Deemed University,AIML,Female,7.96,2.0,3,0,Advanced,Good,Yes,Placed,Service,8.97,ML Engineer
+BT20231384,2023,State University,CSE,Male,6.94,0.0,3,1,Beginner,Average,Yes,Placed,Service,7.25,Software Developer
+BT20231385,2023,Deemed University,MECH,Male,6.87,2.0,2,0,Advanced,Good,No,Placed,Service,5.62,Core Engineer
+BT20241386,2024,Deemed University,IT,Female,5.71,1.0,1,0,Intermediate,Average,Yes,Placed,Product,12.84,DevOps Engineer
+BT20211387,2021,Deemed University,CSE,Male,7.95,0.0,3,0,Advanced,Average,Yes,Placed,Service,6.07,QA Engineer
+BT20241388,2024,NIT,CIVIL,Male,7.65,4.0,5,1,,Excellent,Yes,Placed,Startup,7.77,Operations
+BT20241389,2024,State University,AIML,Male,7.68,1.0,0,0,Advanced,Average,Yes,Placed,Service,7.59,ML Engineer
+BT20231390,2023,Private Engineering College,IT,Female,8.48,0.0,0,0,Advanced,Good,No,Placed,Product,11.09,Software Developer
+BT20231391,2023,Private Engineering College,ECE,Male,7.21,2.0,2,0,Advanced,Excellent,Yes,Placed,Core,6.15,Core Engineer
+BT20231392,2023,Deemed University,ECE,Male,7.48,0.0,3,1,Advanced,Average,No,Not Placed,NA,,NA
+BT20221393,2022,State University,AIML,Male,6.72,1.0,4,2,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20211394,2021,Deemed University,CIVIL,Female,7.96,,1,0,Intermediate,Average,No,Placed,Core,3.99,Operations
+BT20211395,2021,NIT,CIVIL,Male,7.37,1.0,0,0,Beginner,Excellent,Yes,Not Placed,NA,,NA
+BT20211396,2021,NIT,IT,Female,6.48,0.0,1,0,Intermediate,Average,Yes,Placed,Service,5.52,DevOps Engineer
+BT20231397,2023,Deemed University,MECH,Female,8.87,0.0,1,0,Intermediate,Good,Yes,Placed,Service,4.53,Analyst
+BT20241398,2024,State University,AIML,Female,6.37,0.0,1,2,Intermediate,Excellent,No,Placed,Startup,10.65,DevOps Engineer
+BT20231399,2023,Deemed University,ECE,Male,6.04,4.0,4,1,Intermediate,Good,No,Placed,Core,6.67,Software Developer
+BT20221400,2022,Private Engineering College,CSE,Male,6.7,1.0,3,0,Intermediate,Good,Yes,Placed,Service,7.77,DevOps Engineer
+BT20251401,2025,Private Engineering College,AIML,Male,7.97,0.0,0,0,Beginner,Good,Yes,Placed,Startup,13.2,ML Engineer
+BT20221402,2022,Private Engineering College,EEE,Male,7.42,0.0,3,0,Advanced,Excellent,No,Placed,Product,5.65,Core Engineer
+BT20241403,2024,NIT,IT,Male,7.06,0.0,3,0,Intermediate,Good,Yes,Placed,Product,10.87,Software Developer
+BT20221404,2022,State University,MECH,Female,7.51,2.0,2,0,Beginner,Good,No,Placed,Startup,6.59,Core Engineer
+BT20251405,2025,Deemed University,ECE,Female,7.12,0.0,4,0,Beginner,Excellent,Yes,Placed,Service,5.78,QA Engineer
+BT20221406,2022,Deemed University,ECE,Male,8.22,2.0,2,0,Intermediate,Excellent,No,Placed,Service,5.36,Core Engineer
+BT20211407,2021,Private Engineering College,CSE,Male,7.95,2.0,1,0,Intermediate,Good,Yes,Placed,Product,12.02,Software Developer
+BT20221408,2022,Deemed University,CSE,Female,8.55,0.0,3,0,Advanced,Poor,Yes,Placed,Startup,9.82,Software Developer
+BT20251409,2025,Private Engineering College,CIVIL,Female,9.14,1.0,5,0,Intermediate,Good,Yes,Placed,Service,4.95,Core Engineer
+BT20251410,2025,Deemed University,CSE,Female,8.07,2.0,3,0,Intermediate,Good,Yes,Placed,Product,14.27,QA Engineer
+BT20211411,2021,NIT,IT,Female,7.08,1.0,2,0,Advanced,Excellent,Yes,Placed,Service,6.31,Software Developer
+BT20241412,2024,Deemed University,CIVIL,Male,5.75,0.0,0,0,Advanced,Average,No,Placed,Core,3.07,Core Engineer
+BT20211413,2021,Private Engineering College,EEE,Male,7.44,0.0,2,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20251414,2025,NIT,AIML,Male,5.89,1.0,3,2,Advanced,Average,Yes,Placed,Startup,10.99,Software Developer
+BT20221415,2022,NIT,IT,Male,5.93,0.0,2,0,Intermediate,Average,No,Placed,Service,5.44,Software Developer
+BT20241416,2024,Private Engineering College,MECH,Female,7.35,0.0,0,0,Beginner,Poor,No,Placed,Core,5.54,Operations
+BT20211417,2021,Deemed University,IT,Male,7.05,2.0,1,0,Advanced,Average,Yes,Placed,Service,4.73,Software Developer
+BT20241418,2024,Private Engineering College,EEE,Female,8.38,3.0,4,1,Intermediate,Good,No,Placed,Service,5.67,Embedded Engineer
+BT20211419,2021,State University,CSE,Male,5.73,1.0,4,0,Intermediate,Average,Yes,Placed,Product,27.86,Software Developer
+BT20221420,2022,NIT,CIVIL,Male,8.66,3.0,1,1,Advanced,Good,No,Placed,Startup,8.07,Analyst
+BT20221421,2022,Private Engineering College,MECH,Female,6.94,1.0,6,1,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20231422,2023,Private Engineering College,CIVIL,Female,7.39,0.0,1,0,Advanced,Good,Yes,Placed,Core,4.49,Operations
+BT20251423,2025,State University,ECE,Male,8.03,0.0,2,0,Intermediate,Good,Yes,Placed,Service,6.2,QA Engineer
+BT20231424,2023,Private Engineering College,MECH,Female,6.66,0.0,1,1,Intermediate,Good,No,Placed,Service,4.36,Analyst
+BT20211425,2021,Deemed University,ECE,Female,5.62,1.0,3,2,Intermediate,Good,No,Placed,Service,6.86,Embedded Engineer
+BT20241426,2024,Deemed University,AIML,Male,5.48,0.0,8,0,Intermediate,Excellent,Yes,Placed,Service,7.2,Software Developer
+BT20221427,2022,State University,IT,Male,5.0,0.0,6,0,Beginner,Good,Yes,Placed,Service,3.64,Software Developer
+BT20221428,2022,Deemed University,MECH,Female,6.59,1.0,4,0,Intermediate,Good,Yes,Not Placed,NA,,NA
+BT20251429,2025,State University,ECE,Male,8.01,1.0,5,0,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20231430,2023,Deemed University,AIML,Male,7.55,0.0,2,0,Intermediate,Good,Yes,Placed,Service,6.7,ML Engineer
+BT20241431,2024,Deemed University,ECE ,Male,7.05,1.0,5,1,Intermediate,Good,No,Placed,Product,9.19,Core Engineer
+BT20251432,2025,Deemed University,ECE,Male,7.4,0.0,1,0,Intermediate,Excellent,No,Placed,Service,5.85,QA Engineer
+BT20211433,2021,Deemed University,CSE,Male,5.61,1.0,3,0,Advanced,Excellent,Yes,Placed,Service,5.38,QA Engineer
+BT20221434,2022,Private Engineering College,MECH,Male,7.08,1.0,3,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20231435,2023,Deemed University,IT,Male,7.39,1.0,0,0,Beginner,Average,Yes,Placed,Service,5.79,Data Analyst
+BT20251436,2025,NIT,CSE,Male,6.31,,3,2,Intermediate,Average,Yes,Placed,Service,7.36,Data Analyst
+BT20221437,2022,NIT,AIML,Male,6.62,1.0,6,1,Advanced,Good,Yes,Placed,Product,13.03,Software Developer
+BT20231438,2023,Private Engineering College,CSE,Male,5.75,1.0,3,1,Intermediate,Good,Yes,Placed,Service,7.28,DevOps Engineer
+BT20231439,2023,Private Engineering College,CSE,Female,6.27,1.0,0,0,Advanced,Good,Yes,Placed,Product,13.64,QA Engineer
+BT20251440,2025,Deemed University,MECH,Female,7.47,2.0,3,1,Intermediate,Average,Yes,Placed,Service,6.05,Operations
+BT20221441,2022,Private Engineering College,AIML,Male,8.38,2.0,1,0,Intermediate,Good,Yes,Placed,Startup,12.75,Software Developer
+BT20211442,2021,State University,CSE,Female,7.56,0.0,2,0,Intermediate,Average,Yes,Placed,Service,5.51,Software Developer
+BT20221443,2022,Deemed University,IT,Male,9.8,0.0,4,0,Advanced,Average,Yes,Placed,Startup,9.8,Software Developer
+BT20211444,2021,Deemed University,CSE,Female,8.48,1.0,4,0,Advanced,Average,Yes,Placed,Product,11.4,Software Developer
+BT20231445,2023,Deemed University,CSE,Female,6.55,3.0,4,1,Intermediate,Good,Yes,Placed,Service,8.83,QA Engineer
+BT20221446,2022,Deemed University,CSE,Male,6.96,1.0,4,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20211447,2021,Deemed University,MECH,Female,5.92,1.0,0,0,Beginner,Good,No,Placed,Startup,6.84,Software Developer
+BT20241448,2024,Deemed University,CIVIL,Female,7.71,0.0,3,0,Intermediate,Good,Yes,Placed,Core,4.56,Core Engineer
+BT20221449,2022,State University,EEE,Male,8.06,2.0,2,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20231450,2023,Private Engineering College,IT,Male,8.12,1.0,1,0,Intermediate,Good,Yes,Placed,Service,7.15,Data Analyst
+BT20241451,2024,Deemed University,EEE,Male,7.8,0.0,5,0,Advanced,Good,No,Placed,Product,8.46,Embedded Engineer
+BT20241452,2024,Deemed University,CIVIL,Male,6.93,2.0,3,2,Beginner,Excellent,No,Placed,Service,3.69,Core Engineer
+BT20241453,2024,Private Engineering College,ECE,Female,8.56,0.0,3,1,Advanced,Good,No,Placed,Core,6.47,Core Engineer
+BT20221454,2022,Deemed University,MECH,Male,8.83,2.0,2,0,Intermediate,Average,No,NotPlaced,NA,,NA
+BT20241455,2024,Private Engineering College,IT,Female,7.12,2.0,3,0,Beginner,Poor,Yes,Placed,Service,7.27,QA Engineer
+BT20221456,2022,State University,CIVIL,Male,6.59,2.0,5,1,Intermediate,Average,Yes,Placed,Service,3.02,Core Engineer
+BT20241457,2024,Deemed University,CSE,Male,7.99,2.0,5,0,Beginner,Good,No,Placed,Service,8.46,Data Analyst
+BT20251458,2025,State University,IT,Female,6.46,2.0,4,1,Intermediate,Average,Yes,Placed,Product,14.02,QA Engineer
+BT20231459,2023,Private Engineering College,EEE,Female,8.66,0.0,1,0,Advanced,Poor,No,Placed,Core,6.94,Software Developer
+BT20211460,2021,Private Engineering College,CIVIL,Male,6.48,1.0,3,1,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20241461,2024,Deemed University,CSE,Female,7.1,2.0,2,0,Beginner,Average,Yes,Placed,Product,14.25,Data Analyst
+BT20221462,2022,State University,CSE,Female,6.61,0.0,2,1,Beginner,Excellent,Yes,Placed,Service,6.08,Software Developer
+BT20211463,2021,State University,AIML,Male,7.63,1.0,2,0,Intermediate,Excellent,Yes,Placed,Service,7.44,Data Scientist
+BT20221464,2022,Private Engineering College,EEE,Male,7.44,0.0,1,0,Beginner,Poor,Yes,Not Placed,NA,,NA
+BT20231465,2023,NIT,AIML,Male,6.91,1.0,2,0,Intermediate,Good,Yes,Placed,Product,13.75,Data Scientist
+BT20231466,2023,State University,ECE,Male,5.85,1.0,4,0,Intermediate,Average,Yes,Placed,Core,6.47,Embedded Engineer
+BT20251467,2025,NIT,CSE,Male,6.45,0.0,2,1,Beginner,,Yes,Placed,Service,7.9,QA Engineer
+BT20231468,2023,Deemed University,IT,Male,6.76,2.0,4,0,Beginner,Good,Yes,Placed,Startup,10.49,Software Developer
+BT20221469,2022,State University,CIVIL,Male,8.65,2.0,6,0,Intermediate,Good,No,Placed,Core,3.4,Analyst
+BT20251470,2025,Private Engineering College,ECE,Male,8.49,2.0,8,0,Intermediate,Good,No,Placed,Core,7.37,Embedded Engineer
+BT20251471,2025,State University,CIVIL,Male,6.39,4.0,0,1,Advanced,Average,No,Placed,Core,7.85,Software Developer
+BT20221472,2022,State University,EEE,Female,7.08,3.0,2,1,Beginner,Excellent,No,Placed,Core,4.68,Software Developer
+BT20221473,2022,Private Engineering College,CSE,Male,7.93,0.0,2,1,Advanced,Excellent,Yes,Placed,Product,10.09,Software Developer
+BT20241474,2024,NIT,IT,Male,7.49,0.0,3,0,Intermediate,Excellent,Yes,Placed,Startup,9.22,Software Developer
+BT20231475,2023,Deemed University,ECE,Female,6.22,2.0,1,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20231476,2023,State University,IT,Female,7.0,1.0,2,0,Beginner,Poor,Yes,Placed,Product,13.4,Software Developer
+BT20211477,2021,Deemed University,EEE,Male,5.97,1.0,1,0,Intermediate,Excellent,No,Not Placed,NA,,NA
+BT20231478,2023,State University,CSE,Female,9.7,1.0,2,0,Intermediate,Average,Yes,placed,Service,9.33,QA Engineer
+BT20241479,2024,Private Engineering College,MECH,Male,6.78,3.0,1,2,Intermediate,Average,Yes,Placed,Startup,7.49,Software Developer
+BT20241480,2024,State University,CSE,Female,7.32,1.0,2,0,Intermediate,Poor,Yes,Placed,Service,7.19,Data Analyst
+BT20231481,2023,Private Engineering College,CSE,Male,7.13,0.0,3,0,Intermediate,Good,Yes,Placed,Startup,8.74,Data Analyst
+BT20231482,2023,Private Engineering College,ECE,Male,6.34,0.0,2,0,Intermediate,Good,No,Placed,Service,6.17,Core Engineer
+BT20251483,2025,State University,CSE,Female,7.73,1.0,3,2,Intermediate,Excellent,Yes,Placed,Startup,13.53,Data Analyst
+BT20231484,2023,Deemed University,EEE,Male,7.23,0.0,0,0,Beginner,Average,Yes,Not Placed,NA,,NA
+BT20231485,2023,Deemed University,EEE,Male,8.19,,2,0,Beginner,Good,No,Placed,Service,5.84,Software Developer
+BT20211486,2021,State University,AIML,Male,5.0,2.0,6,1,Intermediate,Excellent,Yes,Placed,Service,6.57,ML Engineer
+BT20231487,2023,NIT,EEE,Male,6.75,2.0,3,1,Intermediate,Average,No,Not Placed,NA,,NA
+BT20251488,2025,Deemed University,CIVIL,Male,7.56,0.0,3,0,Intermediate,Excellent,No,Placed,Core,5.52,Core Engineer
+BT20211489,2021,Deemed University,CSE,Female,8.29,1.0,2,0,Intermediate,Good,Yes,Placed,Service,7.87,Software Developer
+BT20251490,2025,Private Engineering College,AIML,Female,5.0,0.0,3,0,Advanced,Good,No,Placed,Service,6.79,Software Developer
+BT20211491,2021,State University,AIML,Female,8.17,2.0,2,0,Advanced,Average,Yes,Placed,Product,13.47,Software Developer
+BT20221492,2022,Deemed University,CSE,Female,7.53,2.0,1,0,Advanced,Good,Yes,Placed,Startup,11.25,Data Analyst
+BT20251493,2025,Deemed University,CSE,Male,5.8,2.0,2,1,Intermediate,Average,Yes,Placed,Product,15.23,Software Developer
+BT20231494,2023,Deemed University,ECE,Male,5.15,2.0,3,0,Intermediate,Good,No,Placed,Service,6.02,Core Engineer
+BT20231495,2023,Private Engineering College,ECE,Male,6.67,1.0,3,3,Intermediate,Average,Yes,Not Placed,NA,,NA
+BT20221496,2022,Private Engineering College,CIVIL,Female,6.17,1.0,3,2,Advanced,Average,No,Not Placed,NA,,NA
+BT20241497,2024,NIT,CIVIL,Male,5.33,1.0,3,0,Beginner,Good,Yes,Not Placed,NA,,NA
+BT20241498,2024,Deemed University,ECE,Male,7.03,2.0,0,0,Intermediate,Good,No,Placed,Service,5.97,QA Engineer
+BT20231499,2023,Deemed University,AIML,Male,5.85,1.0,0,0,Intermediate,Average,Yes,Placed,Service,9.23,Data Analyst
+BT20251500,2025,Private Engineering College,CSE,Male,6.18,1.0,2,1,Intermediate,Average,Yes,Placed,Service,7.92,Data Analyst
+BT20210548,2021,Deemed University,MECH,Male,6.78,1.0,0,0,Intermediate,Average,No,Placed,Service,5.51,Core Engineer
+BT20230985,2023,Private Engineering College,AIML,Male,7.29,0.0,4,0,Advanced,Poor,No,Placed,Startup,11.39,DevOps Engineer
+BT20230713,2023,NIT,IT,Male,6.63,0.0,2,1,Advanced,Good,Yes,Placed,Startup,9.15,QA Engineer
+BT20250639,2025,Private Engineering College,CIVIL,Male,7.35,2.0,3,0,Beginner,Average,Yes,Placed,Core,6.67,Core Engineer
+BT20210472,2021,Private Engineering College,MECH,Male,6.6,0.0,5,0,Intermediate,Average,No,Not Placed,NA,,NA
+BT20211150,2021,Private Engineering College,EEE,Male,7.62,1.0,3,0,Advanced,Average,Yes,Placed,Service,3.68,Embedded Engineer
+BT20210393,2021,NIT,EEE,Male,5.09,1.0,5,0,Beginner,Average,No,Not Placed,NA,,NA
+BT20211159,2021,Deemed University,CSE,Male,6.45,2.0,1,2,Beginner,Good,Yes,Placed,Service,7.56,Data Analyst
